@@ -1,0 +1,8 @@
+input_data:
+  file: "../data/raw/raw_data_file.csv"
+
+cleaned_data:
+  file: "../data/cleaned/cleaned_data_file.csv"
+
+merged_data:
+  folder: "../data/merged/merged_data_file.csv"

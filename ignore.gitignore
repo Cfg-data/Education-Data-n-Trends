@@ -1,0 +1,54 @@
+# Virtual environment
+.venv/
+env/
+
+# Environment variable files
+.env
+notebooks/.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE/editor config files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# macOS file system metadata
+.DS_Store
+notebooks/.DS_Store
+
+# Database files
+*.db
+*.sqlite3
+
+# Distribution and build files
+dist/
+build/
+*.egg-info/
+
+# Test output
+.coverage
+.hypothesis/
+.tox/
+.nox/
+
+# Miscellaneous files
+*.bak
+*.tmp
+Thumbs.db
+
+# Notebooks directories
+working_notebooks/.ipynb_checkpoints/
+usable_notebooks/.ipynb_checkpoints/
+app_files/.ipynb_checkpoints/
