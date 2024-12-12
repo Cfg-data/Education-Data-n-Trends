@@ -1,4 +1,17 @@
-# Project Overview
+# Educational Data Analysis Project
+
+## Navigation
+
+- [Project Overview](#project-overview)
+- [Collected Datasets](#collected-datasets)
+- [How to Use](#how-to-use)
+- [Project Purpose](#project-purpose)
+- [License](#license)
+- [Folder Structure](#folder-structure)
+
+---
+
+## Project Overview
 
 This project involves analyzing educational data collected from the United Nations Data (UNDATA). The data covers various aspects of education, including gender ratios, public expenditure, access to computers, and teaching staff in different regions and countries. The datasets provided are from the *Statistical Yearbook* and are crucial for understanding trends and disparities in global education systems.
 
@@ -35,3 +48,15 @@ The purpose of this project is to understand key education indicators globally, 
 ## License
 
 This project is based on publicly available data from UNDATA. Please refer to the [UN Data Usage Policy](https://data.un.org/Usage.aspx) for licensing and attribution information.
+
+## Folder Structure
+
+The project is organized into the following folders:
+
+- **`working_notebooks`**: Notebooks that contain work in progress and are not organized.
+- **`usable_notebooks`**: Organized notebooks that present findings in an organized manner.
+- **`data`**: Collects the data used for the project in three separate folders.
+- **`mysql_scripts`**: Collects MySQL scripts and tables created for the project directly in MySQL Workbench.
+- **`app_files`**: Contains all the files that pertain to the Streamlit app written for the project.
+- **`tableau`**: Tableau visualizations created for the project in PDF form for ease of reading.
+- **`slides`**: Presentation PDF for ease of view.
