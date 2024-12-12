@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Collected Datasets](#collected-datasets)
-- [How to Use](#how-to-use)
+- [Project progress](#project-progress)
 - [Project Purpose](#project-purpose)
 - [License](#license)
 - [Folder Structure](#folder-structure)
