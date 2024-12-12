@@ -35,17 +35,11 @@ The following datasets have been collected from UNDATA:
    - Dataset ID: SYB67_309_202411
    - Description: This dataset provides a comprehensive overview of various education-related statistics, such as enrollment rates, graduation rates, and literacy rates.
 
-## Project progress
+## How to Use
 
-handling data:
-
-1. changing column names
-2. dropping row with index 0 (contained all the column names)
-3. look for null values
-4. describe data by Region Code and Value
-5. get all unique values
-6. fill null values with mode in Footnotes column
-
+1. **Download the datasets**: Click on the provided links above to download the CSV files.
+2. **Analyze the data**: The datasets can be analyzed using tools like Python (with libraries such as Pandas and Matplotlib) or Excel.
+3. **Visualize trends**: Generate visualizations (e.g., bar charts, line graphs) to examine global trends in education.
 
 ## Project Purpose
 
