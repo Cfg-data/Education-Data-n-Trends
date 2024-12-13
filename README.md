@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Collected Datasets](#collected-datasets)
-- [Project progress](#project-progress)
+- [How to Use](#how-to-use)
 - [Project Purpose](#project-purpose)
 - [License](#license)
 - [Folder Structure](#folder-structure)
@@ -35,21 +35,33 @@ The following datasets have been collected from UNDATA:
    - Dataset ID: SYB67_309_202411
    - Description: This dataset provides a comprehensive overview of various education-related statistics, such as enrollment rates, graduation rates, and literacy rates.
 
-## Project progress
+Additional datasets:
 
-handling data:
+- **[Pre-Primary Education (ISCED 02) Enrolment](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aE_0)**
+- **[Primary Education (ISCED 1) Enrolment](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aE_1)**
+- **[Lower Secondary Education Enrolment in All Programmes](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aE_2)**
+- **[Upper Secondary Education Enrolment in All Programmes](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aE_3)**
+- **[Total Secondary Education Enrolment in All Programmes](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aE_23)**
+- **[Post-Secondary Non-Tertiary Education Enrolment](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aE_4)**
+- **[Enrolment in Tertiary Education (ISCED 5, 6, 7, and 8)](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aE_56)**
+- **[Percentage of Enrolment in Pre-Primary Education in Private Institutions](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aPRP_0)**
+- **[Private Enrolment as Percentage of Total Enrolment in Primary Education](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aPRP_1)**
+- **[Percentage of Enrolment in Secondary Education in Private Institutions](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aPRP_23)**
+- **[Percentage of Enrolment in Tertiary Education in Private Institutions](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aPRP_56)**
 
-1. changing column names
-2. dropping row with index 0 (contained all the column names)
-3. look for null values
-4. describe data by Region Code and Value
-5. get all unique values
-6. fill null values with mode in Footnotes column
+### Project Progress
+**Handling Data:**
+1. Changing column names
+2. Dropping rows with index 0 (which contained all the column names)
+3. Looking for null values
+4. Describing data by Region Code and Value
+5. Getting all unique values
+6. Filling null values with mode in the "Footnotes" column
 
-
-## Project Purpose
-
-The purpose of this project is to understand key education indicators globally, including gender equity in education, public spending trends, and access to educational resources like computers. The analysis aims to provide insights into the disparities and improvements in education worldwide.
+**MySQL Progress:**
+- Database creation in Python connector
+- Proceeding with each .csv file
+- Creating a table for area 1 - total values
 
 ## License
 
@@ -66,3 +78,4 @@ The project is organized into the following folders:
 - **`app_files`**: Contains all the files that pertain to the Streamlit app written for the project.
 - **`tableau`**: Tableau visualizations created for the project in PDF form for ease of reading.
 - **`slides`**: Presentation PDF for ease of view.
+
