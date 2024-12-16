@@ -1,4 +1,4 @@
-## Educational Data Analysis Project
+# Educational Data Analysis Project
 
 ## Navigation
 
@@ -52,9 +52,13 @@ The following datasets have been collected from UNDATA:
 4. Describing data by Region Code and Value
 5. Getting all unique values
 6. Filling null values with mode in the "Footnotes" column
+7. Gathering further data
+8. Changing and normalizing format
+9. Filtering dataset for the regions needed
 
 ### MySQL Progress:
-- Database creation in Python connector
+- Database creation in Python connector attempted but unsuccessful
+- Proceeded to create database in mysql workbench directly
 - Proceeding with each .csv file
 - Creating a table for area 1 - total values
 
