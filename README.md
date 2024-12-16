@@ -8,6 +8,7 @@
 - [Project Purpose](#project-purpose)
 - [License](#license)
 - [Folder Structure](#folder-structure)
+- [Streamlit App](#streamlit-app)
 
 ---
 
@@ -85,3 +86,19 @@ The project is organized into the following folders:
 - **`app_files`**: Contains all the files that pertain to the Streamlit app written for the project.
 - **`tableau`**: Tableau visualizations created for the project in PDF form for ease of reading.
 - **`slides`**: Presentation PDF for ease of view.
+
+## Streamlit App
+
+The Streamlit app is structured as follows:
+
+- **`app_files/`**: Main folder containing app-related files.
+  - **`app.py`**: Main script to run the Streamlit app.
+  - **`data_loader.py`**: Handles data loading and processing.
+  - **`pages/`**: Contains individual pages of the app.
+    - **`opener.py`**: Page that confirms data has been loaded and presents project details.
+    - **`introduction.py`**: Provides project introduction and overview.
+    - **`ml_results.py`**: Displays machine learning results and findings.
+  - **`utils_/`**: Folder for utility functions.
+    - **`display.py`**: Helper functions for displaying data.
+
+This app allows users to explore different aspects of the education data, run machine learning models, and analyze trends in global education. Navigation buttons within the app enable users to seamlessly switch between sections.
