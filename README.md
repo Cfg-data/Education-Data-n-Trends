@@ -1,4 +1,4 @@
-# Educational Data Analysis Project
+## Educational Data Analysis Project
 
 ## Navigation
 
@@ -67,8 +67,8 @@ This project is based on publicly available data from UNDATA. Please refer to th
 The project is organized into the following folders:
 
 - **`working_notebooks`**: Notebooks that contain work in progress and are not organized.
+  - **`unused_notebooks`**
 - **`usable_notebooks`**: Organized notebooks that present findings in an organized manner.
- - `unused_notebooks`
 - **`data`**: Collects the data used for the project in three separate folders:
   - **`raw`**:
     - `unused_data`
