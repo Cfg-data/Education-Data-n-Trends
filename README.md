@@ -61,6 +61,8 @@ The following datasets have been collected from UNDATA:
 - Database creation in Python connector attempted but unsuccessful
 - Proceeded to create database in mysql workbench directly
 - Proceeding with each .csv file
+- Creating a table for countries and for years separately, to relate all tables to each other
+- Aggregate data from existing tables into a full table with only the chosen list of countries
 - Creating a table for area 1 - total values
 
 ## License

@@ -40,3 +40,28 @@ CREATE TABLE teaching_staff_data (
 );
 
 SELECT * FROM teaching_staff_data LIMIT 10;
+
+CREATE TABLE countries (
+    region_country_area INT PRIMARY KEY,  -- Unique identifier for the region or area
+    country_area_name VARCHAR(255) UNIQUE  -- Unique country or area name
+);
+
+ALTER TABLE countries
+    ADD COLUMN year INT;
+    
+SELECT * FROM countries LIMIT 10;
+
+-- Remove the 'year' column from the countries table
+ALTER TABLE countries
+    DROP COLUMN year;
+
+SELECT * FROM countries LIMIT 10;
+
+-- Create the year table
+CREATE TABLE year (
+    year INT PRIMARY KEY  -- Only one column for the year
+);
+
+TRUNCATE TABLE countries;
+
+SELECT * FROM year LIMIT 10;
