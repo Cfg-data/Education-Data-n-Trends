@@ -1,22 +1,5 @@
 ## EDA Results and Descriptive Analysis
 
-# Navigation
-
-## [Countries and Regions](#countries-and-regions)
-### [Data Overview](#data-overview)
-- [All Staff Compensation as % of Total Expenditure in Public Institutions](#all-staff-compensation-as-%-of-total-expenditure-in-public-institutions)
-- [Basic Access to Computers by Level of Education](#basic-access-to-computers-by-level-of-education)
-
-### [Analysis Considering the Country Information](#analysis-considering-the-country-information)
-- [Plots and Interpretations](#plots-and-interpretations)
-  - [Trend Analysis Over Time](#trend-analysis-over-time)
-
-### [Trend of Gross Enrollment Ratios (2005-2022)](#trend-of-gross-enrollment-ratios-2005-2022)
-- [Key Observations](#key-observations)
-
-### [Public Expenditure Comparison Across Regions/Countries](#public-expenditure-comparison-across-regionscountries)
-- [Observations & Comparison](#observations-comparison)
-
 ## Countries and Regions
 
 | Country Code | Country Name             |
