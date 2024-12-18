@@ -1,4 +1,40 @@
 Region/Country/Area,Country/Area name,Year,Variables,Data values
+1,"Total, all countries or areas",1995,Ratio of girls to boys in primary education,0.91
+1,"Total, all countries or areas",1995,Ratio of girls to boys in lower secondary education,0.9
+1,"Total, all countries or areas",1995,Ratio of girls to boys in upper secondary education,0.83
+9,Oceania,1995,Ratio of girls to boys in primary education,0.99
+9,Oceania,1995,Ratio of girls to boys in lower secondary education,1.02
+9,Oceania,1995,Ratio of girls to boys in upper secondary education,1
+15,Northern Africa,1995,Ratio of girls to boys in primary education,0.87
+15,Northern Africa,1995,Ratio of girls to boys in lower secondary education,0.84
+15,Northern Africa,1995,Ratio of girls to boys in upper secondary education,0.93
+21,Northern America,1995,Ratio of girls to boys in primary education,0.99
+21,Northern America,1995,Ratio of girls to boys in lower secondary education,0.99
+21,Northern America,1995,Ratio of girls to boys in upper secondary education,1.05
+30,Eastern Asia,1995,Ratio of girls to boys in primary education,0.97
+30,Eastern Asia,1995,Ratio of girls to boys in lower secondary education,0.89
+30,Eastern Asia,1995,Ratio of girls to boys in upper secondary education,0.88
+34,Southern Asia,1995,Ratio of girls to boys in primary education,0.8
+34,Southern Asia,1995,Ratio of girls to boys in lower secondary education,0.77
+34,Southern Asia,1995,Ratio of girls to boys in upper secondary education,0.49
+35,South-eastern Asia,1995,Ratio of girls to boys in primary education,0.98
+35,South-eastern Asia,1995,Ratio of girls to boys in lower secondary education,0.93
+35,South-eastern Asia,1995,Ratio of girls to boys in upper secondary education,0.94
+62,South-central Asia,1995,Ratio of girls to boys in primary education,0.81
+62,South-central Asia,1995,Ratio of girls to boys in lower secondary education,0.78
+62,South-central Asia,1995,Ratio of girls to boys in upper secondary education,0.51
+143,Central Asia,1995,Ratio of girls to boys in primary education,0.96
+145,Western Asia,1995,Ratio of girls to boys in primary education,0.88
+145,Western Asia,1995,Ratio of girls to boys in lower secondary education,0.8
+145,Western Asia,1995,Ratio of girls to boys in upper secondary education,0.7
+150,Europe,1995,Ratio of girls to boys in primary education,0.99
+150,Europe,1995,Ratio of girls to boys in lower secondary education,1
+150,Europe,1995,Ratio of girls to boys in upper secondary education,1.03
+199,LDC§,1995,Ratio of girls to boys in primary education,0.81
+202,Sub-Saharan Africa,1995,Ratio of girls to boys in primary education,0.84
+419,Latin America & the Caribbean,1995,Ratio of girls to boys in primary education,0.97
+432,LLDCs,1995,Ratio of girls to boys in primary education,0.82
+722,SIDS,1995,Ratio of girls to boys in primary education,0.96
 1,"Total, all countries or areas",2005,Gross enrollment ratio - Primary (male),104.5
 1,"Total, all countries or areas",2005,Gross enrollment ratio - Primary (female),99.8
 1,"Total, all countries or areas",2005,Students enrolled in lower secondary education (thousands),"311,138"
@@ -7,75 +43,12 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 1,"Total, all countries or areas",2005,Students enrolled in upper secondary education (thousands),"198,301"
 1,"Total, all countries or areas",2005,Gross enrollment ratio - Upper secondary level (male),51.2
 1,"Total, all countries or areas",2005,Gross enrollment ratio - Upper secondary level (female),48.3
-1,"Total, all countries or areas",2010,Students enrolled in primary education (thousands),"696,905"
-1,"Total, all countries or areas",2010,Gross enrollment ratio - Primary (male),103.7
-1,"Total, all countries or areas",2010,Gross enrollment ratio - Primary (female),100.9
-1,"Total, all countries or areas",2010,Students enrolled in lower secondary education (thousands),"315,870"
-1,"Total, all countries or areas",2010,Gross enrollment ratio - Lower secondary level (male),83.8
-1,"Total, all countries or areas",2010,Gross enrollment ratio - Lower secondary level (female),81.4
-1,"Total, all countries or areas",2010,Students enrolled in upper secondary education (thousands),"229,775"
-1,"Total, all countries or areas",2010,Gross enrollment ratio - Upper secondary level (male),60.2
-1,"Total, all countries or areas",2010,Gross enrollment ratio - Upper secondary level (female),57.7
-1,"Total, all countries or areas",2015,Students enrolled in primary education (thousands),"719,788"
-1,"Total, all countries or areas",2015,Gross enrollment ratio - Primary (male),101.5
-1,"Total, all countries or areas",2015,Gross enrollment ratio - Primary (female),101.1
-1,"Total, all countries or areas",2015,Students enrolled in lower secondary education (thousands),"325,454"
-1,"Total, all countries or areas",2015,Gross enrollment ratio - Lower secondary level (male),83.8
-1,"Total, all countries or areas",2015,Gross enrollment ratio - Lower secondary level (female),83.3
-1,"Total, all countries or areas",2015,Students enrolled in upper secondary education (thousands),"257,435"
-1,"Total, all countries or areas",2015,Gross enrollment ratio - Upper secondary level (male),67.1
-1,"Total, all countries or areas",2015,Gross enrollment ratio - Upper secondary level (female),65.6
-1,"Total, all countries or areas",2022,Students enrolled in primary education (thousands),"770,830"
-1,"Total, all countries or areas",2022,Gross enrollment ratio - Primary (male),102.3
-1,"Total, all countries or areas",2022,Gross enrollment ratio - Primary (female),100.5
-1,"Total, all countries or areas",2022,Students enrolled in lower secondary education (thousands),"356,335"
-1,"Total, all countries or areas",2022,Gross enrollment ratio - Lower secondary level (male),84.7
-1,"Total, all countries or areas",2022,Gross enrollment ratio - Lower secondary level (female),84
-1,"Total, all countries or areas",2022,Students enrolled in upper secondary education (thousands),"283,279"
-1,"Total, all countries or areas",2022,Gross enrollment ratio - Upper secondary level (male),70.2
-1,"Total, all countries or areas",2022,Gross enrollment ratio - Upper secondary level (female),69.2
 1,"Total, all countries or areas",2005,Teachers at primary level,"26,893,023"
 1,"Total, all countries or areas",2005,Teachers at lower secondary level,"16,760,100"
 1,"Total, all countries or areas",2005,Teachers at upper secondary level,"11,883,292"
-1,"Total, all countries or areas",2010,Teachers at primary level,"28,676,377"
-1,"Total, all countries or areas",2010,Teachers at lower secondary level,"17,877,582"
-1,"Total, all countries or areas",2010,Teachers at upper secondary level,"14,335,596"
-1,"Total, all countries or areas",2015,Teachers at primary level,"31,266,360"
-1,"Total, all countries or areas",2015,Teachers with minimum required qualifications at primary level,85.9
-1,"Total, all countries or areas",2015,Teachers at lower secondary level,"18,751,487"
-1,"Total, all countries or areas",2015,Teachers with minimum required qualifications at lower secondary level,86
-1,"Total, all countries or areas",2015,Teachers at upper secondary level,"14,957,666"
-1,"Total, all countries or areas",2021,Teachers at primary level,"33,614,436"
-1,"Total, all countries or areas",2021,Teachers with minimum required qualifications at primary level,86.6
-1,"Total, all countries or areas",2021,Teachers at lower secondary level,"21,736,452"
-1,"Total, all countries or areas",2021,Teachers with minimum required qualifications at lower secondary level,84.3
-1,"Total, all countries or areas",2021,Teachers at upper secondary level,"17,196,924"
-1,"Total, all countries or areas",2021,Teachers with minimum required qualifications at upper secondary level,86.8
-1,"Total, all countries or areas",2022,Teachers at primary level,"33,749,089"
-1,"Total, all countries or areas",2022,Teachers with minimum required qualifications at primary level,85.7
-1,"Total, all countries or areas",2022,Teachers at lower secondary level,"21,900,955"
-1,"Total, all countries or areas",2022,Teachers at upper secondary level,"17,711,273"
-1,"Total, all countries or areas",1995,Ratio of girls to boys in primary education,0.91
 1,"Total, all countries or areas",2005,Ratio of girls to boys in primary education,0.95
-1,"Total, all countries or areas",2010,Ratio of girls to boys in primary education,0.97
-1,"Total, all countries or areas",2015,Ratio of girls to boys in primary education,1
-1,"Total, all countries or areas",2020,Ratio of girls to boys in primary education,0.98
-1,"Total, all countries or areas",2021,Ratio of girls to boys in primary education,0.98
-1,"Total, all countries or areas",2022,Ratio of girls to boys in primary education,0.98
-1,"Total, all countries or areas",1995,Ratio of girls to boys in lower secondary education,0.9
 1,"Total, all countries or areas",2005,Ratio of girls to boys in lower secondary education,0.95
-1,"Total, all countries or areas",2010,Ratio of girls to boys in lower secondary education,0.97
-1,"Total, all countries or areas",2015,Ratio of girls to boys in lower secondary education,0.99
-1,"Total, all countries or areas",2020,Ratio of girls to boys in lower secondary education,0.99
-1,"Total, all countries or areas",2021,Ratio of girls to boys in lower secondary education,0.99
-1,"Total, all countries or areas",2022,Ratio of girls to boys in lower secondary education,0.99
-1,"Total, all countries or areas",1995,Ratio of girls to boys in upper secondary education,0.83
 1,"Total, all countries or areas",2005,Ratio of girls to boys in upper secondary education,0.94
-1,"Total, all countries or areas",2010,Ratio of girls to boys in upper secondary education,0.96
-1,"Total, all countries or areas",2015,Ratio of girls to boys in upper secondary education,0.98
-1,"Total, all countries or areas",2020,Ratio of girls to boys in upper secondary education,0.98
-1,"Total, all countries or areas",2021,Ratio of girls to boys in upper secondary education,0.97
-1,"Total, all countries or areas",2022,Ratio of girls to boys in upper secondary education,0.98
 9,Oceania,2005,Students enrolled in primary education (thousands),"3,143"
 9,Oceania,2005,Gross enrollment ratio - Primary (male),91.1
 9,Oceania,2005,Gross enrollment ratio - Primary (female),89.5
@@ -85,58 +58,10 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 9,Oceania,2005,Students enrolled in upper secondary education (thousands),"1,674"
 9,Oceania,2005,Gross enrollment ratio - Upper secondary level (male),117.9
 9,Oceania,2005,Gross enrollment ratio - Upper secondary level (female),113
-9,Oceania,2010,Students enrolled in primary education (thousands),"3,551"
-9,Oceania,2010,Gross enrollment ratio - Primary (male),98.1
-9,Oceania,2010,Gross enrollment ratio - Primary (female),96.1
-9,Oceania,2010,Students enrolled in lower secondary education (thousands),"1,980"
-9,Oceania,2010,Gross enrollment ratio - Lower secondary level (male),109.2
-9,Oceania,2010,Gross enrollment ratio - Lower secondary level (female),103.2
-9,Oceania,2010,Students enrolled in upper secondary education (thousands),"1,777"
-9,Oceania,2010,Gross enrollment ratio - Upper secondary level (male),117.3
-9,Oceania,2010,Gross enrollment ratio - Upper secondary level (female),109
-9,Oceania,2015,Students enrolled in primary education (thousands),"4,102"
-9,Oceania,2015,Gross enrollment ratio - Primary (male),103.1
-9,Oceania,2015,Gross enrollment ratio - Primary (female),100.9
-9,Oceania,2015,Students enrolled in lower secondary education (thousands),"2,040"
-9,Oceania,2015,Gross enrollment ratio - Lower secondary level (male),111.9
-9,Oceania,2015,Gross enrollment ratio - Lower secondary level (female),101.4
-9,Oceania,2015,Students enrolled in upper secondary education (thousands),"1,844"
-9,Oceania,2015,Gross enrollment ratio - Upper secondary level (male),117.8
-9,Oceania,2015,Gross enrollment ratio - Upper secondary level (female),106
-9,Oceania,2022,Students enrolled in primary education (thousands),"4,514"
-9,Oceania,2022,Gross enrollment ratio - Primary (male),104.2
-9,Oceania,2022,Gross enrollment ratio - Primary (female),102.3
-9,Oceania,2022,Students enrolled in lower secondary education (thousands),"2,353"
-9,Oceania,2022,Gross enrollment ratio - Lower secondary level (male),92.2
-9,Oceania,2022,Gross enrollment ratio - Lower secondary level (female),88
-9,Oceania,2022,Students enrolled in upper secondary education (thousands),"1,611"
-9,Oceania,2022,Gross enrollment ratio - Upper secondary level (male),117
-9,Oceania,2022,Gross enrollment ratio - Upper secondary level (female),115.5
 9,Oceania,2005,Teachers at primary level,"158,795"
-9,Oceania,2010,Teachers at primary level,"174,934"
-9,Oceania,2015,Teachers at primary level,"194,451"
-9,Oceania,2017,Teachers at primary level,"199,304"
-9,Oceania,1995,Ratio of girls to boys in primary education,0.99
 9,Oceania,2005,Ratio of girls to boys in primary education,0.98
-9,Oceania,2010,Ratio of girls to boys in primary education,0.98
-9,Oceania,2015,Ratio of girls to boys in primary education,0.98
-9,Oceania,2020,Ratio of girls to boys in primary education,0.98
-9,Oceania,2021,Ratio of girls to boys in primary education,0.98
-9,Oceania,2022,Ratio of girls to boys in primary education,0.98
-9,Oceania,1995,Ratio of girls to boys in lower secondary education,1.02
 9,Oceania,2005,Ratio of girls to boys in lower secondary education,0.98
-9,Oceania,2010,Ratio of girls to boys in lower secondary education,0.95
-9,Oceania,2015,Ratio of girls to boys in lower secondary education,0.91
-9,Oceania,2020,Ratio of girls to boys in lower secondary education,0.95
-9,Oceania,2021,Ratio of girls to boys in lower secondary education,0.96
-9,Oceania,2022,Ratio of girls to boys in lower secondary education,0.95
-9,Oceania,1995,Ratio of girls to boys in upper secondary education,1
 9,Oceania,2005,Ratio of girls to boys in upper secondary education,0.96
-9,Oceania,2010,Ratio of girls to boys in upper secondary education,0.93
-9,Oceania,2015,Ratio of girls to boys in upper secondary education,0.9
-9,Oceania,2020,Ratio of girls to boys in upper secondary education,1
-9,Oceania,2021,Ratio of girls to boys in upper secondary education,0.99
-9,Oceania,2022,Ratio of girls to boys in upper secondary education,0.99
 15,Northern Africa,2005,Students enrolled in primary education (thousands),"23,023"
 15,Northern Africa,2005,Gross enrollment ratio - Primary (male),95.7
 15,Northern Africa,2005,Gross enrollment ratio - Primary (female),89.3
@@ -146,77 +71,13 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 15,Northern Africa,2005,Students enrolled in upper secondary education (thousands),"6,858"
 15,Northern Africa,2005,Gross enrollment ratio - Upper secondary level (male),51.1
 15,Northern Africa,2005,Gross enrollment ratio - Upper secondary level (female),55
-15,Northern Africa,2010,Students enrolled in primary education (thousands),"23,635"
-15,Northern Africa,2010,Gross enrollment ratio - Primary (male),98
-15,Northern Africa,2010,Gross enrollment ratio - Primary (female),92.7
-15,Northern Africa,2010,Students enrolled in lower secondary education (thousands),"11,130"
-15,Northern Africa,2010,Gross enrollment ratio - Lower secondary level (male),95
-15,Northern Africa,2010,Gross enrollment ratio - Lower secondary level (female),88.7
-15,Northern Africa,2010,Students enrolled in upper secondary education (thousands),"6,275"
-15,Northern Africa,2010,Gross enrollment ratio - Upper secondary level (male),47.4
-15,Northern Africa,2010,Gross enrollment ratio - Upper secondary level (female),51.1
-15,Northern Africa,2015,Students enrolled in primary education (thousands),"25,874"
-15,Northern Africa,2015,Gross enrollment ratio - Primary (male),97.3
-15,Northern Africa,2015,Gross enrollment ratio - Primary (female),93.4
-15,Northern Africa,2015,Students enrolled in lower secondary education (thousands),"11,666"
-15,Northern Africa,2015,Gross enrollment ratio - Lower secondary level (male),96.5
-15,Northern Africa,2015,Gross enrollment ratio - Lower secondary level (female),91.6
-15,Northern Africa,2015,Students enrolled in upper secondary education (thousands),"7,532"
-15,Northern Africa,2015,Gross enrollment ratio - Upper secondary level (male),58.5
-15,Northern Africa,2015,Gross enrollment ratio - Upper secondary level (female),62
-15,Northern Africa,2022,Students enrolled in primary education (thousands),"31,383"
-15,Northern Africa,2022,Gross enrollment ratio - Primary (male),95.6
-15,Northern Africa,2022,Gross enrollment ratio - Primary (female),93.5
-15,Northern Africa,2022,Students enrolled in lower secondary education (thousands),"14,950"
-15,Northern Africa,2022,Gross enrollment ratio - Lower secondary level (male),97.5
-15,Northern Africa,2022,Gross enrollment ratio - Lower secondary level (female),92.9
-15,Northern Africa,2022,Students enrolled in upper secondary education (thousands),"9,179"
-15,Northern Africa,2022,Gross enrollment ratio - Upper secondary level (male),64.6
-15,Northern Africa,2022,Gross enrollment ratio - Upper secondary level (female),69.6
 15,Northern Africa,2005,Teachers at primary level,"944,313"
 15,Northern Africa,2005,Teachers with minimum required qualifications at primary level,97.4
 15,Northern Africa,2005,Teachers at lower secondary level,"507,300"
 15,Northern Africa,2005,Teachers at upper secondary level,"486,413"
-15,Northern Africa,2007,Teachers at primary level,"952,074"
-15,Northern Africa,2007,Teachers with minimum required qualifications at primary level,97.1
-15,Northern Africa,2007,Teachers at lower secondary level,"548,484"
-15,Northern Africa,2007,Teachers at upper secondary level,"495,076"
-15,Northern Africa,2010,Teachers at primary level,"973,788"
-15,Northern Africa,2010,Teachers at lower secondary level,"622,844"
-15,Northern Africa,2010,Teachers at upper secondary level,"542,647"
-15,Northern Africa,2015,Teachers at primary level,"1,148,562"
-15,Northern Africa,2015,Teachers with minimum required qualifications at primary level,88.3
-15,Northern Africa,2015,Teachers at lower secondary level,"645,653"
-15,Northern Africa,2015,Teachers with minimum required qualifications at lower secondary level,83.8
-15,Northern Africa,2015,Teachers at upper secondary level,"587,507"
-15,Northern Africa,2015,Teachers with minimum required qualifications at upper secondary level,78.8
-15,Northern Africa,2022,Teachers at primary level,"1,231,142"
-15,Northern Africa,2022,Teachers with minimum required qualifications at primary level,96.2
-15,Northern Africa,2022,Teachers at lower secondary level,"724,059"
-15,Northern Africa,2022,Teachers with minimum required qualifications at lower secondary level,94.6
-15,Northern Africa,2022,Teachers at upper secondary level,"585,528"
-15,Northern Africa,2022,Teachers with minimum required qualifications at upper secondary level,95.2
-15,Northern Africa,1995,Ratio of girls to boys in primary education,0.87
 15,Northern Africa,2005,Ratio of girls to boys in primary education,0.93
-15,Northern Africa,2010,Ratio of girls to boys in primary education,0.95
-15,Northern Africa,2015,Ratio of girls to boys in primary education,0.96
-15,Northern Africa,2020,Ratio of girls to boys in primary education,0.97
-15,Northern Africa,2021,Ratio of girls to boys in primary education,0.98
-15,Northern Africa,2022,Ratio of girls to boys in primary education,0.98
-15,Northern Africa,1995,Ratio of girls to boys in lower secondary education,0.84
 15,Northern Africa,2005,Ratio of girls to boys in lower secondary education,0.94
-15,Northern Africa,2010,Ratio of girls to boys in lower secondary education,0.93
-15,Northern Africa,2015,Ratio of girls to boys in lower secondary education,0.95
-15,Northern Africa,2020,Ratio of girls to boys in lower secondary education,0.95
-15,Northern Africa,2021,Ratio of girls to boys in lower secondary education,0.95
-15,Northern Africa,2022,Ratio of girls to boys in lower secondary education,0.95
-15,Northern Africa,1995,Ratio of girls to boys in upper secondary education,0.93
 15,Northern Africa,2005,Ratio of girls to boys in upper secondary education,1.07
-15,Northern Africa,2010,Ratio of girls to boys in upper secondary education,1.07
-15,Northern Africa,2015,Ratio of girls to boys in upper secondary education,1.06
-15,Northern Africa,2020,Ratio of girls to boys in upper secondary education,1.07
-15,Northern Africa,2021,Ratio of girls to boys in upper secondary education,1.07
-15,Northern Africa,2022,Ratio of girls to boys in upper secondary education,1.07
 21,Northern America,2005,Students enrolled in primary education (thousands),"26,759"
 21,Northern America,2005,Gross enrollment ratio - Primary (male),102.1
 21,Northern America,2005,Gross enrollment ratio - Primary (female),101
@@ -226,72 +87,12 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 21,Northern America,2005,Students enrolled in upper secondary education (thousands),"13,028"
 21,Northern America,2005,Gross enrollment ratio - Upper secondary level (male),88.6
 21,Northern America,2005,Gross enrollment ratio - Upper secondary level (female),92.7
-21,Northern America,2010,Students enrolled in primary education (thousands),"26,573"
-21,Northern America,2010,Gross enrollment ratio - Primary (male),100.7
-21,Northern America,2010,Gross enrollment ratio - Primary (female),99.8
-21,Northern America,2010,Students enrolled in lower secondary education (thousands),"13,268"
-21,Northern America,2010,Gross enrollment ratio - Lower secondary level (male),100.8
-21,Northern America,2010,Gross enrollment ratio - Lower secondary level (female),99.3
-21,Northern America,2010,Students enrolled in upper secondary education (thousands),"13,774"
-21,Northern America,2010,Gross enrollment ratio - Upper secondary level (male),91.8
-21,Northern America,2010,Gross enrollment ratio - Upper secondary level (female),94.5
-21,Northern America,2015,Students enrolled in primary education (thousands),"27,094"
-21,Northern America,2015,Gross enrollment ratio - Primary (male),100.3
-21,Northern America,2015,Gross enrollment ratio - Primary (female),100.2
-21,Northern America,2015,Students enrolled in lower secondary education (thousands),"13,702"
-21,Northern America,2015,Gross enrollment ratio - Lower secondary level (male),100.5
-21,Northern America,2015,Gross enrollment ratio - Lower secondary level (female),100.7
-21,Northern America,2015,Students enrolled in upper secondary education (thousands),"13,361"
-21,Northern America,2015,Gross enrollment ratio - Upper secondary level (male),96.3
-21,Northern America,2015,Gross enrollment ratio - Upper secondary level (female),98.1
-21,Northern America,2022,Students enrolled in primary education (thousands),"26,774"
-21,Northern America,2022,Gross enrollment ratio - Primary (male),98.3
-21,Northern America,2022,Gross enrollment ratio - Primary (female),98
-21,Northern America,2022,Students enrolled in lower secondary education (thousands),"14,993"
-21,Northern America,2022,Gross enrollment ratio - Lower secondary level (male),103
-21,Northern America,2022,Gross enrollment ratio - Lower secondary level (female),103.3
-21,Northern America,2022,Students enrolled in upper secondary education (thousands),"14,635"
-21,Northern America,2022,Gross enrollment ratio - Upper secondary level (male),100
-21,Northern America,2022,Gross enrollment ratio - Upper secondary level (female),101.2
 21,Northern America,2005,Teachers at primary level,"1,781,228"
 21,Northern America,2005,Teachers at lower secondary level,"889,242"
 21,Northern America,2005,Teachers at upper secondary level,"897,377"
-21,Northern America,2010,Teachers at primary level,"1,830,439"
-21,Northern America,2010,Teachers at lower secondary level,"862,886"
-21,Northern America,2010,Teachers at upper secondary level,"933,482"
-21,Northern America,2015,Teachers at primary level,"1,925,142"
-21,Northern America,2015,Teachers with minimum required qualifications at primary level,99.1
-21,Northern America,2015,Teachers at lower secondary level,"890,500"
-21,Northern America,2015,Teachers with minimum required qualifications at lower secondary level,99.3
-21,Northern America,2015,Teachers at upper secondary level,"912,037"
-21,Northern America,2015,Teachers with minimum required qualifications at upper secondary level,98.4
-21,Northern America,2022,Teachers at primary level,"2,044,659"
-21,Northern America,2022,Teachers with minimum required qualifications at primary level,95.4
-21,Northern America,2022,Teachers at lower secondary level,"981,790"
-21,Northern America,2022,Teachers with minimum required qualifications at lower secondary level,94.1
-21,Northern America,2022,Teachers at upper secondary level,"988,386"
-21,Northern America,2022,Teachers with minimum required qualifications at upper secondary level,91.8
-21,Northern America,1995,Ratio of girls to boys in primary education,0.99
 21,Northern America,2005,Ratio of girls to boys in primary education,0.99
-21,Northern America,2010,Ratio of girls to boys in primary education,0.99
-21,Northern America,2015,Ratio of girls to boys in primary education,1
-21,Northern America,2020,Ratio of girls to boys in primary education,0.99
-21,Northern America,2021,Ratio of girls to boys in primary education,0.99
-21,Northern America,2022,Ratio of girls to boys in primary education,1
-21,Northern America,1995,Ratio of girls to boys in lower secondary education,0.99
 21,Northern America,2005,Ratio of girls to boys in lower secondary education,0.98
-21,Northern America,2010,Ratio of girls to boys in lower secondary education,0.98
-21,Northern America,2015,Ratio of girls to boys in lower secondary education,1
-21,Northern America,2020,Ratio of girls to boys in lower secondary education,0.98
-21,Northern America,2021,Ratio of girls to boys in lower secondary education,1
-21,Northern America,2022,Ratio of girls to boys in lower secondary education,1
-21,Northern America,1995,Ratio of girls to boys in upper secondary education,1.05
 21,Northern America,2005,Ratio of girls to boys in upper secondary education,1.04
-21,Northern America,2010,Ratio of girls to boys in upper secondary education,1.03
-21,Northern America,2015,Ratio of girls to boys in upper secondary education,1.02
-21,Northern America,2020,Ratio of girls to boys in upper secondary education,0.98
-21,Northern America,2021,Ratio of girls to boys in upper secondary education,1.01
-21,Northern America,2022,Ratio of girls to boys in upper secondary education,1.01
 30,Eastern Asia,2005,Students enrolled in primary education (thousands),"127,969"
 30,Eastern Asia,2005,Gross enrollment ratio - Primary (male),107
 30,Eastern Asia,2005,Gross enrollment ratio - Primary (female),108.5
@@ -301,66 +102,12 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 30,Eastern Asia,2005,Students enrolled in upper secondary education (thousands),"42,426"
 30,Eastern Asia,2005,Gross enrollment ratio - Upper secondary level (male),51
 30,Eastern Asia,2005,Gross enrollment ratio - Upper secondary level (female),51
-30,Eastern Asia,2010,Students enrolled in primary education (thousands),"113,631"
-30,Eastern Asia,2010,Gross enrollment ratio - Primary (male),104.6
-30,Eastern Asia,2010,Gross enrollment ratio - Primary (female),104.9
-30,Eastern Asia,2010,Students enrolled in lower secondary education (thousands),"61,743"
-30,Eastern Asia,2010,Gross enrollment ratio - Lower secondary level (male),103.8
-30,Eastern Asia,2010,Gross enrollment ratio - Lower secondary level (female),106.7
-30,Eastern Asia,2010,Students enrolled in upper secondary education (thousands),"51,931"
-30,Eastern Asia,2010,Gross enrollment ratio - Upper secondary level (male),80.8
-30,Eastern Asia,2010,Gross enrollment ratio - Upper secondary level (female),80.9
-30,Eastern Asia,2015,Students enrolled in primary education (thousands),"107,559"
-30,Eastern Asia,2015,Gross enrollment ratio - Primary (male),97
-30,Eastern Asia,2015,Gross enrollment ratio - Primary (female),98.1
-30,Eastern Asia,2015,Students enrolled in lower secondary education (thousands),"50,977"
-30,Eastern Asia,2015,Gross enrollment ratio - Lower secondary level (male),92.3
-30,Eastern Asia,2015,Gross enrollment ratio - Lower secondary level (female),94.2
-30,Eastern Asia,2015,Students enrolled in upper secondary education (thousands),"48,634"
-30,Eastern Asia,2015,Gross enrollment ratio - Upper secondary level (male),85
-30,Eastern Asia,2015,Gross enrollment ratio - Upper secondary level (female),90.5
-30,Eastern Asia,2022,Students enrolled in primary education (thousands),"119,271"
-30,Eastern Asia,2022,Gross enrollment ratio - Primary (male),99.5
-30,Eastern Asia,2022,Gross enrollment ratio - Primary (female),100.9
-30,Eastern Asia,2022,Students enrolled in lower secondary education (thousands),"56,332"
-30,Eastern Asia,2022,Gross enrollment ratio - Lower secondary level (male),96.5
-30,Eastern Asia,2022,Gross enrollment ratio - Lower secondary level (female),97.9
-30,Eastern Asia,2022,Students enrolled in upper secondary education (thousands),"49,395"
-30,Eastern Asia,2022,Gross enrollment ratio - Upper secondary level (male),89.3
-30,Eastern Asia,2022,Gross enrollment ratio - Upper secondary level (female),92.1
 30,Eastern Asia,2005,Teachers at primary level,"6,633,349"
 30,Eastern Asia,2005,Teachers at lower secondary level,"4,144,468"
 30,Eastern Asia,2005,Teachers at upper secondary level,"2,512,553"
-30,Eastern Asia,2010,Teachers at primary level,"6,663,567"
-30,Eastern Asia,2010,Teachers at lower secondary level,"4,114,815"
-30,Eastern Asia,2010,Teachers at upper secondary level,"3,315,633"
-30,Eastern Asia,2015,Teachers at primary level,"6,577,011"
-30,Eastern Asia,2015,Teachers at lower secondary level,"4,034,653"
-30,Eastern Asia,2015,Teachers at upper secondary level,"3,246,236"
-30,Eastern Asia,2022,Teachers at primary level,"7,416,904"
-30,Eastern Asia,2022,Teachers at lower secondary level,"4,485,418"
-30,Eastern Asia,2022,Teachers at upper secondary level,"3,596,346"
-30,Eastern Asia,1995,Ratio of girls to boys in primary education,0.97
 30,Eastern Asia,2005,Ratio of girls to boys in primary education,1.01
-30,Eastern Asia,2010,Ratio of girls to boys in primary education,1
-30,Eastern Asia,2015,Ratio of girls to boys in primary education,1.01
-30,Eastern Asia,2020,Ratio of girls to boys in primary education,1.01
-30,Eastern Asia,2021,Ratio of girls to boys in primary education,1.02
-30,Eastern Asia,2022,Ratio of girls to boys in primary education,1.01
-30,Eastern Asia,1995,Ratio of girls to boys in lower secondary education,0.89
 30,Eastern Asia,2005,Ratio of girls to boys in lower secondary education,1
-30,Eastern Asia,2010,Ratio of girls to boys in lower secondary education,1.03
-30,Eastern Asia,2015,Ratio of girls to boys in lower secondary education,1.02
-30,Eastern Asia,2020,Ratio of girls to boys in lower secondary education,1.01
-30,Eastern Asia,2021,Ratio of girls to boys in lower secondary education,1.01
-30,Eastern Asia,2022,Ratio of girls to boys in lower secondary education,1.01
-30,Eastern Asia,1995,Ratio of girls to boys in upper secondary education,0.88
 30,Eastern Asia,2005,Ratio of girls to boys in upper secondary education,1
-30,Eastern Asia,2010,Ratio of girls to boys in upper secondary education,1
-30,Eastern Asia,2015,Ratio of girls to boys in upper secondary education,1.06
-30,Eastern Asia,2020,Ratio of girls to boys in upper secondary education,1.04
-30,Eastern Asia,2021,Ratio of girls to boys in upper secondary education,1.03
-30,Eastern Asia,2022,Ratio of girls to boys in upper secondary education,1.03
 34,Southern Asia,2005,Students enrolled in primary education (thousands),"181,483"
 34,Southern Asia,2005,Gross enrollment ratio - Primary (male),102.9
 34,Southern Asia,2005,Gross enrollment ratio - Primary (female),97.1
@@ -370,71 +117,12 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 34,Southern Asia,2005,Students enrolled in upper secondary education (thousands),"50,559"
 34,Southern Asia,2005,Gross enrollment ratio - Upper secondary level (male),41.2
 34,Southern Asia,2005,Gross enrollment ratio - Upper secondary level (female),32.9
-34,Southern Asia,2010,Students enrolled in primary education (thousands),"191,840"
-34,Southern Asia,2010,Gross enrollment ratio - Primary (male),103
-34,Southern Asia,2010,Gross enrollment ratio - Primary (female),101.3
-34,Southern Asia,2010,Students enrolled in lower secondary education (thousands),"79,060"
-34,Southern Asia,2010,Gross enrollment ratio - Lower secondary level (male),74.4
-34,Southern Asia,2010,Gross enrollment ratio - Lower secondary level (female),70.9
-34,Southern Asia,2010,Students enrolled in upper secondary education (thousands),"64,315"
-34,Southern Asia,2010,Gross enrollment ratio - Upper secondary level (male),48.5
-34,Southern Asia,2010,Gross enrollment ratio - Upper secondary level (female),42.9
-34,Southern Asia,2015,Students enrolled in primary education (thousands),"195,984"
-34,Southern Asia,2015,Gross enrollment ratio - Primary (male),102
-34,Southern Asia,2015,Gross enrollment ratio - Primary (female),107
-34,Southern Asia,2015,Students enrolled in lower secondary education (thousands),"88,796"
-34,Southern Asia,2015,Gross enrollment ratio - Lower secondary level (male),78.4
-34,Southern Asia,2015,Gross enrollment ratio - Lower secondary level (female),80.5
-34,Southern Asia,2015,Students enrolled in upper secondary education (thousands),"81,636"
-34,Southern Asia,2015,Gross enrollment ratio - Upper secondary level (male),58.1
-34,Southern Asia,2015,Gross enrollment ratio - Upper secondary level (female),54.5
-34,Southern Asia,2022,Students enrolled in primary education (thousands),"194,387"
-34,Southern Asia,2022,Gross enrollment ratio - Primary (male),106.1
-34,Southern Asia,2022,Gross enrollment ratio - Primary (female),103.9
-34,Southern Asia,2022,Students enrolled in lower secondary education (thousands),"91,769"
-34,Southern Asia,2022,Gross enrollment ratio - Lower secondary level (male),81.9
-34,Southern Asia,2022,Gross enrollment ratio - Lower secondary level (female),83.1
-34,Southern Asia,2022,Students enrolled in upper secondary education (thousands),"93,762"
-34,Southern Asia,2022,Gross enrollment ratio - Upper secondary level (male),65.9
-34,Southern Asia,2022,Gross enrollment ratio - Upper secondary level (female),62.9
 34,Southern Asia,2005,Teachers at primary level,"4,676,466"
 34,Southern Asia,2005,Teachers at lower secondary level,"2,215,682"
 34,Southern Asia,2005,Teachers at upper secondary level,"1,939,928"
-34,Southern Asia,2010,Teachers at primary level,"5,327,088"
-34,Southern Asia,2010,Teachers at lower secondary level,"2,704,243"
-34,Southern Asia,2010,Teachers at upper secondary level,"2,999,879"
-34,Southern Asia,2015,Teachers at primary level,"6,055,070"
-34,Southern Asia,2015,Teachers with minimum required qualifications at primary level,71.2
-34,Southern Asia,2015,Teachers at lower secondary level,"3,093,758"
-34,Southern Asia,2015,Teachers with minimum required qualifications at lower secondary level,82.6
-34,Southern Asia,2015,Teachers at upper secondary level,"2,645,755"
-34,Southern Asia,2022,Teachers at primary level,"6,427,952"
-34,Southern Asia,2022,Teachers with minimum required qualifications at primary level,84.8
-34,Southern Asia,2022,Teachers at lower secondary level,"4,461,711"
-34,Southern Asia,2022,Teachers with minimum required qualifications at lower secondary level,84
-34,Southern Asia,2022,Teachers at upper secondary level,"4,092,349"
-34,Southern Asia,2022,Teachers with minimum required qualifications at upper secondary level,93.5
-34,Southern Asia,1995,Ratio of girls to boys in primary education,0.8
 34,Southern Asia,2005,Ratio of girls to boys in primary education,0.94
-34,Southern Asia,2010,Ratio of girls to boys in primary education,0.98
-34,Southern Asia,2015,Ratio of girls to boys in primary education,1.05
-34,Southern Asia,2020,Ratio of girls to boys in primary education,0.99
-34,Southern Asia,2021,Ratio of girls to boys in primary education,0.98
-34,Southern Asia,2022,Ratio of girls to boys in primary education,0.98
-34,Southern Asia,1995,Ratio of girls to boys in lower secondary education,0.77
 34,Southern Asia,2005,Ratio of girls to boys in lower secondary education,0.88
-34,Southern Asia,2010,Ratio of girls to boys in lower secondary education,0.95
-34,Southern Asia,2015,Ratio of girls to boys in lower secondary education,1.03
-34,Southern Asia,2020,Ratio of girls to boys in lower secondary education,1.02
-34,Southern Asia,2021,Ratio of girls to boys in lower secondary education,1.02
-34,Southern Asia,2022,Ratio of girls to boys in lower secondary education,1.01
-34,Southern Asia,1995,Ratio of girls to boys in upper secondary education,0.49
 34,Southern Asia,2005,Ratio of girls to boys in upper secondary education,0.8
-34,Southern Asia,2010,Ratio of girls to boys in upper secondary education,0.89
-34,Southern Asia,2015,Ratio of girls to boys in upper secondary education,0.94
-34,Southern Asia,2020,Ratio of girls to boys in upper secondary education,0.94
-34,Southern Asia,2021,Ratio of girls to boys in upper secondary education,0.91
-34,Southern Asia,2022,Ratio of girls to boys in upper secondary education,0.95
 35,South-eastern Asia,2005,Students enrolled in primary education (thousands),"68,228"
 35,South-eastern Asia,2005,Gross enrollment ratio - Primary (male),109.3
 35,South-eastern Asia,2005,Gross enrollment ratio - Primary (female),107.7
@@ -444,107 +132,18 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 35,South-eastern Asia,2005,Students enrolled in upper secondary education (thousands),"11,889"
 35,South-eastern Asia,2005,Gross enrollment ratio - Upper secondary level (male),43
 35,South-eastern Asia,2005,Gross enrollment ratio - Upper secondary level (female),43.1
-35,South-eastern Asia,2010,Students enrolled in primary education (thousands),"68,285"
-35,South-eastern Asia,2010,Gross enrollment ratio - Primary (male),109.2
-35,South-eastern Asia,2010,Gross enrollment ratio - Primary (female),110.2
-35,South-eastern Asia,2010,Students enrolled in lower secondary education (thousands),"29,907"
-35,South-eastern Asia,2010,Gross enrollment ratio - Lower secondary level (male),84.2
-35,South-eastern Asia,2010,Gross enrollment ratio - Lower secondary level (female),87.3
-35,South-eastern Asia,2010,Students enrolled in upper secondary education (thousands),"14,859"
-35,South-eastern Asia,2010,Gross enrollment ratio - Upper secondary level (male),53.6
-35,South-eastern Asia,2010,Gross enrollment ratio - Upper secondary level (female),53.5
-35,South-eastern Asia,2015,Students enrolled in primary education (thousands),"68,684"
-35,South-eastern Asia,2015,Gross enrollment ratio - Primary (male),110
-35,South-eastern Asia,2015,Gross enrollment ratio - Primary (female),107.6
-35,South-eastern Asia,2015,Students enrolled in lower secondary education (thousands),"32,785"
-35,South-eastern Asia,2015,Gross enrollment ratio - Lower secondary level (male),93.3
-35,South-eastern Asia,2015,Gross enrollment ratio - Lower secondary level (female),96.1
-35,South-eastern Asia,2015,Students enrolled in upper secondary education (thousands),"18,646"
-35,South-eastern Asia,2015,Gross enrollment ratio - Upper secondary level (male),69.6
-35,South-eastern Asia,2015,Gross enrollment ratio - Upper secondary level (female),67.8
-35,South-eastern Asia,2021,Students enrolled in primary education (thousands),"68,789"
-35,South-eastern Asia,2021,Gross enrollment ratio - Primary (male),106.2
-35,South-eastern Asia,2021,Gross enrollment ratio - Primary (female),104.6
-35,South-eastern Asia,2021,Students enrolled in lower secondary education (thousands),"37,448"
-35,South-eastern Asia,2021,Gross enrollment ratio - Lower secondary level (male),98.2
-35,South-eastern Asia,2021,Gross enrollment ratio - Lower secondary level (female),100.6
-35,South-eastern Asia,2021,Students enrolled in upper secondary education (thousands),"19,865"
-35,South-eastern Asia,2021,Gross enrollment ratio - Upper secondary level (male),66.6
-35,South-eastern Asia,2021,Gross enrollment ratio - Upper secondary level (female),69.9
 35,South-eastern Asia,2005,Teachers at primary level,"2,937,432"
 35,South-eastern Asia,2005,Teachers at lower secondary level,"1,471,724"
 35,South-eastern Asia,2005,Teachers at upper secondary level,"709,948"
-35,South-eastern Asia,2010,Teachers at primary level,"3,242,386"
-35,South-eastern Asia,2010,Teachers at lower secondary level,"1,723,380"
-35,South-eastern Asia,2010,Teachers at upper secondary level,"880,324"
-35,South-eastern Asia,2015,Teachers at primary level,"3,708,197"
-35,South-eastern Asia,2015,Teachers with minimum required qualifications at primary level,97.8
-35,South-eastern Asia,2015,Teachers at lower secondary level,"1,850,496"
-35,South-eastern Asia,2015,Teachers with minimum required qualifications at lower secondary level,97.9
-35,South-eastern Asia,2015,Teachers at upper secondary level,"888,958"
-35,South-eastern Asia,2015,Teachers with minimum required qualifications at upper secondary level,96.3
-35,South-eastern Asia,2021,Teachers at primary level,"3,681,887"
-35,South-eastern Asia,2021,Teachers with minimum required qualifications at primary level,93.8
-35,South-eastern Asia,2021,Teachers at lower secondary level,"1,996,262"
-35,South-eastern Asia,2021,Teachers with minimum required qualifications at lower secondary level,93.8
-35,South-eastern Asia,2021,Teachers at upper secondary level,"1,078,811"
-35,South-eastern Asia,2021,Teachers with minimum required qualifications at upper secondary level,97.5
-35,South-eastern Asia,1995,Ratio of girls to boys in primary education,0.98
 35,South-eastern Asia,2005,Ratio of girls to boys in primary education,0.98
-35,South-eastern Asia,2010,Ratio of girls to boys in primary education,1.01
-35,South-eastern Asia,2015,Ratio of girls to boys in primary education,0.98
-35,South-eastern Asia,2020,Ratio of girls to boys in primary education,0.99
-35,South-eastern Asia,2021,Ratio of girls to boys in primary education,0.98
-35,South-eastern Asia,1995,Ratio of girls to boys in lower secondary education,0.93
 35,South-eastern Asia,2005,Ratio of girls to boys in lower secondary education,1.02
-35,South-eastern Asia,2010,Ratio of girls to boys in lower secondary education,1.04
-35,South-eastern Asia,2015,Ratio of girls to boys in lower secondary education,1.03
-35,South-eastern Asia,2020,Ratio of girls to boys in lower secondary education,1.02
-35,South-eastern Asia,2021,Ratio of girls to boys in lower secondary education,1.02
-35,South-eastern Asia,1995,Ratio of girls to boys in upper secondary education,0.94
 35,South-eastern Asia,2005,Ratio of girls to boys in upper secondary education,1
-35,South-eastern Asia,2010,Ratio of girls to boys in upper secondary education,1
-35,South-eastern Asia,2015,Ratio of girls to boys in upper secondary education,0.97
-35,South-eastern Asia,2020,Ratio of girls to boys in upper secondary education,1.04
-35,South-eastern Asia,2021,Ratio of girls to boys in upper secondary education,1.05
 62,South-central Asia,2005,Teachers at primary level,"4,919,128"
 62,South-central Asia,2005,Teachers at lower secondary level,"2,802,959"
 62,South-central Asia,2005,Teachers at upper secondary level,"2,165,628"
-62,South-central Asia,2010,Teachers at primary level,"5,552,573"
-62,South-central Asia,2010,Teachers at lower secondary level,"3,242,259"
-62,South-central Asia,2010,Teachers at upper secondary level,"3,225,281"
-62,South-central Asia,2015,Teachers at primary level,"6,307,102"
-62,South-central Asia,2015,Teachers with minimum required qualifications at primary level,72.4
-62,South-central Asia,2015,Teachers at lower secondary level,"3,649,646"
-62,South-central Asia,2015,Teachers with minimum required qualifications at lower secondary level,84.4
-62,South-central Asia,2015,Teachers at upper secondary level,"2,886,954"
-62,South-central Asia,2022,Teachers at primary level,"6,729,956"
-62,South-central Asia,2022,Teachers with minimum required qualifications at primary level,85.3
-62,South-central Asia,2022,Teachers at lower secondary level,"5,115,535"
-62,South-central Asia,2022,Teachers with minimum required qualifications at lower secondary level,84.3
-62,South-central Asia,2022,Teachers at upper secondary level,"4,342,658"
-62,South-central Asia,2022,Teachers with minimum required qualifications at upper secondary level,93.9
-62,South-central Asia,1995,Ratio of girls to boys in primary education,0.81
 62,South-central Asia,2005,Ratio of girls to boys in primary education,0.94
-62,South-central Asia,2010,Ratio of girls to boys in primary education,0.98
-62,South-central Asia,2015,Ratio of girls to boys in primary education,1.05
-62,South-central Asia,2020,Ratio of girls to boys in primary education,0.99
-62,South-central Asia,2021,Ratio of girls to boys in primary education,0.98
-62,South-central Asia,2022,Ratio of girls to boys in primary education,0.98
-62,South-central Asia,1995,Ratio of girls to boys in lower secondary education,0.78
 62,South-central Asia,2005,Ratio of girls to boys in lower secondary education,0.89
-62,South-central Asia,2010,Ratio of girls to boys in lower secondary education,0.95
-62,South-central Asia,2015,Ratio of girls to boys in lower secondary education,1.02
-62,South-central Asia,2020,Ratio of girls to boys in lower secondary education,1.02
-62,South-central Asia,2021,Ratio of girls to boys in lower secondary education,1.01
-62,South-central Asia,2022,Ratio of girls to boys in lower secondary education,1.01
-62,South-central Asia,1995,Ratio of girls to boys in upper secondary education,0.51
 62,South-central Asia,2005,Ratio of girls to boys in upper secondary education,0.81
-62,South-central Asia,2010,Ratio of girls to boys in upper secondary education,0.89
-62,South-central Asia,2015,Ratio of girls to boys in upper secondary education,0.94
-62,South-central Asia,2020,Ratio of girls to boys in upper secondary education,0.94
-62,South-central Asia,2021,Ratio of girls to boys in upper secondary education,0.91
-62,South-central Asia,2022,Ratio of girls to boys in upper secondary education,0.95
 143,Central Asia,2005,Students enrolled in primary education (thousands),"4,886"
 143,Central Asia,2005,Gross enrollment ratio - Primary (male),100.4
 143,Central Asia,2005,Gross enrollment ratio - Primary (female),98.1
@@ -554,69 +153,11 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 143,Central Asia,2005,Students enrolled in upper secondary education (thousands),"2,587"
 143,Central Asia,2005,Gross enrollment ratio - Upper secondary level (male),79.7
 143,Central Asia,2005,Gross enrollment ratio - Upper secondary level (female),74.6
-143,Central Asia,2010,Students enrolled in primary education (thousands),"4,320"
-143,Central Asia,2010,Gross enrollment ratio - Primary (male),98.5
-143,Central Asia,2010,Gross enrollment ratio - Primary (female),97.2
-143,Central Asia,2010,Students enrolled in lower secondary education (thousands),"5,909"
-143,Central Asia,2010,Gross enrollment ratio - Lower secondary level (male),97.1
-143,Central Asia,2010,Gross enrollment ratio - Lower secondary level (female),94.6
-143,Central Asia,2010,Students enrolled in upper secondary education (thousands),"2,736"
-143,Central Asia,2010,Gross enrollment ratio - Upper secondary level (male),83.2
-143,Central Asia,2010,Gross enrollment ratio - Upper secondary level (female),81.3
-143,Central Asia,2015,Students enrolled in primary education (thousands),"4,932"
-143,Central Asia,2015,Gross enrollment ratio - Primary (male),99.2
-143,Central Asia,2015,Gross enrollment ratio - Primary (female),98.3
-143,Central Asia,2015,Students enrolled in lower secondary education (thousands),"5,426"
-143,Central Asia,2015,Gross enrollment ratio - Lower secondary level (male),95.1
-143,Central Asia,2015,Gross enrollment ratio - Lower secondary level (female),94
-143,Central Asia,2015,Students enrolled in upper secondary education (thousands),"2,617"
-143,Central Asia,2015,Gross enrollment ratio - Upper secondary level (male),90
-143,Central Asia,2015,Gross enrollment ratio - Upper secondary level (female),88.1
-143,Central Asia,2021,Students enrolled in primary education (thousands),"6,136"
-143,Central Asia,2021,Gross enrollment ratio - Primary (male),99.7
-143,Central Asia,2021,Gross enrollment ratio - Primary (female),99.1
-143,Central Asia,2021,Students enrolled in lower secondary education (thousands),"6,199"
-143,Central Asia,2021,Gross enrollment ratio - Lower secondary level (male),90.9
-143,Central Asia,2021,Gross enrollment ratio - Lower secondary level (female),89.8
-143,Central Asia,2021,Students enrolled in upper secondary education (thousands),"2,494"
-143,Central Asia,2021,Gross enrollment ratio - Upper secondary level (male),88.3
-143,Central Asia,2021,Gross enrollment ratio - Upper secondary level (female),87.2
-143,Central Asia,2022,Students enrolled in primary education (thousands),"6,178"
-143,Central Asia,2022,Gross enrollment ratio - Primary (male),98.2
-143,Central Asia,2022,Gross enrollment ratio - Primary (female),97.6
 143,Central Asia,2005,Teachers at primary level,"242,661"
 143,Central Asia,2005,Teachers with minimum required qualifications at primary level,94.2
-143,Central Asia,2010,Teachers at primary level,"225,484"
-143,Central Asia,2010,Teachers with minimum required qualifications at primary level,96.9
-143,Central Asia,2015,Teachers at primary level,"252,032"
-143,Central Asia,2015,Teachers with minimum required qualifications at primary level,99.5
-143,Central Asia,2015,Teachers at lower secondary level,"555,888"
-143,Central Asia,2015,Teachers at upper secondary level,"241,199"
-143,Central Asia,2018,Teachers at primary level,"265,238"
-143,Central Asia,2018,Teachers with minimum required qualifications at primary level,98.2
-143,Central Asia,2018,Teachers at lower secondary level,"597,175"
-143,Central Asia,2018,Teachers with minimum required qualifications at lower secondary level,93.6
-143,Central Asia,2018,Teachers at upper secondary level,"250,777"
-143,Central Asia,2018,Teachers with minimum required qualifications at upper secondary level,99.2
-143,Central Asia,2022,Teachers at primary level,"302,004"
-143,Central Asia,2022,Teachers with minimum required qualifications at primary level,94.9
-143,Central Asia,1995,Ratio of girls to boys in primary education,0.96
 143,Central Asia,2005,Ratio of girls to boys in primary education,0.98
-143,Central Asia,2010,Ratio of girls to boys in primary education,0.99
-143,Central Asia,2015,Ratio of girls to boys in primary education,0.99
-143,Central Asia,2020,Ratio of girls to boys in primary education,0.99
-143,Central Asia,2021,Ratio of girls to boys in primary education,0.99
-143,Central Asia,2022,Ratio of girls to boys in primary education,0.99
 143,Central Asia,2005,Ratio of girls to boys in lower secondary education,0.97
-143,Central Asia,2010,Ratio of girls to boys in lower secondary education,0.98
-143,Central Asia,2015,Ratio of girls to boys in lower secondary education,0.99
-143,Central Asia,2020,Ratio of girls to boys in lower secondary education,0.99
-143,Central Asia,2021,Ratio of girls to boys in lower secondary education,0.99
 143,Central Asia,2005,Ratio of girls to boys in upper secondary education,0.98
-143,Central Asia,2010,Ratio of girls to boys in upper secondary education,1
-143,Central Asia,2015,Ratio of girls to boys in upper secondary education,1
-143,Central Asia,2020,Ratio of girls to boys in upper secondary education,0.99
-143,Central Asia,2021,Ratio of girls to boys in upper secondary education,0.99
 145,Western Asia,2005,Students enrolled in primary education (thousands),"24,242"
 145,Western Asia,2005,Gross enrollment ratio - Primary (male),102.2
 145,Western Asia,2005,Gross enrollment ratio - Primary (female),93.2
@@ -626,81 +167,12 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 145,Western Asia,2005,Students enrolled in upper secondary education (thousands),"7,394"
 145,Western Asia,2005,Gross enrollment ratio - Upper secondary level (male),66.9
 145,Western Asia,2005,Gross enrollment ratio - Upper secondary level (female),56.5
-145,Western Asia,2010,Students enrolled in primary education (thousands),"25,347"
-145,Western Asia,2010,Gross enrollment ratio - Primary (male),102.3
-145,Western Asia,2010,Gross enrollment ratio - Primary (female),96
-145,Western Asia,2010,Students enrolled in lower secondary education (thousands),"13,473"
-145,Western Asia,2010,Gross enrollment ratio - Lower secondary level (male),88.8
-145,Western Asia,2010,Gross enrollment ratio - Lower secondary level (female),81.4
-145,Western Asia,2010,Students enrolled in upper secondary education (thousands),"9,035"
-145,Western Asia,2010,Gross enrollment ratio - Upper secondary level (male),65
-145,Western Asia,2010,Gross enrollment ratio - Upper secondary level (female),59.8
-145,Western Asia,2015,Students enrolled in primary education (thousands),"26,350"
-145,Western Asia,2015,Gross enrollment ratio - Primary (male),98.5
-145,Western Asia,2015,Gross enrollment ratio - Primary (female),93
-145,Western Asia,2015,Students enrolled in lower secondary education (thousands),"13,787"
-145,Western Asia,2015,Gross enrollment ratio - Lower secondary level (male),85.3
-145,Western Asia,2015,Gross enrollment ratio - Lower secondary level (female),81.7
-145,Western Asia,2015,Students enrolled in upper secondary education (thousands),"11,485"
-145,Western Asia,2015,Gross enrollment ratio - Upper secondary level (male),77.6
-145,Western Asia,2015,Gross enrollment ratio - Upper secondary level (female),74.5
-145,Western Asia,2022,Students enrolled in primary education (thousands),"28,482"
-145,Western Asia,2022,Gross enrollment ratio - Primary (male),96.4
-145,Western Asia,2022,Gross enrollment ratio - Primary (female),90.7
-145,Western Asia,2022,Students enrolled in lower secondary education (thousands),"15,104"
-145,Western Asia,2022,Gross enrollment ratio - Lower secondary level (male),82.1
-145,Western Asia,2022,Gross enrollment ratio - Lower secondary level (female),78.4
-145,Western Asia,2022,Students enrolled in upper secondary education (thousands),"12,922"
-145,Western Asia,2022,Gross enrollment ratio - Upper secondary level (male),82.2
-145,Western Asia,2022,Gross enrollment ratio - Upper secondary level (female),77.4
-145,Western Asia,2004,Teachers at primary level,"1,230,528"
-145,Western Asia,2004,Teachers with minimum required qualifications at primary level,93.3
-145,Western Asia,2004,Teachers at lower secondary level,"794,804"
-145,Western Asia,2004,Teachers at upper secondary level,"525,179"
 145,Western Asia,2005,Teachers at primary level,"1,292,949"
 145,Western Asia,2005,Teachers at lower secondary level,"817,596"
 145,Western Asia,2005,Teachers at upper secondary level,"538,000"
-145,Western Asia,2010,Teachers at primary level,"1,440,371"
-145,Western Asia,2010,Teachers with minimum required qualifications at primary level,89.1
-145,Western Asia,2010,Teachers at lower secondary level,"924,296"
-145,Western Asia,2010,Teachers at upper secondary level,"682,472"
-145,Western Asia,2015,Teachers at primary level,"1,580,794"
-145,Western Asia,2015,Teachers with minimum required qualifications at primary level,85
-145,Western Asia,2015,Teachers at lower secondary level,"964,440"
-145,Western Asia,2015,Teachers with minimum required qualifications at lower secondary level,86.1
-145,Western Asia,2015,Teachers at upper secondary level,"849,121"
-145,Western Asia,2021,Teachers at primary level,"1,601,598"
-145,Western Asia,2021,Teachers with minimum required qualifications at primary level,81.1
-145,Western Asia,2021,Teachers at lower secondary level,"1,082,613"
-145,Western Asia,2021,Teachers with minimum required qualifications at lower secondary level,84.6
-145,Western Asia,2021,Teachers at upper secondary level,"936,973"
-145,Western Asia,2021,Teachers with minimum required qualifications at upper secondary level,84.8
-145,Western Asia,2022,Teachers at primary level,"1,617,884"
-145,Western Asia,2022,Teachers with minimum required qualifications at primary level,78
-145,Western Asia,2022,Teachers at lower secondary level,"1,090,482"
-145,Western Asia,2022,Teachers with minimum required qualifications at lower secondary level,83.7
-145,Western Asia,2022,Teachers at upper secondary level,"948,226"
-145,Western Asia,1995,Ratio of girls to boys in primary education,0.88
 145,Western Asia,2005,Ratio of girls to boys in primary education,0.91
-145,Western Asia,2010,Ratio of girls to boys in primary education,0.94
-145,Western Asia,2015,Ratio of girls to boys in primary education,0.94
-145,Western Asia,2020,Ratio of girls to boys in primary education,0.94
-145,Western Asia,2021,Ratio of girls to boys in primary education,0.94
-145,Western Asia,2022,Ratio of girls to boys in primary education,0.94
-145,Western Asia,1995,Ratio of girls to boys in lower secondary education,0.8
 145,Western Asia,2005,Ratio of girls to boys in lower secondary education,0.87
-145,Western Asia,2010,Ratio of girls to boys in lower secondary education,0.92
-145,Western Asia,2015,Ratio of girls to boys in lower secondary education,0.96
-145,Western Asia,2020,Ratio of girls to boys in lower secondary education,0.96
-145,Western Asia,2021,Ratio of girls to boys in lower secondary education,0.95
-145,Western Asia,2022,Ratio of girls to boys in lower secondary education,0.95
-145,Western Asia,1995,Ratio of girls to boys in upper secondary education,0.7
 145,Western Asia,2005,Ratio of girls to boys in upper secondary education,0.84
-145,Western Asia,2010,Ratio of girls to boys in upper secondary education,0.92
-145,Western Asia,2015,Ratio of girls to boys in upper secondary education,0.96
-145,Western Asia,2020,Ratio of girls to boys in upper secondary education,0.92
-145,Western Asia,2021,Ratio of girls to boys in upper secondary education,0.94
-145,Western Asia,2022,Ratio of girls to boys in upper secondary education,0.94
 150,Europe,2005,Students enrolled in primary education (thousands),"38,479"
 150,Europe,2005,Gross enrollment ratio - Primary (male),103.4
 150,Europe,2005,Gross enrollment ratio - Primary (female),102.6
@@ -710,72 +182,12 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 150,Europe,2005,Students enrolled in upper secondary education (thousands),"29,004"
 150,Europe,2005,Gross enrollment ratio - Upper secondary level (male),98.8
 150,Europe,2005,Gross enrollment ratio - Upper secondary level (female),99.5
-150,Europe,2010,Students enrolled in primary education (thousands),"36,741"
-150,Europe,2010,Gross enrollment ratio - Primary (male),101.4
-150,Europe,2010,Gross enrollment ratio - Primary (female),100.9
-150,Europe,2010,Students enrolled in lower secondary education (thousands),"32,355"
-150,Europe,2010,Gross enrollment ratio - Lower secondary level (male),103.3
-150,Europe,2010,Gross enrollment ratio - Lower secondary level (female),102.3
-150,Europe,2010,Students enrolled in upper secondary education (thousands),"26,264"
-150,Europe,2010,Gross enrollment ratio - Upper secondary level (male),103.4
-150,Europe,2010,Gross enrollment ratio - Upper secondary level (female),102.2
-150,Europe,2015,Students enrolled in primary education (thousands),"38,360"
-150,Europe,2015,Gross enrollment ratio - Primary (male),100.4
-150,Europe,2015,Gross enrollment ratio - Primary (female),100.1
-150,Europe,2015,Students enrolled in lower secondary education (thousands),"30,636"
-150,Europe,2015,Gross enrollment ratio - Lower secondary level (male),102.3
-150,Europe,2015,Gross enrollment ratio - Lower secondary level (female),101.1
-150,Europe,2015,Students enrolled in upper secondary education (thousands),"26,830"
-150,Europe,2015,Gross enrollment ratio - Upper secondary level (male),112.8
-150,Europe,2015,Gross enrollment ratio - Upper secondary level (female),112.6
-150,Europe,2022,Students enrolled in primary education (thousands),"39,832"
-150,Europe,2022,Gross enrollment ratio - Primary (male),101.3
-150,Europe,2022,Gross enrollment ratio - Primary (female),101.2
-150,Europe,2022,Students enrolled in lower secondary education (thousands),"33,740"
-150,Europe,2022,Gross enrollment ratio - Lower secondary level (male),101.3
-150,Europe,2022,Gross enrollment ratio - Lower secondary level (female),100.7
-150,Europe,2022,Students enrolled in upper secondary education (thousands),"27,126"
-150,Europe,2022,Gross enrollment ratio - Upper secondary level (male),109.8
-150,Europe,2022,Gross enrollment ratio - Upper secondary level (female),110.1
 150,Europe,2005,Teachers at primary level,"2,673,746"
 150,Europe,2005,Teachers at lower secondary level,"3,256,231"
 150,Europe,2005,Teachers at upper secondary level,"2,572,538"
-150,Europe,2010,Teachers at primary level,"2,673,047"
-150,Europe,2010,Teachers with minimum required qualifications at primary level,97.4
-150,Europe,2010,Teachers at lower secondary level,"3,119,051"
-150,Europe,2010,Teachers at upper secondary level,"2,360,896"
-150,Europe,2015,Teachers at primary level,"2,733,121"
-150,Europe,2015,Teachers with minimum required qualifications at primary level,93.7
-150,Europe,2015,Teachers at lower secondary level,"3,067,590"
-150,Europe,2015,Teachers at upper secondary level,"2,303,397"
-150,Europe,2019,Teachers at primary level,"2,867,349"
-150,Europe,2019,Teachers with minimum required qualifications at primary level,93.9
-150,Europe,2019,Teachers at lower secondary level,"3,215,582"
-150,Europe,2019,Teachers at upper secondary level,"2,297,917"
-150,Europe,2022,Teachers at primary level,"2,817,495"
-150,Europe,2022,Teachers at lower secondary level,"3,440,343"
-150,Europe,2022,Teachers at upper secondary level,"2,364,360"
-150,Europe,1995,Ratio of girls to boys in primary education,0.99
 150,Europe,2005,Ratio of girls to boys in primary education,0.99
-150,Europe,2010,Ratio of girls to boys in primary education,1
-150,Europe,2015,Ratio of girls to boys in primary education,1
-150,Europe,2020,Ratio of girls to boys in primary education,0.99
-150,Europe,2021,Ratio of girls to boys in primary education,1
-150,Europe,2022,Ratio of girls to boys in primary education,1
-150,Europe,1995,Ratio of girls to boys in lower secondary education,1
 150,Europe,2005,Ratio of girls to boys in lower secondary education,0.99
-150,Europe,2010,Ratio of girls to boys in lower secondary education,0.99
-150,Europe,2015,Ratio of girls to boys in lower secondary education,0.99
-150,Europe,2020,Ratio of girls to boys in lower secondary education,0.99
-150,Europe,2021,Ratio of girls to boys in lower secondary education,0.99
-150,Europe,2022,Ratio of girls to boys in lower secondary education,0.99
-150,Europe,1995,Ratio of girls to boys in upper secondary education,1.03
 150,Europe,2005,Ratio of girls to boys in upper secondary education,1.01
-150,Europe,2010,Ratio of girls to boys in upper secondary education,0.99
-150,Europe,2015,Ratio of girls to boys in upper secondary education,1
-150,Europe,2020,Ratio of girls to boys in upper secondary education,1
-150,Europe,2021,Ratio of girls to boys in upper secondary education,1
-150,Europe,2022,Ratio of girls to boys in upper secondary education,1
 199,LDC§,2005,Students enrolled in primary education (thousands),"106,819"
 199,LDC§,2005,Gross enrollment ratio - Primary (male),98.7
 199,LDC§,2005,Gross enrollment ratio - Primary (female),87.9
@@ -785,86 +197,14 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 199,LDC§,2005,Students enrolled in upper secondary education (thousands),"9,924"
 199,LDC§,2005,Gross enrollment ratio - Upper secondary level (male),23
 199,LDC§,2005,Gross enrollment ratio - Upper secondary level (female),16.9
-199,LDC§,2010,Students enrolled in primary education (thousands),"130,200"
-199,LDC§,2010,Gross enrollment ratio - Primary (male),104.4
-199,LDC§,2010,Gross enrollment ratio - Primary (female),97.3
-199,LDC§,2010,Students enrolled in lower secondary education (thousands),"31,028"
-199,LDC§,2010,Gross enrollment ratio - Lower secondary level (male),51.9
-199,LDC§,2010,Gross enrollment ratio - Lower secondary level (female),45.6
-199,LDC§,2010,Students enrolled in upper secondary education (thousands),"14,306"
-199,LDC§,2010,Gross enrollment ratio - Upper secondary level (male),29.7
-199,LDC§,2010,Gross enrollment ratio - Upper secondary level (female),22.5
-199,LDC§,2015,Students enrolled in primary education (thousands),"145,520"
-199,LDC§,2015,Gross enrollment ratio - Primary (male),103.5
-199,LDC§,2015,Gross enrollment ratio - Primary (female),98.6
-199,LDC§,2015,Students enrolled in lower secondary education (thousands),"38,824"
-199,LDC§,2015,Gross enrollment ratio - Lower secondary level (male),56.3
-199,LDC§,2015,Gross enrollment ratio - Lower secondary level (female),52.7
-199,LDC§,2015,Students enrolled in upper secondary education (thousands),"19,338"
-199,LDC§,2015,Gross enrollment ratio - Upper secondary level (male),34.6
-199,LDC§,2015,Gross enrollment ratio - Upper secondary level (female),28.5
-199,LDC§,2021,Students enrolled in primary education (thousands),"168,138"
-199,LDC§,2021,Gross enrollment ratio - Primary (male),106.4
-199,LDC§,2021,Gross enrollment ratio - Primary (female),101.7
-199,LDC§,2021,Students enrolled in lower secondary education (thousands),"45,313"
-199,LDC§,2021,Gross enrollment ratio - Lower secondary level (male),57.3
-199,LDC§,2021,Gross enrollment ratio - Lower secondary level (female),53.9
-199,LDC§,2021,Students enrolled in upper secondary education (thousands),"24,772"
-199,LDC§,2021,Gross enrollment ratio - Upper secondary level (male),37.6
-199,LDC§,2021,Gross enrollment ratio - Upper secondary level (female),33.7
-199,LDC§,2022,Students enrolled in primary education (thousands),"171,022"
-199,LDC§,2022,Gross enrollment ratio - Primary (male),106.3
-199,LDC§,2022,Gross enrollment ratio - Primary (female),101.7
 199,LDC§,2005,Teachers at primary level,"2,394,903"
 199,LDC§,2005,Teachers with minimum required qualifications at primary level,78.5
 199,LDC§,2005,Teachers at lower secondary level,"841,710"
 199,LDC§,2005,Teachers with minimum required qualifications at lower secondary level,67.2
 199,LDC§,2005,Teachers at upper secondary level,"494,103"
-199,LDC§,2010,Teachers at primary level,"3,101,903"
-199,LDC§,2010,Teachers with minimum required qualifications at primary level,78.1
-199,LDC§,2010,Teachers at lower secondary level,"1,126,535"
-199,LDC§,2010,Teachers with minimum required qualifications at lower secondary level,67.3
-199,LDC§,2010,Teachers at upper secondary level,"660,403"
-199,LDC§,2010,Teachers with minimum required qualifications at upper secondary level,51.5
-199,LDC§,2015,Teachers at primary level,"3,872,442"
-199,LDC§,2015,Teachers with minimum required qualifications at primary level,75.4
-199,LDC§,2015,Teachers at lower secondary level,"1,224,152"
-199,LDC§,2015,Teachers with minimum required qualifications at lower secondary level,62.4
-199,LDC§,2015,Teachers at upper secondary level,"1,118,639"
-199,LDC§,2015,Teachers with minimum required qualifications at upper secondary level,59.6
-199,LDC§,2019,Teachers at primary level,"4,401,238"
-199,LDC§,2019,Teachers with minimum required qualifications at primary level,73.7
-199,LDC§,2019,Teachers at lower secondary level,"1,478,064"
-199,LDC§,2019,Teachers with minimum required qualifications at lower secondary level,62.8
-199,LDC§,2019,Teachers at upper secondary level,"1,246,310"
-199,LDC§,2019,Teachers with minimum required qualifications at upper secondary level,62.4
-199,LDC§,2020,Teachers at primary level,"4,460,887"
-199,LDC§,2020,Teachers with minimum required qualifications at primary level,72.7
-199,LDC§,2020,Teachers at lower secondary level,"1,532,037"
-199,LDC§,2020,Teachers with minimum required qualifications at lower secondary level,64.1
-199,LDC§,2020,Teachers at upper secondary level,"1,308,449"
-199,LDC§,2021,Teachers at primary level,"4,556,885"
-199,LDC§,2021,Teachers with minimum required qualifications at primary level,73.5
-199,LDC§,2021,Teachers at lower secondary level,"1,569,852"
-199,LDC§,2021,Teachers at upper secondary level,"1,345,752"
-199,LDC§,2022,Teachers at primary level,"4,622,675"
-199,LDC§,1995,Ratio of girls to boys in primary education,0.81
 199,LDC§,2005,Ratio of girls to boys in primary education,0.89
-199,LDC§,2010,Ratio of girls to boys in primary education,0.93
-199,LDC§,2015,Ratio of girls to boys in primary education,0.95
-199,LDC§,2020,Ratio of girls to boys in primary education,0.95
-199,LDC§,2021,Ratio of girls to boys in primary education,0.96
-199,LDC§,2022,Ratio of girls to boys in primary education,0.96
 199,LDC§,2005,Ratio of girls to boys in lower secondary education,0.82
-199,LDC§,2010,Ratio of girls to boys in lower secondary education,0.88
-199,LDC§,2015,Ratio of girls to boys in lower secondary education,0.94
-199,LDC§,2020,Ratio of girls to boys in lower secondary education,0.94
-199,LDC§,2021,Ratio of girls to boys in lower secondary education,0.94
 199,LDC§,2005,Ratio of girls to boys in upper secondary education,0.73
-199,LDC§,2010,Ratio of girls to boys in upper secondary education,0.76
-199,LDC§,2015,Ratio of girls to boys in upper secondary education,0.83
-199,LDC§,2020,Ratio of girls to boys in upper secondary education,0.9
-199,LDC§,2021,Ratio of girls to boys in upper secondary education,0.9
 202,Sub-Saharan Africa,2005,Students enrolled in primary education (thousands),"113,432"
 202,Sub-Saharan Africa,2005,Gross enrollment ratio - Primary (male),99.1
 202,Sub-Saharan Africa,2005,Gross enrollment ratio - Primary (female),87.3
@@ -874,81 +214,13 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 202,Sub-Saharan Africa,2005,Students enrolled in upper secondary education (thousands),"11,200"
 202,Sub-Saharan Africa,2005,Gross enrollment ratio - Upper secondary level (male),26.8
 202,Sub-Saharan Africa,2005,Gross enrollment ratio - Upper secondary level (female),20.7
-202,Sub-Saharan Africa,2010,Students enrolled in primary education (thousands),"135,997"
-202,Sub-Saharan Africa,2010,Gross enrollment ratio - Primary (male),101.3
-202,Sub-Saharan Africa,2010,Gross enrollment ratio - Primary (female),93.6
-202,Sub-Saharan Africa,2010,Students enrolled in lower secondary education (thousands),"28,640"
-202,Sub-Saharan Africa,2010,Gross enrollment ratio - Lower secondary level (male),50.2
-202,Sub-Saharan Africa,2010,Gross enrollment ratio - Lower secondary level (female),42.1
-202,Sub-Saharan Africa,2010,Students enrolled in upper secondary education (thousands),"16,019"
-202,Sub-Saharan Africa,2010,Gross enrollment ratio - Upper secondary level (male),34.1
-202,Sub-Saharan Africa,2010,Gross enrollment ratio - Upper secondary level (female),26.5
-202,Sub-Saharan Africa,2015,Students enrolled in primary education (thousands),"157,266"
-202,Sub-Saharan Africa,2015,Gross enrollment ratio - Primary (male),100.1
-202,Sub-Saharan Africa,2015,Gross enrollment ratio - Primary (female),95.3
-202,Sub-Saharan Africa,2015,Students enrolled in lower secondary education (thousands),"36,584"
-202,Sub-Saharan Africa,2015,Gross enrollment ratio - Lower secondary level (male),53.6
-202,Sub-Saharan Africa,2015,Gross enrollment ratio - Lower secondary level (female),47.9
-202,Sub-Saharan Africa,2015,Students enrolled in upper secondary education (thousands),"19,919"
-202,Sub-Saharan Africa,2015,Gross enrollment ratio - Upper secondary level (male),37.6
-202,Sub-Saharan Africa,2015,Gross enrollment ratio - Upper secondary level (female),30.3
-202,Sub-Saharan Africa,2022,Students enrolled in primary education (thousands),"189,519"
-202,Sub-Saharan Africa,2022,Gross enrollment ratio - Primary (male),101.3
-202,Sub-Saharan Africa,2022,Gross enrollment ratio - Primary (female),97.9
-202,Sub-Saharan Africa,2022,Students enrolled in lower secondary education (thousands),"45,064"
-202,Sub-Saharan Africa,2022,Gross enrollment ratio - Lower secondary level (male),53.8
-202,Sub-Saharan Africa,2022,Gross enrollment ratio - Lower secondary level (female),49.4
-202,Sub-Saharan Africa,2022,Students enrolled in upper secondary education (thousands),"26,270"
-202,Sub-Saharan Africa,2022,Gross enrollment ratio - Upper secondary level (male),38.3
-202,Sub-Saharan Africa,2022,Gross enrollment ratio - Upper secondary level (female),33.6
 202,Sub-Saharan Africa,2005,Teachers at primary level,"2,577,292"
 202,Sub-Saharan Africa,2005,Teachers with minimum required qualifications at primary level,75.6
 202,Sub-Saharan Africa,2005,Teachers at lower secondary level,"712,711"
 202,Sub-Saharan Africa,2005,Teachers at upper secondary level,"458,121"
-202,Sub-Saharan Africa,2010,Teachers at primary level,"3,170,264"
-202,Sub-Saharan Africa,2010,Teachers with minimum required qualifications at primary level,75.3
-202,Sub-Saharan Africa,2010,Teachers at lower secondary level,"1,128,195"
-202,Sub-Saharan Africa,2010,Teachers with minimum required qualifications at lower secondary level,65.4
-202,Sub-Saharan Africa,2010,Teachers at upper secondary level,"736,694"
-202,Sub-Saharan Africa,2010,Teachers with minimum required qualifications at upper secondary level,55.8
-202,Sub-Saharan Africa,2015,Teachers at primary level,"4,052,317"
-202,Sub-Saharan Africa,2015,Teachers with minimum required qualifications at primary level,71.9
-202,Sub-Saharan Africa,2015,Teachers at lower secondary level,"1,576,616"
-202,Sub-Saharan Africa,2015,Teachers with minimum required qualifications at lower secondary level,56.6
-202,Sub-Saharan Africa,2015,Teachers at upper secondary level,"1,206,927"
-202,Sub-Saharan Africa,2015,Teachers with minimum required qualifications at upper secondary level,55.4
-202,Sub-Saharan Africa,2019,Teachers at primary level,"4,628,013"
-202,Sub-Saharan Africa,2019,Teachers with minimum required qualifications at primary level,69.9
-202,Sub-Saharan Africa,2019,Teachers at lower secondary level,"1,794,108"
-202,Sub-Saharan Africa,2019,Teachers with minimum required qualifications at lower secondary level,56.7
-202,Sub-Saharan Africa,2019,Teachers at upper secondary level,"1,374,239"
-202,Sub-Saharan Africa,2019,Teachers with minimum required qualifications at upper secondary level,63.9
-202,Sub-Saharan Africa,2021,Teachers at primary level,"4,838,624"
-202,Sub-Saharan Africa,2021,Teachers with minimum required qualifications at primary level,69
-202,Sub-Saharan Africa,2021,Teachers at lower secondary level,"1,908,687"
-202,Sub-Saharan Africa,2021,Teachers at upper secondary level,"1,489,047"
-202,Sub-Saharan Africa,2022,Teachers at primary level,"4,930,932"
-202,Sub-Saharan Africa,2022,Teachers at lower secondary level,"1,997,632"
-202,Sub-Saharan Africa,2022,Teachers at upper secondary level,"1,530,261"
-202,Sub-Saharan Africa,1995,Ratio of girls to boys in primary education,0.84
 202,Sub-Saharan Africa,2005,Ratio of girls to boys in primary education,0.88
-202,Sub-Saharan Africa,2010,Ratio of girls to boys in primary education,0.92
-202,Sub-Saharan Africa,2015,Ratio of girls to boys in primary education,0.95
-202,Sub-Saharan Africa,2020,Ratio of girls to boys in primary education,0.96
-202,Sub-Saharan Africa,2021,Ratio of girls to boys in primary education,0.97
-202,Sub-Saharan Africa,2022,Ratio of girls to boys in primary education,0.97
 202,Sub-Saharan Africa,2005,Ratio of girls to boys in lower secondary education,0.79
-202,Sub-Saharan Africa,2010,Ratio of girls to boys in lower secondary education,0.84
-202,Sub-Saharan Africa,2015,Ratio of girls to boys in lower secondary education,0.89
-202,Sub-Saharan Africa,2020,Ratio of girls to boys in lower secondary education,0.92
-202,Sub-Saharan Africa,2021,Ratio of girls to boys in lower secondary education,0.92
-202,Sub-Saharan Africa,2022,Ratio of girls to boys in lower secondary education,0.92
 202,Sub-Saharan Africa,2005,Ratio of girls to boys in upper secondary education,0.77
-202,Sub-Saharan Africa,2010,Ratio of girls to boys in upper secondary education,0.78
-202,Sub-Saharan Africa,2015,Ratio of girls to boys in upper secondary education,0.8
-202,Sub-Saharan Africa,2020,Ratio of girls to boys in upper secondary education,0.87
-202,Sub-Saharan Africa,2021,Ratio of girls to boys in upper secondary education,0.88
-202,Sub-Saharan Africa,2022,Ratio of girls to boys in upper secondary education,0.88
 419,Latin America & the Caribbean,2005,Students enrolled in primary education (thousands),"69,082"
 419,Latin America & the Caribbean,2005,Gross enrollment ratio - Primary (male),118.2
 419,Latin America & the Caribbean,2005,Gross enrollment ratio - Primary (female),114.5
@@ -958,86 +230,12 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 419,Latin America & the Caribbean,2005,Students enrolled in upper secondary education (thousands),"21,638"
 419,Latin America & the Caribbean,2005,Gross enrollment ratio - Upper secondary level (male),65.1
 419,Latin America & the Caribbean,2005,Gross enrollment ratio - Upper secondary level (female),73.9
-419,Latin America & the Caribbean,2010,Students enrolled in primary education (thousands),"66,985"
-419,Latin America & the Caribbean,2010,Gross enrollment ratio - Primary (male),110.7
-419,Latin America & the Caribbean,2010,Gross enrollment ratio - Primary (female),107.1
-419,Latin America & the Caribbean,2010,Students enrolled in lower secondary education (thousands),"38,296"
-419,Latin America & the Caribbean,2010,Gross enrollment ratio - Lower secondary level (male),102.2
-419,Latin America & the Caribbean,2010,Gross enrollment ratio - Lower secondary level (female),105.4
-419,Latin America & the Caribbean,2010,Students enrolled in upper secondary education (thousands),"22,746"
-419,Latin America & the Caribbean,2010,Gross enrollment ratio - Upper secondary level (male),67.1
-419,Latin America & the Caribbean,2010,Gross enrollment ratio - Upper secondary level (female),77.8
-419,Latin America & the Caribbean,2015,Students enrolled in primary education (thousands),"63,585"
-419,Latin America & the Caribbean,2015,Gross enrollment ratio - Primary (male),107.9
-419,Latin America & the Caribbean,2015,Gross enrollment ratio - Primary (female),105.5
-419,Latin America & the Caribbean,2015,Students enrolled in lower secondary education (thousands),"38,882"
-419,Latin America & the Caribbean,2015,Gross enrollment ratio - Lower secondary level (male),108.1
-419,Latin America & the Caribbean,2015,Gross enrollment ratio - Lower secondary level (female),110.1
-419,Latin America & the Caribbean,2015,Students enrolled in upper secondary education (thousands),"24,860"
-419,Latin America & the Caribbean,2015,Gross enrollment ratio - Upper secondary level (male),74.1
-419,Latin America & the Caribbean,2015,Gross enrollment ratio - Upper secondary level (female),82.4
-419,Latin America & the Caribbean,2022,Students enrolled in primary education (thousands),"61,617"
-419,Latin America & the Caribbean,2022,Gross enrollment ratio - Primary (male),104.2
-419,Latin America & the Caribbean,2022,Gross enrollment ratio - Primary (female),103.2
-419,Latin America & the Caribbean,2022,Students enrolled in lower secondary education (thousands),"37,548"
-419,Latin America & the Caribbean,2022,Gross enrollment ratio - Lower secondary level (male),105.6
-419,Latin America & the Caribbean,2022,Gross enrollment ratio - Lower secondary level (female),108.6
-419,Latin America & the Caribbean,2022,Students enrolled in upper secondary education (thousands),"25,722"
-419,Latin America & the Caribbean,2022,Gross enrollment ratio - Upper secondary level (male),80.8
-419,Latin America & the Caribbean,2022,Gross enrollment ratio - Upper secondary level (female),89.5
 419,Latin America & the Caribbean,2005,Teachers at primary level,"2,974,792"
 419,Latin America & the Caribbean,2005,Teachers at lower secondary level,"2,053,961"
 419,Latin America & the Caribbean,2005,Teachers at upper secondary level,"1,423,493"
-419,Latin America & the Caribbean,2007,Teachers at primary level,"2,911,268"
-419,Latin America & the Caribbean,2007,Teachers with minimum required qualifications at primary level,81.5
-419,Latin America & the Caribbean,2007,Teachers at lower secondary level,"1,886,417"
-419,Latin America & the Caribbean,2007,Teachers with minimum required qualifications at lower secondary level,80.6
-419,Latin America & the Caribbean,2007,Teachers at upper secondary level,"1,375,925"
-419,Latin America & the Caribbean,2007,Teachers with minimum required qualifications at upper secondary level,90.3
-419,Latin America & the Caribbean,2009,Teachers at primary level,"2,950,467"
-419,Latin America & the Caribbean,2009,Teachers with minimum required qualifications at primary level,80.8
-419,Latin America & the Caribbean,2009,Teachers at lower secondary level,"2,005,038"
-419,Latin America & the Caribbean,2009,Teachers with minimum required qualifications at lower secondary level,78.2
-419,Latin America & the Caribbean,2009,Teachers at upper secondary level,"1,490,930"
-419,Latin America & the Caribbean,2010,Teachers at primary level,"2,955,008"
-419,Latin America & the Caribbean,2010,Teachers with minimum required qualifications at primary level,80.7
-419,Latin America & the Caribbean,2010,Teachers at lower secondary level,"2,039,144"
-419,Latin America & the Caribbean,2010,Teachers at upper secondary level,"1,540,270"
-419,Latin America & the Caribbean,2012,Teachers at primary level,"2,976,561"
-419,Latin America & the Caribbean,2012,Teachers with minimum required qualifications at primary level,80.9
-419,Latin America & the Caribbean,2012,Teachers at lower secondary level,"2,088,764"
-419,Latin America & the Caribbean,2012,Teachers with minimum required qualifications at lower secondary level,77.8
-419,Latin America & the Caribbean,2012,Teachers at upper secondary level,"1,605,277"
-419,Latin America & the Caribbean,2012,Teachers with minimum required qualifications at upper secondary level,83.7
-419,Latin America & the Caribbean,2015,Teachers at primary level,"3,039,662"
-419,Latin America & the Caribbean,2015,Teachers with minimum required qualifications at primary level,78.8
-419,Latin America & the Caribbean,2015,Teachers at lower secondary level,"1,963,531"
-419,Latin America & the Caribbean,2015,Teachers at upper secondary level,"1,955,319"
-419,Latin America & the Caribbean,2022,Teachers at primary level,"3,071,363"
-419,Latin America & the Caribbean,2022,Teachers with minimum required qualifications at primary level,80.2
-419,Latin America & the Caribbean,2022,Teachers at lower secondary level,"2,033,908"
-419,Latin America & the Caribbean,2022,Teachers with minimum required qualifications at lower secondary level,78.8
-419,Latin America & the Caribbean,2022,Teachers at upper secondary level,"2,092,479"
-419,Latin America & the Caribbean,2022,Teachers with minimum required qualifications at upper secondary level,73.3
-419,Latin America & the Caribbean,1995,Ratio of girls to boys in primary education,0.97
 419,Latin America & the Caribbean,2005,Ratio of girls to boys in primary education,0.97
-419,Latin America & the Caribbean,2010,Ratio of girls to boys in primary education,0.97
-419,Latin America & the Caribbean,2015,Ratio of girls to boys in primary education,0.98
-419,Latin America & the Caribbean,2020,Ratio of girls to boys in primary education,0.98
-419,Latin America & the Caribbean,2021,Ratio of girls to boys in primary education,0.99
-419,Latin America & the Caribbean,2022,Ratio of girls to boys in primary education,0.99
 419,Latin America & the Caribbean,2005,Ratio of girls to boys in lower secondary education,1.04
-419,Latin America & the Caribbean,2010,Ratio of girls to boys in lower secondary education,1.03
-419,Latin America & the Caribbean,2015,Ratio of girls to boys in lower secondary education,1.02
-419,Latin America & the Caribbean,2020,Ratio of girls to boys in lower secondary education,1.03
-419,Latin America & the Caribbean,2021,Ratio of girls to boys in lower secondary education,1.03
-419,Latin America & the Caribbean,2022,Ratio of girls to boys in lower secondary education,1.03
 419,Latin America & the Caribbean,2005,Ratio of girls to boys in upper secondary education,1.12
-419,Latin America & the Caribbean,2010,Ratio of girls to boys in upper secondary education,1.14
-419,Latin America & the Caribbean,2015,Ratio of girls to boys in upper secondary education,1.1
-419,Latin America & the Caribbean,2020,Ratio of girls to boys in upper secondary education,1.09
-419,Latin America & the Caribbean,2021,Ratio of girls to boys in upper secondary education,1.11
-419,Latin America & the Caribbean,2022,Ratio of girls to boys in upper secondary education,1.1
 432,LLDCs,2005,Students enrolled in primary education (thousands),"53,493"
 432,LLDCs,2005,Gross enrollment ratio - Primary (male),101.1
 432,LLDCs,2005,Gross enrollment ratio - Primary (female),88.3
@@ -1047,74 +245,13 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 432,LLDCs,2005,Students enrolled in upper secondary education (thousands),"6,571"
 432,LLDCs,2005,Gross enrollment ratio - Upper secondary level (male),31.9
 432,LLDCs,2005,Gross enrollment ratio - Upper secondary level (female),26.8
-432,LLDCs,2010,Students enrolled in primary education (thousands),"64,531"
-432,LLDCs,2010,Gross enrollment ratio - Primary (male),106.9
-432,LLDCs,2010,Gross enrollment ratio - Primary (female),98.7
-432,LLDCs,2010,Students enrolled in lower secondary education (thousands),"19,845"
-432,LLDCs,2010,Gross enrollment ratio - Lower secondary level (male),59.2
-432,LLDCs,2010,Gross enrollment ratio - Lower secondary level (female),51.5
-432,LLDCs,2010,Students enrolled in upper secondary education (thousands),"8,469"
-432,LLDCs,2010,Gross enrollment ratio - Upper secondary level (male),37.5
-432,LLDCs,2010,Gross enrollment ratio - Upper secondary level (female),31.4
-432,LLDCs,2015,Students enrolled in primary education (thousands),"71,415"
-432,LLDCs,2015,Gross enrollment ratio - Primary (male),104.8
-432,LLDCs,2015,Gross enrollment ratio - Primary (female),97
-432,LLDCs,2015,Students enrolled in lower secondary education (thousands),"22,306"
-432,LLDCs,2015,Gross enrollment ratio - Lower secondary level (male),58.5
-432,LLDCs,2015,Gross enrollment ratio - Lower secondary level (female),53.5
-432,LLDCs,2015,Students enrolled in upper secondary education (thousands),"9,581"
-432,LLDCs,2015,Gross enrollment ratio - Upper secondary level (male),39.3
-432,LLDCs,2015,Gross enrollment ratio - Upper secondary level (female),33.7
-432,LLDCs,2020,Students enrolled in primary education (thousands),"81,234"
-432,LLDCs,2020,Gross enrollment ratio - Primary (male),106.6
-432,LLDCs,2020,Gross enrollment ratio - Primary (female),99
-432,LLDCs,2020,Students enrolled in lower secondary education (thousands),"25,055"
-432,LLDCs,2020,Gross enrollment ratio - Lower secondary level (male),58.3
-432,LLDCs,2020,Gross enrollment ratio - Lower secondary level (female),53
-432,LLDCs,2020,Students enrolled in upper secondary education (thousands),"10,911"
-432,LLDCs,2020,Gross enrollment ratio - Upper secondary level (male),39.4
-432,LLDCs,2020,Gross enrollment ratio - Upper secondary level (female),35.3
-432,LLDCs,2022,Students enrolled in primary education (thousands),"81,591"
-432,LLDCs,2022,Gross enrollment ratio - Primary (male),103.1
-432,LLDCs,2022,Gross enrollment ratio - Primary (female),96.2
 432,LLDCs,2005,Teachers at primary level,"1,308,056"
 432,LLDCs,2005,Teachers with minimum required qualifications at primary level,85.4
 432,LLDCs,2005,Teachers at lower secondary level,"1,011,504"
 432,LLDCs,2005,Teachers at upper secondary level,"449,909"
-432,LLDCs,2010,Teachers at primary level,"1,621,357"
-432,LLDCs,2010,Teachers with minimum required qualifications at primary level,85
-432,LLDCs,2010,Teachers at lower secondary level,"1,054,241"
-432,LLDCs,2010,Teachers at upper secondary level,"546,715"
-432,LLDCs,2015,Teachers at primary level,"1,934,194"
-432,LLDCs,2015,Teachers with minimum required qualifications at primary level,81.9
-432,LLDCs,2015,Teachers at lower secondary level,"1,215,731"
-432,LLDCs,2015,Teachers at upper secondary level,"597,643"
-432,LLDCs,2018,Teachers at primary level,"2,135,696"
-432,LLDCs,2018,Teachers with minimum required qualifications at primary level,76.9
-432,LLDCs,2018,Teachers at lower secondary level,"1,308,023"
-432,LLDCs,2018,Teachers with minimum required qualifications at lower secondary level,80.6
-432,LLDCs,2018,Teachers at upper secondary level,"659,123"
-432,LLDCs,2018,Teachers with minimum required qualifications at upper secondary level,84.8
-432,LLDCs,2021,Teachers at primary level,"2,330,544"
-432,LLDCs,2021,Teachers with minimum required qualifications at primary level,74.2
-432,LLDCs,2021,Teachers at lower secondary level,"1,334,670"
-432,LLDCs,2021,Teachers at upper secondary level,"695,818"
-432,LLDCs,2022,Teachers at primary level,"2,356,066"
-432,LLDCs,1995,Ratio of girls to boys in primary education,0.82
 432,LLDCs,2005,Ratio of girls to boys in primary education,0.87
-432,LLDCs,2010,Ratio of girls to boys in primary education,0.92
-432,LLDCs,2015,Ratio of girls to boys in primary education,0.93
-432,LLDCs,2020,Ratio of girls to boys in primary education,0.93
-432,LLDCs,2021,Ratio of girls to boys in primary education,0.93
-432,LLDCs,2022,Ratio of girls to boys in primary education,0.93
 432,LLDCs,2005,Ratio of girls to boys in lower secondary education,0.84
-432,LLDCs,2010,Ratio of girls to boys in lower secondary education,0.87
-432,LLDCs,2015,Ratio of girls to boys in lower secondary education,0.92
-432,LLDCs,2020,Ratio of girls to boys in lower secondary education,0.91
 432,LLDCs,2005,Ratio of girls to boys in upper secondary education,0.84
-432,LLDCs,2010,Ratio of girls to boys in upper secondary education,0.84
-432,LLDCs,2015,Ratio of girls to boys in upper secondary education,0.86
-432,LLDCs,2020,Ratio of girls to boys in upper secondary education,0.9
 722,SIDS,2005,Students enrolled in primary education (thousands),"6,928"
 722,SIDS,2005,Gross enrollment ratio - Primary (male),101.9
 722,SIDS,2005,Gross enrollment ratio - Primary (female),97.7
@@ -1124,6 +261,238 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 722,SIDS,2005,Students enrolled in upper secondary education (thousands),"1,295"
 722,SIDS,2005,Gross enrollment ratio - Upper secondary level (male),33
 722,SIDS,2005,Gross enrollment ratio - Upper secondary level (female),36.9
+722,SIDS,2005,Teachers at primary level,"318,585"
+722,SIDS,2005,Teachers with minimum required qualifications at primary level,85.4
+722,SIDS,2005,Teachers at lower secondary level,"150,442"
+722,SIDS,2005,Teachers with minimum required qualifications at lower secondary level,81.8
+722,SIDS,2005,Teachers at upper secondary level,"86,909"
+722,SIDS,2005,Teachers with minimum required qualifications at upper secondary level,94.3
+722,SIDS,2005,Ratio of girls to boys in primary education,0.96
+722,SIDS,2005,Ratio of girls to boys in lower secondary education,1
+722,SIDS,2005,Ratio of girls to boys in upper secondary education,1.11
+1,"Total, all countries or areas",2010,Students enrolled in primary education (thousands),"696,905"
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Primary (male),103.7
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Primary (female),100.9
+1,"Total, all countries or areas",2010,Students enrolled in lower secondary education (thousands),"315,870"
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Lower secondary level (male),83.8
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Lower secondary level (female),81.4
+1,"Total, all countries or areas",2010,Students enrolled in upper secondary education (thousands),"229,775"
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Upper secondary level (male),60.2
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Upper secondary level (female),57.7
+1,"Total, all countries or areas",2010,Teachers at primary level,"28,676,377"
+1,"Total, all countries or areas",2010,Teachers at lower secondary level,"17,877,582"
+1,"Total, all countries or areas",2010,Teachers at upper secondary level,"14,335,596"
+1,"Total, all countries or areas",2010,Ratio of girls to boys in primary education,0.97
+1,"Total, all countries or areas",2010,Ratio of girls to boys in lower secondary education,0.97
+1,"Total, all countries or areas",2010,Ratio of girls to boys in upper secondary education,0.96
+9,Oceania,2010,Students enrolled in primary education (thousands),"3,551"
+9,Oceania,2010,Gross enrollment ratio - Primary (male),98.1
+9,Oceania,2010,Gross enrollment ratio - Primary (female),96.1
+9,Oceania,2010,Students enrolled in lower secondary education (thousands),"1,980"
+9,Oceania,2010,Gross enrollment ratio - Lower secondary level (male),109.2
+9,Oceania,2010,Gross enrollment ratio - Lower secondary level (female),103.2
+9,Oceania,2010,Students enrolled in upper secondary education (thousands),"1,777"
+9,Oceania,2010,Gross enrollment ratio - Upper secondary level (male),117.3
+9,Oceania,2010,Gross enrollment ratio - Upper secondary level (female),109
+9,Oceania,2010,Teachers at primary level,"174,934"
+9,Oceania,2010,Ratio of girls to boys in primary education,0.98
+9,Oceania,2010,Ratio of girls to boys in lower secondary education,0.95
+9,Oceania,2010,Ratio of girls to boys in upper secondary education,0.93
+15,Northern Africa,2010,Students enrolled in primary education (thousands),"23,635"
+15,Northern Africa,2010,Gross enrollment ratio - Primary (male),98
+15,Northern Africa,2010,Gross enrollment ratio - Primary (female),92.7
+15,Northern Africa,2010,Students enrolled in lower secondary education (thousands),"11,130"
+15,Northern Africa,2010,Gross enrollment ratio - Lower secondary level (male),95
+15,Northern Africa,2010,Gross enrollment ratio - Lower secondary level (female),88.7
+15,Northern Africa,2010,Students enrolled in upper secondary education (thousands),"6,275"
+15,Northern Africa,2010,Gross enrollment ratio - Upper secondary level (male),47.4
+15,Northern Africa,2010,Gross enrollment ratio - Upper secondary level (female),51.1
+15,Northern Africa,2010,Teachers at primary level,"973,788"
+15,Northern Africa,2010,Teachers at lower secondary level,"622,844"
+15,Northern Africa,2010,Teachers at upper secondary level,"542,647"
+15,Northern Africa,2010,Ratio of girls to boys in primary education,0.95
+15,Northern Africa,2010,Ratio of girls to boys in lower secondary education,0.93
+15,Northern Africa,2010,Ratio of girls to boys in upper secondary education,1.07
+21,Northern America,2010,Students enrolled in primary education (thousands),"26,573"
+21,Northern America,2010,Gross enrollment ratio - Primary (male),100.7
+21,Northern America,2010,Gross enrollment ratio - Primary (female),99.8
+21,Northern America,2010,Students enrolled in lower secondary education (thousands),"13,268"
+21,Northern America,2010,Gross enrollment ratio - Lower secondary level (male),100.8
+21,Northern America,2010,Gross enrollment ratio - Lower secondary level (female),99.3
+21,Northern America,2010,Students enrolled in upper secondary education (thousands),"13,774"
+21,Northern America,2010,Gross enrollment ratio - Upper secondary level (male),91.8
+21,Northern America,2010,Gross enrollment ratio - Upper secondary level (female),94.5
+21,Northern America,2010,Teachers at primary level,"1,830,439"
+21,Northern America,2010,Teachers at lower secondary level,"862,886"
+21,Northern America,2010,Teachers at upper secondary level,"933,482"
+21,Northern America,2010,Ratio of girls to boys in primary education,0.99
+21,Northern America,2010,Ratio of girls to boys in lower secondary education,0.98
+21,Northern America,2010,Ratio of girls to boys in upper secondary education,1.03
+30,Eastern Asia,2010,Students enrolled in primary education (thousands),"113,631"
+30,Eastern Asia,2010,Gross enrollment ratio - Primary (male),104.6
+30,Eastern Asia,2010,Gross enrollment ratio - Primary (female),104.9
+30,Eastern Asia,2010,Students enrolled in lower secondary education (thousands),"61,743"
+30,Eastern Asia,2010,Gross enrollment ratio - Lower secondary level (male),103.8
+30,Eastern Asia,2010,Gross enrollment ratio - Lower secondary level (female),106.7
+30,Eastern Asia,2010,Students enrolled in upper secondary education (thousands),"51,931"
+30,Eastern Asia,2010,Gross enrollment ratio - Upper secondary level (male),80.8
+30,Eastern Asia,2010,Gross enrollment ratio - Upper secondary level (female),80.9
+30,Eastern Asia,2010,Teachers at primary level,"6,663,567"
+30,Eastern Asia,2010,Teachers at lower secondary level,"4,114,815"
+30,Eastern Asia,2010,Teachers at upper secondary level,"3,315,633"
+30,Eastern Asia,2010,Ratio of girls to boys in primary education,1
+30,Eastern Asia,2010,Ratio of girls to boys in lower secondary education,1.03
+30,Eastern Asia,2010,Ratio of girls to boys in upper secondary education,1
+34,Southern Asia,2010,Students enrolled in primary education (thousands),"191,840"
+34,Southern Asia,2010,Gross enrollment ratio - Primary (male),103
+34,Southern Asia,2010,Gross enrollment ratio - Primary (female),101.3
+34,Southern Asia,2010,Students enrolled in lower secondary education (thousands),"79,060"
+34,Southern Asia,2010,Gross enrollment ratio - Lower secondary level (male),74.4
+34,Southern Asia,2010,Gross enrollment ratio - Lower secondary level (female),70.9
+34,Southern Asia,2010,Students enrolled in upper secondary education (thousands),"64,315"
+34,Southern Asia,2010,Gross enrollment ratio - Upper secondary level (male),48.5
+34,Southern Asia,2010,Gross enrollment ratio - Upper secondary level (female),42.9
+34,Southern Asia,2010,Teachers at primary level,"5,327,088"
+34,Southern Asia,2010,Teachers at lower secondary level,"2,704,243"
+34,Southern Asia,2010,Teachers at upper secondary level,"2,999,879"
+34,Southern Asia,2010,Ratio of girls to boys in primary education,0.98
+34,Southern Asia,2010,Ratio of girls to boys in lower secondary education,0.95
+34,Southern Asia,2010,Ratio of girls to boys in upper secondary education,0.89
+35,South-eastern Asia,2010,Students enrolled in primary education (thousands),"68,285"
+35,South-eastern Asia,2010,Gross enrollment ratio - Primary (male),109.2
+35,South-eastern Asia,2010,Gross enrollment ratio - Primary (female),110.2
+35,South-eastern Asia,2010,Students enrolled in lower secondary education (thousands),"29,907"
+35,South-eastern Asia,2010,Gross enrollment ratio - Lower secondary level (male),84.2
+35,South-eastern Asia,2010,Gross enrollment ratio - Lower secondary level (female),87.3
+35,South-eastern Asia,2010,Students enrolled in upper secondary education (thousands),"14,859"
+35,South-eastern Asia,2010,Gross enrollment ratio - Upper secondary level (male),53.6
+35,South-eastern Asia,2010,Gross enrollment ratio - Upper secondary level (female),53.5
+35,South-eastern Asia,2010,Teachers at primary level,"3,242,386"
+35,South-eastern Asia,2010,Teachers at lower secondary level,"1,723,380"
+35,South-eastern Asia,2010,Teachers at upper secondary level,"880,324"
+35,South-eastern Asia,2010,Ratio of girls to boys in primary education,1.01
+35,South-eastern Asia,2010,Ratio of girls to boys in lower secondary education,1.04
+35,South-eastern Asia,2010,Ratio of girls to boys in upper secondary education,1
+62,South-central Asia,2010,Teachers at primary level,"5,552,573"
+62,South-central Asia,2010,Teachers at lower secondary level,"3,242,259"
+62,South-central Asia,2010,Teachers at upper secondary level,"3,225,281"
+62,South-central Asia,2010,Ratio of girls to boys in primary education,0.98
+62,South-central Asia,2010,Ratio of girls to boys in lower secondary education,0.95
+62,South-central Asia,2010,Ratio of girls to boys in upper secondary education,0.89
+143,Central Asia,2010,Students enrolled in primary education (thousands),"4,320"
+143,Central Asia,2010,Gross enrollment ratio - Primary (male),98.5
+143,Central Asia,2010,Gross enrollment ratio - Primary (female),97.2
+143,Central Asia,2010,Students enrolled in lower secondary education (thousands),"5,909"
+143,Central Asia,2010,Gross enrollment ratio - Lower secondary level (male),97.1
+143,Central Asia,2010,Gross enrollment ratio - Lower secondary level (female),94.6
+143,Central Asia,2010,Students enrolled in upper secondary education (thousands),"2,736"
+143,Central Asia,2010,Gross enrollment ratio - Upper secondary level (male),83.2
+143,Central Asia,2010,Gross enrollment ratio - Upper secondary level (female),81.3
+143,Central Asia,2010,Teachers at primary level,"225,484"
+143,Central Asia,2010,Teachers with minimum required qualifications at primary level,96.9
+143,Central Asia,2010,Ratio of girls to boys in primary education,0.99
+143,Central Asia,2010,Ratio of girls to boys in lower secondary education,0.98
+143,Central Asia,2010,Ratio of girls to boys in upper secondary education,1
+145,Western Asia,2010,Students enrolled in primary education (thousands),"25,347"
+145,Western Asia,2010,Gross enrollment ratio - Primary (male),102.3
+145,Western Asia,2010,Gross enrollment ratio - Primary (female),96
+145,Western Asia,2010,Students enrolled in lower secondary education (thousands),"13,473"
+145,Western Asia,2010,Gross enrollment ratio - Lower secondary level (male),88.8
+145,Western Asia,2010,Gross enrollment ratio - Lower secondary level (female),81.4
+145,Western Asia,2010,Students enrolled in upper secondary education (thousands),"9,035"
+145,Western Asia,2010,Gross enrollment ratio - Upper secondary level (male),65
+145,Western Asia,2010,Gross enrollment ratio - Upper secondary level (female),59.8
+145,Western Asia,2010,Teachers at primary level,"1,440,371"
+145,Western Asia,2010,Teachers with minimum required qualifications at primary level,89.1
+145,Western Asia,2010,Teachers at lower secondary level,"924,296"
+145,Western Asia,2010,Teachers at upper secondary level,"682,472"
+145,Western Asia,2010,Ratio of girls to boys in primary education,0.94
+145,Western Asia,2010,Ratio of girls to boys in lower secondary education,0.92
+145,Western Asia,2010,Ratio of girls to boys in upper secondary education,0.92
+150,Europe,2010,Students enrolled in primary education (thousands),"36,741"
+150,Europe,2010,Gross enrollment ratio - Primary (male),101.4
+150,Europe,2010,Gross enrollment ratio - Primary (female),100.9
+150,Europe,2010,Students enrolled in lower secondary education (thousands),"32,355"
+150,Europe,2010,Gross enrollment ratio - Lower secondary level (male),103.3
+150,Europe,2010,Gross enrollment ratio - Lower secondary level (female),102.3
+150,Europe,2010,Students enrolled in upper secondary education (thousands),"26,264"
+150,Europe,2010,Gross enrollment ratio - Upper secondary level (male),103.4
+150,Europe,2010,Gross enrollment ratio - Upper secondary level (female),102.2
+150,Europe,2010,Teachers at primary level,"2,673,047"
+150,Europe,2010,Teachers with minimum required qualifications at primary level,97.4
+150,Europe,2010,Teachers at lower secondary level,"3,119,051"
+150,Europe,2010,Teachers at upper secondary level,"2,360,896"
+150,Europe,2010,Ratio of girls to boys in primary education,1
+150,Europe,2010,Ratio of girls to boys in lower secondary education,0.99
+150,Europe,2010,Ratio of girls to boys in upper secondary education,0.99
+199,LDC§,2010,Students enrolled in primary education (thousands),"130,200"
+199,LDC§,2010,Gross enrollment ratio - Primary (male),104.4
+199,LDC§,2010,Gross enrollment ratio - Primary (female),97.3
+199,LDC§,2010,Students enrolled in lower secondary education (thousands),"31,028"
+199,LDC§,2010,Gross enrollment ratio - Lower secondary level (male),51.9
+199,LDC§,2010,Gross enrollment ratio - Lower secondary level (female),45.6
+199,LDC§,2010,Students enrolled in upper secondary education (thousands),"14,306"
+199,LDC§,2010,Gross enrollment ratio - Upper secondary level (male),29.7
+199,LDC§,2010,Gross enrollment ratio - Upper secondary level (female),22.5
+199,LDC§,2010,Teachers at primary level,"3,101,903"
+199,LDC§,2010,Teachers with minimum required qualifications at primary level,78.1
+199,LDC§,2010,Teachers at lower secondary level,"1,126,535"
+199,LDC§,2010,Teachers with minimum required qualifications at lower secondary level,67.3
+199,LDC§,2010,Teachers at upper secondary level,"660,403"
+199,LDC§,2010,Teachers with minimum required qualifications at upper secondary level,51.5
+199,LDC§,2010,Ratio of girls to boys in primary education,0.93
+199,LDC§,2010,Ratio of girls to boys in lower secondary education,0.88
+199,LDC§,2010,Ratio of girls to boys in upper secondary education,0.76
+202,Sub-Saharan Africa,2010,Students enrolled in primary education (thousands),"135,997"
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Primary (male),101.3
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Primary (female),93.6
+202,Sub-Saharan Africa,2010,Students enrolled in lower secondary education (thousands),"28,640"
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Lower secondary level (male),50.2
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Lower secondary level (female),42.1
+202,Sub-Saharan Africa,2010,Students enrolled in upper secondary education (thousands),"16,019"
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Upper secondary level (male),34.1
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Upper secondary level (female),26.5
+202,Sub-Saharan Africa,2010,Teachers at primary level,"3,170,264"
+202,Sub-Saharan Africa,2010,Teachers with minimum required qualifications at primary level,75.3
+202,Sub-Saharan Africa,2010,Teachers at lower secondary level,"1,128,195"
+202,Sub-Saharan Africa,2010,Teachers with minimum required qualifications at lower secondary level,65.4
+202,Sub-Saharan Africa,2010,Teachers at upper secondary level,"736,694"
+202,Sub-Saharan Africa,2010,Teachers with minimum required qualifications at upper secondary level,55.8
+202,Sub-Saharan Africa,2010,Ratio of girls to boys in primary education,0.92
+202,Sub-Saharan Africa,2010,Ratio of girls to boys in lower secondary education,0.84
+202,Sub-Saharan Africa,2010,Ratio of girls to boys in upper secondary education,0.78
+419,Latin America & the Caribbean,2010,Students enrolled in primary education (thousands),"66,985"
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Primary (male),110.7
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Primary (female),107.1
+419,Latin America & the Caribbean,2010,Students enrolled in lower secondary education (thousands),"38,296"
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Lower secondary level (male),102.2
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Lower secondary level (female),105.4
+419,Latin America & the Caribbean,2010,Students enrolled in upper secondary education (thousands),"22,746"
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Upper secondary level (male),67.1
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Upper secondary level (female),77.8
+419,Latin America & the Caribbean,2010,Teachers at primary level,"2,955,008"
+419,Latin America & the Caribbean,2010,Teachers with minimum required qualifications at primary level,80.7
+419,Latin America & the Caribbean,2010,Teachers at lower secondary level,"2,039,144"
+419,Latin America & the Caribbean,2010,Teachers at upper secondary level,"1,540,270"
+419,Latin America & the Caribbean,2010,Ratio of girls to boys in primary education,0.97
+419,Latin America & the Caribbean,2010,Ratio of girls to boys in lower secondary education,1.03
+419,Latin America & the Caribbean,2010,Ratio of girls to boys in upper secondary education,1.14
+432,LLDCs,2010,Students enrolled in primary education (thousands),"64,531"
+432,LLDCs,2010,Gross enrollment ratio - Primary (male),106.9
+432,LLDCs,2010,Gross enrollment ratio - Primary (female),98.7
+432,LLDCs,2010,Students enrolled in lower secondary education (thousands),"19,845"
+432,LLDCs,2010,Gross enrollment ratio - Lower secondary level (male),59.2
+432,LLDCs,2010,Gross enrollment ratio - Lower secondary level (female),51.5
+432,LLDCs,2010,Students enrolled in upper secondary education (thousands),"8,469"
+432,LLDCs,2010,Gross enrollment ratio - Upper secondary level (male),37.5
+432,LLDCs,2010,Gross enrollment ratio - Upper secondary level (female),31.4
+432,LLDCs,2010,Teachers at primary level,"1,621,357"
+432,LLDCs,2010,Teachers with minimum required qualifications at primary level,85
+432,LLDCs,2010,Teachers at lower secondary level,"1,054,241"
+432,LLDCs,2010,Teachers at upper secondary level,"546,715"
+432,LLDCs,2010,Ratio of girls to boys in primary education,0.92
+432,LLDCs,2010,Ratio of girls to boys in lower secondary education,0.87
+432,LLDCs,2010,Ratio of girls to boys in upper secondary education,0.84
 722,SIDS,2010,Students enrolled in primary education (thousands),"7,230"
 722,SIDS,2010,Gross enrollment ratio - Primary (male),106
 722,SIDS,2010,Gross enrollment ratio - Primary (female),100.9
@@ -1133,6 +502,256 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 722,SIDS,2010,Students enrolled in upper secondary education (thousands),"1,400"
 722,SIDS,2010,Gross enrollment ratio - Upper secondary level (male),35.2
 722,SIDS,2010,Gross enrollment ratio - Upper secondary level (female),38.5
+722,SIDS,2010,Teachers at primary level,"345,072"
+722,SIDS,2010,Teachers with minimum required qualifications at primary level,84.5
+722,SIDS,2010,Teachers at lower secondary level,"164,637"
+722,SIDS,2010,Teachers with minimum required qualifications at lower secondary level,76.8
+722,SIDS,2010,Teachers at upper secondary level,"98,084"
+722,SIDS,2010,Teachers with minimum required qualifications at upper secondary level,92.4
+722,SIDS,2010,Ratio of girls to boys in primary education,0.95
+722,SIDS,2010,Ratio of girls to boys in lower secondary education,0.98
+722,SIDS,2010,Ratio of girls to boys in upper secondary education,1.09
+1,"Total, all countries or areas",2015,Students enrolled in primary education (thousands),"719,788"
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Primary (male),101.5
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Primary (female),101.1
+1,"Total, all countries or areas",2015,Students enrolled in lower secondary education (thousands),"325,454"
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Lower secondary level (male),83.8
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Lower secondary level (female),83.3
+1,"Total, all countries or areas",2015,Students enrolled in upper secondary education (thousands),"257,435"
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Upper secondary level (male),67.1
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Upper secondary level (female),65.6
+1,"Total, all countries or areas",2015,Teachers at primary level,"31,266,360"
+1,"Total, all countries or areas",2015,Teachers with minimum required qualifications at primary level,85.9
+1,"Total, all countries or areas",2015,Teachers at lower secondary level,"18,751,487"
+1,"Total, all countries or areas",2015,Teachers with minimum required qualifications at lower secondary level,86
+1,"Total, all countries or areas",2015,Teachers at upper secondary level,"14,957,666"
+1,"Total, all countries or areas",2015,Ratio of girls to boys in primary education,1
+1,"Total, all countries or areas",2015,Ratio of girls to boys in lower secondary education,0.99
+1,"Total, all countries or areas",2015,Ratio of girls to boys in upper secondary education,0.98
+9,Oceania,2015,Students enrolled in primary education (thousands),"4,102"
+9,Oceania,2015,Gross enrollment ratio - Primary (male),103.1
+9,Oceania,2015,Gross enrollment ratio - Primary (female),100.9
+9,Oceania,2015,Students enrolled in lower secondary education (thousands),"2,040"
+9,Oceania,2015,Gross enrollment ratio - Lower secondary level (male),111.9
+9,Oceania,2015,Gross enrollment ratio - Lower secondary level (female),101.4
+9,Oceania,2015,Students enrolled in upper secondary education (thousands),"1,844"
+9,Oceania,2015,Gross enrollment ratio - Upper secondary level (male),117.8
+9,Oceania,2015,Gross enrollment ratio - Upper secondary level (female),106
+9,Oceania,2015,Teachers at primary level,"194,451"
+9,Oceania,2015,Ratio of girls to boys in primary education,0.98
+9,Oceania,2015,Ratio of girls to boys in lower secondary education,0.91
+9,Oceania,2015,Ratio of girls to boys in upper secondary education,0.9
+15,Northern Africa,2015,Students enrolled in primary education (thousands),"25,874"
+15,Northern Africa,2015,Gross enrollment ratio - Primary (male),97.3
+15,Northern Africa,2015,Gross enrollment ratio - Primary (female),93.4
+15,Northern Africa,2015,Students enrolled in lower secondary education (thousands),"11,666"
+15,Northern Africa,2015,Gross enrollment ratio - Lower secondary level (male),96.5
+15,Northern Africa,2015,Gross enrollment ratio - Lower secondary level (female),91.6
+15,Northern Africa,2015,Students enrolled in upper secondary education (thousands),"7,532"
+15,Northern Africa,2015,Gross enrollment ratio - Upper secondary level (male),58.5
+15,Northern Africa,2015,Gross enrollment ratio - Upper secondary level (female),62
+15,Northern Africa,2015,Teachers at primary level,"1,148,562"
+15,Northern Africa,2015,Teachers with minimum required qualifications at primary level,88.3
+15,Northern Africa,2015,Teachers at lower secondary level,"645,653"
+15,Northern Africa,2015,Teachers with minimum required qualifications at lower secondary level,83.8
+15,Northern Africa,2015,Teachers at upper secondary level,"587,507"
+15,Northern Africa,2015,Teachers with minimum required qualifications at upper secondary level,78.8
+15,Northern Africa,2015,Ratio of girls to boys in primary education,0.96
+15,Northern Africa,2015,Ratio of girls to boys in lower secondary education,0.95
+15,Northern Africa,2015,Ratio of girls to boys in upper secondary education,1.06
+21,Northern America,2015,Students enrolled in primary education (thousands),"27,094"
+21,Northern America,2015,Gross enrollment ratio - Primary (male),100.3
+21,Northern America,2015,Gross enrollment ratio - Primary (female),100.2
+21,Northern America,2015,Students enrolled in lower secondary education (thousands),"13,702"
+21,Northern America,2015,Gross enrollment ratio - Lower secondary level (male),100.5
+21,Northern America,2015,Gross enrollment ratio - Lower secondary level (female),100.7
+21,Northern America,2015,Students enrolled in upper secondary education (thousands),"13,361"
+21,Northern America,2015,Gross enrollment ratio - Upper secondary level (male),96.3
+21,Northern America,2015,Gross enrollment ratio - Upper secondary level (female),98.1
+21,Northern America,2015,Teachers at primary level,"1,925,142"
+21,Northern America,2015,Teachers with minimum required qualifications at primary level,99.1
+21,Northern America,2015,Teachers at lower secondary level,"890,500"
+21,Northern America,2015,Teachers with minimum required qualifications at lower secondary level,99.3
+21,Northern America,2015,Teachers at upper secondary level,"912,037"
+21,Northern America,2015,Teachers with minimum required qualifications at upper secondary level,98.4
+21,Northern America,2015,Ratio of girls to boys in primary education,1
+21,Northern America,2015,Ratio of girls to boys in lower secondary education,1
+21,Northern America,2015,Ratio of girls to boys in upper secondary education,1.02
+30,Eastern Asia,2015,Students enrolled in primary education (thousands),"107,559"
+30,Eastern Asia,2015,Gross enrollment ratio - Primary (male),97
+30,Eastern Asia,2015,Gross enrollment ratio - Primary (female),98.1
+30,Eastern Asia,2015,Students enrolled in lower secondary education (thousands),"50,977"
+30,Eastern Asia,2015,Gross enrollment ratio - Lower secondary level (male),92.3
+30,Eastern Asia,2015,Gross enrollment ratio - Lower secondary level (female),94.2
+30,Eastern Asia,2015,Students enrolled in upper secondary education (thousands),"48,634"
+30,Eastern Asia,2015,Gross enrollment ratio - Upper secondary level (male),85
+30,Eastern Asia,2015,Gross enrollment ratio - Upper secondary level (female),90.5
+30,Eastern Asia,2015,Teachers at primary level,"6,577,011"
+30,Eastern Asia,2015,Teachers at lower secondary level,"4,034,653"
+30,Eastern Asia,2015,Teachers at upper secondary level,"3,246,236"
+30,Eastern Asia,2015,Ratio of girls to boys in primary education,1.01
+30,Eastern Asia,2015,Ratio of girls to boys in lower secondary education,1.02
+30,Eastern Asia,2015,Ratio of girls to boys in upper secondary education,1.06
+34,Southern Asia,2015,Students enrolled in primary education (thousands),"195,984"
+34,Southern Asia,2015,Gross enrollment ratio - Primary (male),102
+34,Southern Asia,2015,Gross enrollment ratio - Primary (female),107
+34,Southern Asia,2015,Students enrolled in lower secondary education (thousands),"88,796"
+34,Southern Asia,2015,Gross enrollment ratio - Lower secondary level (male),78.4
+34,Southern Asia,2015,Gross enrollment ratio - Lower secondary level (female),80.5
+34,Southern Asia,2015,Students enrolled in upper secondary education (thousands),"81,636"
+34,Southern Asia,2015,Gross enrollment ratio - Upper secondary level (male),58.1
+34,Southern Asia,2015,Gross enrollment ratio - Upper secondary level (female),54.5
+34,Southern Asia,2015,Teachers at primary level,"6,055,070"
+34,Southern Asia,2015,Teachers with minimum required qualifications at primary level,71.2
+34,Southern Asia,2015,Teachers at lower secondary level,"3,093,758"
+34,Southern Asia,2015,Teachers with minimum required qualifications at lower secondary level,82.6
+34,Southern Asia,2015,Teachers at upper secondary level,"2,645,755"
+34,Southern Asia,2015,Ratio of girls to boys in primary education,1.05
+34,Southern Asia,2015,Ratio of girls to boys in lower secondary education,1.03
+34,Southern Asia,2015,Ratio of girls to boys in upper secondary education,0.94
+35,South-eastern Asia,2015,Students enrolled in primary education (thousands),"68,684"
+35,South-eastern Asia,2015,Gross enrollment ratio - Primary (male),110
+35,South-eastern Asia,2015,Gross enrollment ratio - Primary (female),107.6
+35,South-eastern Asia,2015,Students enrolled in lower secondary education (thousands),"32,785"
+35,South-eastern Asia,2015,Gross enrollment ratio - Lower secondary level (male),93.3
+35,South-eastern Asia,2015,Gross enrollment ratio - Lower secondary level (female),96.1
+35,South-eastern Asia,2015,Students enrolled in upper secondary education (thousands),"18,646"
+35,South-eastern Asia,2015,Gross enrollment ratio - Upper secondary level (male),69.6
+35,South-eastern Asia,2015,Gross enrollment ratio - Upper secondary level (female),67.8
+35,South-eastern Asia,2015,Teachers at primary level,"3,708,197"
+35,South-eastern Asia,2015,Teachers with minimum required qualifications at primary level,97.8
+35,South-eastern Asia,2015,Teachers at lower secondary level,"1,850,496"
+35,South-eastern Asia,2015,Teachers with minimum required qualifications at lower secondary level,97.9
+35,South-eastern Asia,2015,Teachers at upper secondary level,"888,958"
+35,South-eastern Asia,2015,Teachers with minimum required qualifications at upper secondary level,96.3
+35,South-eastern Asia,2015,Ratio of girls to boys in primary education,0.98
+35,South-eastern Asia,2015,Ratio of girls to boys in lower secondary education,1.03
+35,South-eastern Asia,2015,Ratio of girls to boys in upper secondary education,0.97
+62,South-central Asia,2015,Teachers at primary level,"6,307,102"
+62,South-central Asia,2015,Teachers with minimum required qualifications at primary level,72.4
+62,South-central Asia,2015,Teachers at lower secondary level,"3,649,646"
+62,South-central Asia,2015,Teachers with minimum required qualifications at lower secondary level,84.4
+62,South-central Asia,2015,Teachers at upper secondary level,"2,886,954"
+62,South-central Asia,2015,Ratio of girls to boys in primary education,1.05
+62,South-central Asia,2015,Ratio of girls to boys in lower secondary education,1.02
+62,South-central Asia,2015,Ratio of girls to boys in upper secondary education,0.94
+143,Central Asia,2015,Students enrolled in primary education (thousands),"4,932"
+143,Central Asia,2015,Gross enrollment ratio - Primary (male),99.2
+143,Central Asia,2015,Gross enrollment ratio - Primary (female),98.3
+143,Central Asia,2015,Students enrolled in lower secondary education (thousands),"5,426"
+143,Central Asia,2015,Gross enrollment ratio - Lower secondary level (male),95.1
+143,Central Asia,2015,Gross enrollment ratio - Lower secondary level (female),94
+143,Central Asia,2015,Students enrolled in upper secondary education (thousands),"2,617"
+143,Central Asia,2015,Gross enrollment ratio - Upper secondary level (male),90
+143,Central Asia,2015,Gross enrollment ratio - Upper secondary level (female),88.1
+143,Central Asia,2015,Teachers at primary level,"252,032"
+143,Central Asia,2015,Teachers with minimum required qualifications at primary level,99.5
+143,Central Asia,2015,Teachers at lower secondary level,"555,888"
+143,Central Asia,2015,Teachers at upper secondary level,"241,199"
+143,Central Asia,2015,Ratio of girls to boys in primary education,0.99
+143,Central Asia,2015,Ratio of girls to boys in lower secondary education,0.99
+143,Central Asia,2015,Ratio of girls to boys in upper secondary education,1
+145,Western Asia,2015,Students enrolled in primary education (thousands),"26,350"
+145,Western Asia,2015,Gross enrollment ratio - Primary (male),98.5
+145,Western Asia,2015,Gross enrollment ratio - Primary (female),93
+145,Western Asia,2015,Students enrolled in lower secondary education (thousands),"13,787"
+145,Western Asia,2015,Gross enrollment ratio - Lower secondary level (male),85.3
+145,Western Asia,2015,Gross enrollment ratio - Lower secondary level (female),81.7
+145,Western Asia,2015,Students enrolled in upper secondary education (thousands),"11,485"
+145,Western Asia,2015,Gross enrollment ratio - Upper secondary level (male),77.6
+145,Western Asia,2015,Gross enrollment ratio - Upper secondary level (female),74.5
+145,Western Asia,2015,Teachers at primary level,"1,580,794"
+145,Western Asia,2015,Teachers with minimum required qualifications at primary level,85
+145,Western Asia,2015,Teachers at lower secondary level,"964,440"
+145,Western Asia,2015,Teachers with minimum required qualifications at lower secondary level,86.1
+145,Western Asia,2015,Teachers at upper secondary level,"849,121"
+145,Western Asia,2015,Ratio of girls to boys in primary education,0.94
+145,Western Asia,2015,Ratio of girls to boys in lower secondary education,0.96
+145,Western Asia,2015,Ratio of girls to boys in upper secondary education,0.96
+150,Europe,2015,Students enrolled in primary education (thousands),"38,360"
+150,Europe,2015,Gross enrollment ratio - Primary (male),100.4
+150,Europe,2015,Gross enrollment ratio - Primary (female),100.1
+150,Europe,2015,Students enrolled in lower secondary education (thousands),"30,636"
+150,Europe,2015,Gross enrollment ratio - Lower secondary level (male),102.3
+150,Europe,2015,Gross enrollment ratio - Lower secondary level (female),101.1
+150,Europe,2015,Students enrolled in upper secondary education (thousands),"26,830"
+150,Europe,2015,Gross enrollment ratio - Upper secondary level (male),112.8
+150,Europe,2015,Gross enrollment ratio - Upper secondary level (female),112.6
+150,Europe,2015,Teachers at primary level,"2,733,121"
+150,Europe,2015,Teachers with minimum required qualifications at primary level,93.7
+150,Europe,2015,Teachers at lower secondary level,"3,067,590"
+150,Europe,2015,Teachers at upper secondary level,"2,303,397"
+150,Europe,2015,Ratio of girls to boys in primary education,1
+150,Europe,2015,Ratio of girls to boys in lower secondary education,0.99
+150,Europe,2015,Ratio of girls to boys in upper secondary education,1
+199,LDC§,2015,Students enrolled in primary education (thousands),"145,520"
+199,LDC§,2015,Gross enrollment ratio - Primary (male),103.5
+199,LDC§,2015,Gross enrollment ratio - Primary (female),98.6
+199,LDC§,2015,Students enrolled in lower secondary education (thousands),"38,824"
+199,LDC§,2015,Gross enrollment ratio - Lower secondary level (male),56.3
+199,LDC§,2015,Gross enrollment ratio - Lower secondary level (female),52.7
+199,LDC§,2015,Students enrolled in upper secondary education (thousands),"19,338"
+199,LDC§,2015,Gross enrollment ratio - Upper secondary level (male),34.6
+199,LDC§,2015,Gross enrollment ratio - Upper secondary level (female),28.5
+199,LDC§,2015,Teachers at primary level,"3,872,442"
+199,LDC§,2015,Teachers with minimum required qualifications at primary level,75.4
+199,LDC§,2015,Teachers at lower secondary level,"1,224,152"
+199,LDC§,2015,Teachers with minimum required qualifications at lower secondary level,62.4
+199,LDC§,2015,Teachers at upper secondary level,"1,118,639"
+199,LDC§,2015,Teachers with minimum required qualifications at upper secondary level,59.6
+199,LDC§,2015,Ratio of girls to boys in primary education,0.95
+199,LDC§,2015,Ratio of girls to boys in lower secondary education,0.94
+199,LDC§,2015,Ratio of girls to boys in upper secondary education,0.83
+202,Sub-Saharan Africa,2015,Students enrolled in primary education (thousands),"157,266"
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Primary (male),100.1
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Primary (female),95.3
+202,Sub-Saharan Africa,2015,Students enrolled in lower secondary education (thousands),"36,584"
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Lower secondary level (male),53.6
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Lower secondary level (female),47.9
+202,Sub-Saharan Africa,2015,Students enrolled in upper secondary education (thousands),"19,919"
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Upper secondary level (male),37.6
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Upper secondary level (female),30.3
+202,Sub-Saharan Africa,2015,Teachers at primary level,"4,052,317"
+202,Sub-Saharan Africa,2015,Teachers with minimum required qualifications at primary level,71.9
+202,Sub-Saharan Africa,2015,Teachers at lower secondary level,"1,576,616"
+202,Sub-Saharan Africa,2015,Teachers with minimum required qualifications at lower secondary level,56.6
+202,Sub-Saharan Africa,2015,Teachers at upper secondary level,"1,206,927"
+202,Sub-Saharan Africa,2015,Teachers with minimum required qualifications at upper secondary level,55.4
+202,Sub-Saharan Africa,2015,Ratio of girls to boys in primary education,0.95
+202,Sub-Saharan Africa,2015,Ratio of girls to boys in lower secondary education,0.89
+202,Sub-Saharan Africa,2015,Ratio of girls to boys in upper secondary education,0.8
+419,Latin America & the Caribbean,2015,Students enrolled in primary education (thousands),"63,585"
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Primary (male),107.9
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Primary (female),105.5
+419,Latin America & the Caribbean,2015,Students enrolled in lower secondary education (thousands),"38,882"
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Lower secondary level (male),108.1
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Lower secondary level (female),110.1
+419,Latin America & the Caribbean,2015,Students enrolled in upper secondary education (thousands),"24,860"
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Upper secondary level (male),74.1
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Upper secondary level (female),82.4
+419,Latin America & the Caribbean,2015,Teachers at primary level,"3,039,662"
+419,Latin America & the Caribbean,2015,Teachers with minimum required qualifications at primary level,78.8
+419,Latin America & the Caribbean,2015,Teachers at lower secondary level,"1,963,531"
+419,Latin America & the Caribbean,2015,Teachers at upper secondary level,"1,955,319"
+419,Latin America & the Caribbean,2015,Ratio of girls to boys in primary education,0.98
+419,Latin America & the Caribbean,2015,Ratio of girls to boys in lower secondary education,1.02
+419,Latin America & the Caribbean,2015,Ratio of girls to boys in upper secondary education,1.1
+432,LLDCs,2015,Students enrolled in primary education (thousands),"71,415"
+432,LLDCs,2015,Gross enrollment ratio - Primary (male),104.8
+432,LLDCs,2015,Gross enrollment ratio - Primary (female),97
+432,LLDCs,2015,Students enrolled in lower secondary education (thousands),"22,306"
+432,LLDCs,2015,Gross enrollment ratio - Lower secondary level (male),58.5
+432,LLDCs,2015,Gross enrollment ratio - Lower secondary level (female),53.5
+432,LLDCs,2015,Students enrolled in upper secondary education (thousands),"9,581"
+432,LLDCs,2015,Gross enrollment ratio - Upper secondary level (male),39.3
+432,LLDCs,2015,Gross enrollment ratio - Upper secondary level (female),33.7
+432,LLDCs,2015,Teachers at primary level,"1,934,194"
+432,LLDCs,2015,Teachers with minimum required qualifications at primary level,81.9
+432,LLDCs,2015,Teachers at lower secondary level,"1,215,731"
+432,LLDCs,2015,Teachers at upper secondary level,"597,643"
+432,LLDCs,2015,Ratio of girls to boys in primary education,0.93
+432,LLDCs,2015,Ratio of girls to boys in lower secondary education,0.92
+432,LLDCs,2015,Ratio of girls to boys in upper secondary education,0.86
 722,SIDS,2015,Students enrolled in primary education (thousands),"7,466"
 722,SIDS,2015,Gross enrollment ratio - Primary (male),109.8
 722,SIDS,2015,Gross enrollment ratio - Primary (female),105.1
@@ -1142,6 +761,372 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 722,SIDS,2015,Students enrolled in upper secondary education (thousands),"1,539"
 722,SIDS,2015,Gross enrollment ratio - Upper secondary level (male),38.3
 722,SIDS,2015,Gross enrollment ratio - Upper secondary level (female),40.8
+722,SIDS,2015,Teachers at primary level,"361,941"
+722,SIDS,2015,Teachers with minimum required qualifications at primary level,87.9
+722,SIDS,2015,Teachers with minimum required qualifications at lower secondary level,10.2
+722,SIDS,2015,Teachers at upper secondary level,"321,740"
+722,SIDS,2015,Teachers with minimum required qualifications at upper secondary level,74.9
+722,SIDS,2015,Ratio of girls to boys in primary education,0.96
+722,SIDS,2015,Ratio of girls to boys in lower secondary education,0.98
+722,SIDS,2015,Ratio of girls to boys in upper secondary education,1.06
+1,"Total, all countries or areas",2020,Ratio of girls to boys in primary education,0.98
+1,"Total, all countries or areas",2020,Ratio of girls to boys in lower secondary education,0.99
+1,"Total, all countries or areas",2020,Ratio of girls to boys in upper secondary education,0.98
+9,Oceania,2020,Ratio of girls to boys in primary education,0.98
+9,Oceania,2020,Ratio of girls to boys in lower secondary education,0.95
+9,Oceania,2020,Ratio of girls to boys in upper secondary education,1
+15,Northern Africa,2020,Ratio of girls to boys in primary education,0.97
+15,Northern Africa,2020,Ratio of girls to boys in lower secondary education,0.95
+15,Northern Africa,2020,Ratio of girls to boys in upper secondary education,1.07
+21,Northern America,2020,Ratio of girls to boys in primary education,0.99
+21,Northern America,2020,Ratio of girls to boys in lower secondary education,0.98
+21,Northern America,2020,Ratio of girls to boys in upper secondary education,0.98
+30,Eastern Asia,2020,Ratio of girls to boys in primary education,1.01
+30,Eastern Asia,2020,Ratio of girls to boys in lower secondary education,1.01
+30,Eastern Asia,2020,Ratio of girls to boys in upper secondary education,1.04
+34,Southern Asia,2020,Ratio of girls to boys in primary education,0.99
+34,Southern Asia,2020,Ratio of girls to boys in lower secondary education,1.02
+34,Southern Asia,2020,Ratio of girls to boys in upper secondary education,0.94
+35,South-eastern Asia,2020,Ratio of girls to boys in primary education,0.99
+35,South-eastern Asia,2020,Ratio of girls to boys in lower secondary education,1.02
+35,South-eastern Asia,2020,Ratio of girls to boys in upper secondary education,1.04
+62,South-central Asia,2020,Ratio of girls to boys in primary education,0.99
+62,South-central Asia,2020,Ratio of girls to boys in lower secondary education,1.02
+62,South-central Asia,2020,Ratio of girls to boys in upper secondary education,0.94
+143,Central Asia,2020,Ratio of girls to boys in primary education,0.99
+143,Central Asia,2020,Ratio of girls to boys in lower secondary education,0.99
+143,Central Asia,2020,Ratio of girls to boys in upper secondary education,0.99
+145,Western Asia,2020,Ratio of girls to boys in primary education,0.94
+145,Western Asia,2020,Ratio of girls to boys in lower secondary education,0.96
+145,Western Asia,2020,Ratio of girls to boys in upper secondary education,0.92
+150,Europe,2020,Ratio of girls to boys in primary education,0.99
+150,Europe,2020,Ratio of girls to boys in lower secondary education,0.99
+150,Europe,2020,Ratio of girls to boys in upper secondary education,1
+199,LDC§,2020,Teachers at primary level,"4,460,887"
+199,LDC§,2020,Teachers with minimum required qualifications at primary level,72.7
+199,LDC§,2020,Teachers at lower secondary level,"1,532,037"
+199,LDC§,2020,Teachers with minimum required qualifications at lower secondary level,64.1
+199,LDC§,2020,Teachers at upper secondary level,"1,308,449"
+199,LDC§,2020,Ratio of girls to boys in primary education,0.95
+199,LDC§,2020,Ratio of girls to boys in lower secondary education,0.94
+199,LDC§,2020,Ratio of girls to boys in upper secondary education,0.9
+202,Sub-Saharan Africa,2020,Ratio of girls to boys in primary education,0.96
+202,Sub-Saharan Africa,2020,Ratio of girls to boys in lower secondary education,0.92
+202,Sub-Saharan Africa,2020,Ratio of girls to boys in upper secondary education,0.87
+419,Latin America & the Caribbean,2020,Ratio of girls to boys in primary education,0.98
+419,Latin America & the Caribbean,2020,Ratio of girls to boys in lower secondary education,1.03
+419,Latin America & the Caribbean,2020,Ratio of girls to boys in upper secondary education,1.09
+432,LLDCs,2020,Students enrolled in primary education (thousands),"81,234"
+432,LLDCs,2020,Gross enrollment ratio - Primary (male),106.6
+432,LLDCs,2020,Gross enrollment ratio - Primary (female),99
+432,LLDCs,2020,Students enrolled in lower secondary education (thousands),"25,055"
+432,LLDCs,2020,Gross enrollment ratio - Lower secondary level (male),58.3
+432,LLDCs,2020,Gross enrollment ratio - Lower secondary level (female),53
+432,LLDCs,2020,Students enrolled in upper secondary education (thousands),"10,911"
+432,LLDCs,2020,Gross enrollment ratio - Upper secondary level (male),39.4
+432,LLDCs,2020,Gross enrollment ratio - Upper secondary level (female),35.3
+432,LLDCs,2020,Ratio of girls to boys in primary education,0.93
+432,LLDCs,2020,Ratio of girls to boys in lower secondary education,0.91
+432,LLDCs,2020,Ratio of girls to boys in upper secondary education,0.9
+722,SIDS,2020,Teachers at primary level,"356,836"
+722,SIDS,2020,Teachers with minimum required qualifications at primary level,89.5
+722,SIDS,2020,Teachers at lower secondary level,"67,120"
+722,SIDS,2020,Teachers with minimum required qualifications at lower secondary level,88.5
+722,SIDS,2020,Teachers at upper secondary level,"225,969"
+722,SIDS,2020,Teachers with minimum required qualifications at upper secondary level,86.5
+722,SIDS,2020,Ratio of girls to boys in primary education,0.97
+722,SIDS,2020,Ratio of girls to boys in lower secondary education,0.97
+722,SIDS,2020,Ratio of girls to boys in upper secondary education,1.08
+1,"Total, all countries or areas",2021,Teachers at primary level,"33,614,436"
+1,"Total, all countries or areas",2021,Teachers with minimum required qualifications at primary level,86.6
+1,"Total, all countries or areas",2021,Teachers at lower secondary level,"21,736,452"
+1,"Total, all countries or areas",2021,Teachers with minimum required qualifications at lower secondary level,84.3
+1,"Total, all countries or areas",2021,Teachers at upper secondary level,"17,196,924"
+1,"Total, all countries or areas",2021,Teachers with minimum required qualifications at upper secondary level,86.8
+1,"Total, all countries or areas",2021,Ratio of girls to boys in primary education,0.98
+1,"Total, all countries or areas",2021,Ratio of girls to boys in lower secondary education,0.99
+1,"Total, all countries or areas",2021,Ratio of girls to boys in upper secondary education,0.97
+9,Oceania,2021,Ratio of girls to boys in primary education,0.98
+9,Oceania,2021,Ratio of girls to boys in lower secondary education,0.96
+9,Oceania,2021,Ratio of girls to boys in upper secondary education,0.99
+15,Northern Africa,2021,Ratio of girls to boys in primary education,0.98
+15,Northern Africa,2021,Ratio of girls to boys in lower secondary education,0.95
+15,Northern Africa,2021,Ratio of girls to boys in upper secondary education,1.07
+21,Northern America,2021,Ratio of girls to boys in primary education,0.99
+21,Northern America,2021,Ratio of girls to boys in lower secondary education,1
+21,Northern America,2021,Ratio of girls to boys in upper secondary education,1.01
+30,Eastern Asia,2021,Ratio of girls to boys in primary education,1.02
+30,Eastern Asia,2021,Ratio of girls to boys in lower secondary education,1.01
+30,Eastern Asia,2021,Ratio of girls to boys in upper secondary education,1.03
+34,Southern Asia,2021,Ratio of girls to boys in primary education,0.98
+34,Southern Asia,2021,Ratio of girls to boys in lower secondary education,1.02
+34,Southern Asia,2021,Ratio of girls to boys in upper secondary education,0.91
+35,South-eastern Asia,2021,Students enrolled in primary education (thousands),"68,789"
+35,South-eastern Asia,2021,Gross enrollment ratio - Primary (male),106.2
+35,South-eastern Asia,2021,Gross enrollment ratio - Primary (female),104.6
+35,South-eastern Asia,2021,Students enrolled in lower secondary education (thousands),"37,448"
+35,South-eastern Asia,2021,Gross enrollment ratio - Lower secondary level (male),98.2
+35,South-eastern Asia,2021,Gross enrollment ratio - Lower secondary level (female),100.6
+35,South-eastern Asia,2021,Students enrolled in upper secondary education (thousands),"19,865"
+35,South-eastern Asia,2021,Gross enrollment ratio - Upper secondary level (male),66.6
+35,South-eastern Asia,2021,Gross enrollment ratio - Upper secondary level (female),69.9
+35,South-eastern Asia,2021,Teachers at primary level,"3,681,887"
+35,South-eastern Asia,2021,Teachers with minimum required qualifications at primary level,93.8
+35,South-eastern Asia,2021,Teachers at lower secondary level,"1,996,262"
+35,South-eastern Asia,2021,Teachers with minimum required qualifications at lower secondary level,93.8
+35,South-eastern Asia,2021,Teachers at upper secondary level,"1,078,811"
+35,South-eastern Asia,2021,Teachers with minimum required qualifications at upper secondary level,97.5
+35,South-eastern Asia,2021,Ratio of girls to boys in primary education,0.98
+35,South-eastern Asia,2021,Ratio of girls to boys in lower secondary education,1.02
+35,South-eastern Asia,2021,Ratio of girls to boys in upper secondary education,1.05
+62,South-central Asia,2021,Ratio of girls to boys in primary education,0.98
+62,South-central Asia,2021,Ratio of girls to boys in lower secondary education,1.01
+62,South-central Asia,2021,Ratio of girls to boys in upper secondary education,0.91
+143,Central Asia,2021,Students enrolled in primary education (thousands),"6,136"
+143,Central Asia,2021,Gross enrollment ratio - Primary (male),99.7
+143,Central Asia,2021,Gross enrollment ratio - Primary (female),99.1
+143,Central Asia,2021,Students enrolled in lower secondary education (thousands),"6,199"
+143,Central Asia,2021,Gross enrollment ratio - Lower secondary level (male),90.9
+143,Central Asia,2021,Gross enrollment ratio - Lower secondary level (female),89.8
+143,Central Asia,2021,Students enrolled in upper secondary education (thousands),"2,494"
+143,Central Asia,2021,Gross enrollment ratio - Upper secondary level (male),88.3
+143,Central Asia,2021,Gross enrollment ratio - Upper secondary level (female),87.2
+143,Central Asia,2021,Ratio of girls to boys in primary education,0.99
+143,Central Asia,2021,Ratio of girls to boys in lower secondary education,0.99
+143,Central Asia,2021,Ratio of girls to boys in upper secondary education,0.99
+145,Western Asia,2021,Teachers at primary level,"1,601,598"
+145,Western Asia,2021,Teachers with minimum required qualifications at primary level,81.1
+145,Western Asia,2021,Teachers at lower secondary level,"1,082,613"
+145,Western Asia,2021,Teachers with minimum required qualifications at lower secondary level,84.6
+145,Western Asia,2021,Teachers at upper secondary level,"936,973"
+145,Western Asia,2021,Teachers with minimum required qualifications at upper secondary level,84.8
+145,Western Asia,2021,Ratio of girls to boys in primary education,0.94
+145,Western Asia,2021,Ratio of girls to boys in lower secondary education,0.95
+145,Western Asia,2021,Ratio of girls to boys in upper secondary education,0.94
+150,Europe,2021,Ratio of girls to boys in primary education,1
+150,Europe,2021,Ratio of girls to boys in lower secondary education,0.99
+150,Europe,2021,Ratio of girls to boys in upper secondary education,1
+199,LDC§,2021,Students enrolled in primary education (thousands),"168,138"
+199,LDC§,2021,Gross enrollment ratio - Primary (male),106.4
+199,LDC§,2021,Gross enrollment ratio - Primary (female),101.7
+199,LDC§,2021,Students enrolled in lower secondary education (thousands),"45,313"
+199,LDC§,2021,Gross enrollment ratio - Lower secondary level (male),57.3
+199,LDC§,2021,Gross enrollment ratio - Lower secondary level (female),53.9
+199,LDC§,2021,Students enrolled in upper secondary education (thousands),"24,772"
+199,LDC§,2021,Gross enrollment ratio - Upper secondary level (male),37.6
+199,LDC§,2021,Gross enrollment ratio - Upper secondary level (female),33.7
+199,LDC§,2021,Teachers at primary level,"4,556,885"
+199,LDC§,2021,Teachers with minimum required qualifications at primary level,73.5
+199,LDC§,2021,Teachers at lower secondary level,"1,569,852"
+199,LDC§,2021,Teachers at upper secondary level,"1,345,752"
+199,LDC§,2021,Ratio of girls to boys in primary education,0.96
+199,LDC§,2021,Ratio of girls to boys in lower secondary education,0.94
+199,LDC§,2021,Ratio of girls to boys in upper secondary education,0.9
+202,Sub-Saharan Africa,2021,Teachers at primary level,"4,838,624"
+202,Sub-Saharan Africa,2021,Teachers with minimum required qualifications at primary level,69
+202,Sub-Saharan Africa,2021,Teachers at lower secondary level,"1,908,687"
+202,Sub-Saharan Africa,2021,Teachers at upper secondary level,"1,489,047"
+202,Sub-Saharan Africa,2021,Ratio of girls to boys in primary education,0.97
+202,Sub-Saharan Africa,2021,Ratio of girls to boys in lower secondary education,0.92
+202,Sub-Saharan Africa,2021,Ratio of girls to boys in upper secondary education,0.88
+419,Latin America & the Caribbean,2021,Ratio of girls to boys in primary education,0.99
+419,Latin America & the Caribbean,2021,Ratio of girls to boys in lower secondary education,1.03
+419,Latin America & the Caribbean,2021,Ratio of girls to boys in upper secondary education,1.11
+432,LLDCs,2021,Teachers at primary level,"2,330,544"
+432,LLDCs,2021,Teachers with minimum required qualifications at primary level,74.2
+432,LLDCs,2021,Teachers at lower secondary level,"1,334,670"
+432,LLDCs,2021,Teachers at upper secondary level,"695,818"
+432,LLDCs,2021,Ratio of girls to boys in primary education,0.93
+722,SIDS,2021,Ratio of girls to boys in primary education,0.97
+722,SIDS,2021,Ratio of girls to boys in lower secondary education,0.98
+722,SIDS,2021,Ratio of girls to boys in upper secondary education,1.06
+1,"Total, all countries or areas",2022,Students enrolled in primary education (thousands),"770,830"
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Primary (male),102.3
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Primary (female),100.5
+1,"Total, all countries or areas",2022,Students enrolled in lower secondary education (thousands),"356,335"
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Lower secondary level (male),84.7
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Lower secondary level (female),84
+1,"Total, all countries or areas",2022,Students enrolled in upper secondary education (thousands),"283,279"
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Upper secondary level (male),70.2
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Upper secondary level (female),69.2
+1,"Total, all countries or areas",2022,Teachers at primary level,"33,749,089"
+1,"Total, all countries or areas",2022,Teachers with minimum required qualifications at primary level,85.7
+1,"Total, all countries or areas",2022,Teachers at lower secondary level,"21,900,955"
+1,"Total, all countries or areas",2022,Teachers at upper secondary level,"17,711,273"
+1,"Total, all countries or areas",2022,Ratio of girls to boys in primary education,0.98
+1,"Total, all countries or areas",2022,Ratio of girls to boys in lower secondary education,0.99
+1,"Total, all countries or areas",2022,Ratio of girls to boys in upper secondary education,0.98
+9,Oceania,2022,Students enrolled in primary education (thousands),"4,514"
+9,Oceania,2022,Gross enrollment ratio - Primary (male),104.2
+9,Oceania,2022,Gross enrollment ratio - Primary (female),102.3
+9,Oceania,2022,Students enrolled in lower secondary education (thousands),"2,353"
+9,Oceania,2022,Gross enrollment ratio - Lower secondary level (male),92.2
+9,Oceania,2022,Gross enrollment ratio - Lower secondary level (female),88
+9,Oceania,2022,Students enrolled in upper secondary education (thousands),"1,611"
+9,Oceania,2022,Gross enrollment ratio - Upper secondary level (male),117
+9,Oceania,2022,Gross enrollment ratio - Upper secondary level (female),115.5
+9,Oceania,2022,Ratio of girls to boys in primary education,0.98
+9,Oceania,2022,Ratio of girls to boys in lower secondary education,0.95
+9,Oceania,2022,Ratio of girls to boys in upper secondary education,0.99
+15,Northern Africa,2022,Students enrolled in primary education (thousands),"31,383"
+15,Northern Africa,2022,Gross enrollment ratio - Primary (male),95.6
+15,Northern Africa,2022,Gross enrollment ratio - Primary (female),93.5
+15,Northern Africa,2022,Students enrolled in lower secondary education (thousands),"14,950"
+15,Northern Africa,2022,Gross enrollment ratio - Lower secondary level (male),97.5
+15,Northern Africa,2022,Gross enrollment ratio - Lower secondary level (female),92.9
+15,Northern Africa,2022,Students enrolled in upper secondary education (thousands),"9,179"
+15,Northern Africa,2022,Gross enrollment ratio - Upper secondary level (male),64.6
+15,Northern Africa,2022,Gross enrollment ratio - Upper secondary level (female),69.6
+15,Northern Africa,2022,Teachers at primary level,"1,231,142"
+15,Northern Africa,2022,Teachers with minimum required qualifications at primary level,96.2
+15,Northern Africa,2022,Teachers at lower secondary level,"724,059"
+15,Northern Africa,2022,Teachers with minimum required qualifications at lower secondary level,94.6
+15,Northern Africa,2022,Teachers at upper secondary level,"585,528"
+15,Northern Africa,2022,Teachers with minimum required qualifications at upper secondary level,95.2
+15,Northern Africa,2022,Ratio of girls to boys in primary education,0.98
+15,Northern Africa,2022,Ratio of girls to boys in lower secondary education,0.95
+15,Northern Africa,2022,Ratio of girls to boys in upper secondary education,1.07
+21,Northern America,2022,Students enrolled in primary education (thousands),"26,774"
+21,Northern America,2022,Gross enrollment ratio - Primary (male),98.3
+21,Northern America,2022,Gross enrollment ratio - Primary (female),98
+21,Northern America,2022,Students enrolled in lower secondary education (thousands),"14,993"
+21,Northern America,2022,Gross enrollment ratio - Lower secondary level (male),103
+21,Northern America,2022,Gross enrollment ratio - Lower secondary level (female),103.3
+21,Northern America,2022,Students enrolled in upper secondary education (thousands),"14,635"
+21,Northern America,2022,Gross enrollment ratio - Upper secondary level (male),100
+21,Northern America,2022,Gross enrollment ratio - Upper secondary level (female),101.2
+21,Northern America,2022,Teachers at primary level,"2,044,659"
+21,Northern America,2022,Teachers with minimum required qualifications at primary level,95.4
+21,Northern America,2022,Teachers at lower secondary level,"981,790"
+21,Northern America,2022,Teachers with minimum required qualifications at lower secondary level,94.1
+21,Northern America,2022,Teachers at upper secondary level,"988,386"
+21,Northern America,2022,Teachers with minimum required qualifications at upper secondary level,91.8
+21,Northern America,2022,Ratio of girls to boys in primary education,1
+21,Northern America,2022,Ratio of girls to boys in lower secondary education,1
+21,Northern America,2022,Ratio of girls to boys in upper secondary education,1.01
+30,Eastern Asia,2022,Students enrolled in primary education (thousands),"119,271"
+30,Eastern Asia,2022,Gross enrollment ratio - Primary (male),99.5
+30,Eastern Asia,2022,Gross enrollment ratio - Primary (female),100.9
+30,Eastern Asia,2022,Students enrolled in lower secondary education (thousands),"56,332"
+30,Eastern Asia,2022,Gross enrollment ratio - Lower secondary level (male),96.5
+30,Eastern Asia,2022,Gross enrollment ratio - Lower secondary level (female),97.9
+30,Eastern Asia,2022,Students enrolled in upper secondary education (thousands),"49,395"
+30,Eastern Asia,2022,Gross enrollment ratio - Upper secondary level (male),89.3
+30,Eastern Asia,2022,Gross enrollment ratio - Upper secondary level (female),92.1
+30,Eastern Asia,2022,Teachers at primary level,"7,416,904"
+30,Eastern Asia,2022,Teachers at lower secondary level,"4,485,418"
+30,Eastern Asia,2022,Teachers at upper secondary level,"3,596,346"
+30,Eastern Asia,2022,Ratio of girls to boys in primary education,1.01
+30,Eastern Asia,2022,Ratio of girls to boys in lower secondary education,1.01
+30,Eastern Asia,2022,Ratio of girls to boys in upper secondary education,1.03
+34,Southern Asia,2022,Students enrolled in primary education (thousands),"194,387"
+34,Southern Asia,2022,Gross enrollment ratio - Primary (male),106.1
+34,Southern Asia,2022,Gross enrollment ratio - Primary (female),103.9
+34,Southern Asia,2022,Students enrolled in lower secondary education (thousands),"91,769"
+34,Southern Asia,2022,Gross enrollment ratio - Lower secondary level (male),81.9
+34,Southern Asia,2022,Gross enrollment ratio - Lower secondary level (female),83.1
+34,Southern Asia,2022,Students enrolled in upper secondary education (thousands),"93,762"
+34,Southern Asia,2022,Gross enrollment ratio - Upper secondary level (male),65.9
+34,Southern Asia,2022,Gross enrollment ratio - Upper secondary level (female),62.9
+34,Southern Asia,2022,Teachers at primary level,"6,427,952"
+34,Southern Asia,2022,Teachers with minimum required qualifications at primary level,84.8
+34,Southern Asia,2022,Teachers at lower secondary level,"4,461,711"
+34,Southern Asia,2022,Teachers with minimum required qualifications at lower secondary level,84
+34,Southern Asia,2022,Teachers at upper secondary level,"4,092,349"
+34,Southern Asia,2022,Teachers with minimum required qualifications at upper secondary level,93.5
+34,Southern Asia,2022,Ratio of girls to boys in primary education,0.98
+34,Southern Asia,2022,Ratio of girls to boys in lower secondary education,1.01
+34,Southern Asia,2022,Ratio of girls to boys in upper secondary education,0.95
+62,South-central Asia,2022,Teachers at primary level,"6,729,956"
+62,South-central Asia,2022,Teachers with minimum required qualifications at primary level,85.3
+62,South-central Asia,2022,Teachers at lower secondary level,"5,115,535"
+62,South-central Asia,2022,Teachers with minimum required qualifications at lower secondary level,84.3
+62,South-central Asia,2022,Teachers at upper secondary level,"4,342,658"
+62,South-central Asia,2022,Teachers with minimum required qualifications at upper secondary level,93.9
+62,South-central Asia,2022,Ratio of girls to boys in primary education,0.98
+62,South-central Asia,2022,Ratio of girls to boys in lower secondary education,1.01
+62,South-central Asia,2022,Ratio of girls to boys in upper secondary education,0.95
+143,Central Asia,2022,Students enrolled in primary education (thousands),"6,178"
+143,Central Asia,2022,Gross enrollment ratio - Primary (male),98.2
+143,Central Asia,2022,Gross enrollment ratio - Primary (female),97.6
+143,Central Asia,2022,Teachers at primary level,"302,004"
+143,Central Asia,2022,Teachers with minimum required qualifications at primary level,94.9
+143,Central Asia,2022,Ratio of girls to boys in primary education,0.99
+145,Western Asia,2022,Students enrolled in primary education (thousands),"28,482"
+145,Western Asia,2022,Gross enrollment ratio - Primary (male),96.4
+145,Western Asia,2022,Gross enrollment ratio - Primary (female),90.7
+145,Western Asia,2022,Students enrolled in lower secondary education (thousands),"15,104"
+145,Western Asia,2022,Gross enrollment ratio - Lower secondary level (male),82.1
+145,Western Asia,2022,Gross enrollment ratio - Lower secondary level (female),78.4
+145,Western Asia,2022,Students enrolled in upper secondary education (thousands),"12,922"
+145,Western Asia,2022,Gross enrollment ratio - Upper secondary level (male),82.2
+145,Western Asia,2022,Gross enrollment ratio - Upper secondary level (female),77.4
+145,Western Asia,2022,Teachers at primary level,"1,617,884"
+145,Western Asia,2022,Teachers with minimum required qualifications at primary level,78
+145,Western Asia,2022,Teachers at lower secondary level,"1,090,482"
+145,Western Asia,2022,Teachers with minimum required qualifications at lower secondary level,83.7
+145,Western Asia,2022,Teachers at upper secondary level,"948,226"
+145,Western Asia,2022,Ratio of girls to boys in primary education,0.94
+145,Western Asia,2022,Ratio of girls to boys in lower secondary education,0.95
+145,Western Asia,2022,Ratio of girls to boys in upper secondary education,0.94
+150,Europe,2022,Students enrolled in primary education (thousands),"39,832"
+150,Europe,2022,Gross enrollment ratio - Primary (male),101.3
+150,Europe,2022,Gross enrollment ratio - Primary (female),101.2
+150,Europe,2022,Students enrolled in lower secondary education (thousands),"33,740"
+150,Europe,2022,Gross enrollment ratio - Lower secondary level (male),101.3
+150,Europe,2022,Gross enrollment ratio - Lower secondary level (female),100.7
+150,Europe,2022,Students enrolled in upper secondary education (thousands),"27,126"
+150,Europe,2022,Gross enrollment ratio - Upper secondary level (male),109.8
+150,Europe,2022,Gross enrollment ratio - Upper secondary level (female),110.1
+150,Europe,2022,Teachers at primary level,"2,817,495"
+150,Europe,2022,Teachers at lower secondary level,"3,440,343"
+150,Europe,2022,Teachers at upper secondary level,"2,364,360"
+150,Europe,2022,Ratio of girls to boys in primary education,1
+150,Europe,2022,Ratio of girls to boys in lower secondary education,0.99
+150,Europe,2022,Ratio of girls to boys in upper secondary education,1
+199,LDC§,2022,Students enrolled in primary education (thousands),"171,022"
+199,LDC§,2022,Gross enrollment ratio - Primary (male),106.3
+199,LDC§,2022,Gross enrollment ratio - Primary (female),101.7
+199,LDC§,2022,Teachers at primary level,"4,622,675"
+199,LDC§,2022,Ratio of girls to boys in primary education,0.96
+202,Sub-Saharan Africa,2022,Students enrolled in primary education (thousands),"189,519"
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Primary (male),101.3
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Primary (female),97.9
+202,Sub-Saharan Africa,2022,Students enrolled in lower secondary education (thousands),"45,064"
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Lower secondary level (male),53.8
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Lower secondary level (female),49.4
+202,Sub-Saharan Africa,2022,Students enrolled in upper secondary education (thousands),"26,270"
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Upper secondary level (male),38.3
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Upper secondary level (female),33.6
+202,Sub-Saharan Africa,2022,Teachers at primary level,"4,930,932"
+202,Sub-Saharan Africa,2022,Teachers at lower secondary level,"1,997,632"
+202,Sub-Saharan Africa,2022,Teachers at upper secondary level,"1,530,261"
+202,Sub-Saharan Africa,2022,Ratio of girls to boys in primary education,0.97
+202,Sub-Saharan Africa,2022,Ratio of girls to boys in lower secondary education,0.92
+202,Sub-Saharan Africa,2022,Ratio of girls to boys in upper secondary education,0.88
+419,Latin America & the Caribbean,2022,Students enrolled in primary education (thousands),"61,617"
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Primary (male),104.2
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Primary (female),103.2
+419,Latin America & the Caribbean,2022,Students enrolled in lower secondary education (thousands),"37,548"
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Lower secondary level (male),105.6
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Lower secondary level (female),108.6
+419,Latin America & the Caribbean,2022,Students enrolled in upper secondary education (thousands),"25,722"
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Upper secondary level (male),80.8
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Upper secondary level (female),89.5
+419,Latin America & the Caribbean,2022,Teachers at primary level,"3,071,363"
+419,Latin America & the Caribbean,2022,Teachers with minimum required qualifications at primary level,80.2
+419,Latin America & the Caribbean,2022,Teachers at lower secondary level,"2,033,908"
+419,Latin America & the Caribbean,2022,Teachers with minimum required qualifications at lower secondary level,78.8
+419,Latin America & the Caribbean,2022,Teachers at upper secondary level,"2,092,479"
+419,Latin America & the Caribbean,2022,Teachers with minimum required qualifications at upper secondary level,73.3
+419,Latin America & the Caribbean,2022,Ratio of girls to boys in primary education,0.99
+419,Latin America & the Caribbean,2022,Ratio of girls to boys in lower secondary education,1.03
+419,Latin America & the Caribbean,2022,Ratio of girls to boys in upper secondary education,1.1
+432,LLDCs,2022,Students enrolled in primary education (thousands),"81,591"
+432,LLDCs,2022,Gross enrollment ratio - Primary (male),103.1
+432,LLDCs,2022,Gross enrollment ratio - Primary (female),96.2
+432,LLDCs,2022,Teachers at primary level,"2,356,066"
+432,LLDCs,2022,Ratio of girls to boys in primary education,0.93
 722,SIDS,2022,Students enrolled in primary education (thousands),"7,515"
 722,SIDS,2022,Gross enrollment ratio - Primary (male),107.3
 722,SIDS,2022,Gross enrollment ratio - Primary (female),104.1
@@ -1151,51 +1136,8 @@ Region/Country/Area,Country/Area name,Year,Variables,Data values
 722,SIDS,2022,Students enrolled in upper secondary education (thousands),"1,129"
 722,SIDS,2022,Gross enrollment ratio - Upper secondary level (male),32.7
 722,SIDS,2022,Gross enrollment ratio - Upper secondary level (female),35.5
-722,SIDS,2005,Teachers at primary level,"318,585"
-722,SIDS,2005,Teachers with minimum required qualifications at primary level,85.4
-722,SIDS,2005,Teachers at lower secondary level,"150,442"
-722,SIDS,2005,Teachers with minimum required qualifications at lower secondary level,81.8
-722,SIDS,2005,Teachers at upper secondary level,"86,909"
-722,SIDS,2005,Teachers with minimum required qualifications at upper secondary level,94.3
-722,SIDS,2010,Teachers at primary level,"345,072"
-722,SIDS,2010,Teachers with minimum required qualifications at primary level,84.5
-722,SIDS,2010,Teachers at lower secondary level,"164,637"
-722,SIDS,2010,Teachers with minimum required qualifications at lower secondary level,76.8
-722,SIDS,2010,Teachers at upper secondary level,"98,084"
-722,SIDS,2010,Teachers with minimum required qualifications at upper secondary level,92.4
-722,SIDS,2014,Teachers at primary level,"352,216"
-722,SIDS,2014,Teachers with minimum required qualifications at primary level,86.6
-722,SIDS,2014,Teachers at lower secondary level,"346,509"
-722,SIDS,2015,Teachers at primary level,"361,941"
-722,SIDS,2015,Teachers with minimum required qualifications at primary level,87.9
-722,SIDS,2015,Teachers with minimum required qualifications at lower secondary level,10.2
-722,SIDS,2015,Teachers at upper secondary level,"321,740"
-722,SIDS,2015,Teachers with minimum required qualifications at upper secondary level,74.9
-722,SIDS,2020,Teachers at primary level,"356,836"
-722,SIDS,2020,Teachers with minimum required qualifications at primary level,89.5
-722,SIDS,2020,Teachers at lower secondary level,"67,120"
-722,SIDS,2020,Teachers with minimum required qualifications at lower secondary level,88.5
-722,SIDS,2020,Teachers at upper secondary level,"225,969"
-722,SIDS,2020,Teachers with minimum required qualifications at upper secondary level,86.5
 722,SIDS,2022,Teachers at primary level,"360,145"
 722,SIDS,2022,Teachers with minimum required qualifications at primary level,89.3
-722,SIDS,1995,Ratio of girls to boys in primary education,0.96
-722,SIDS,2005,Ratio of girls to boys in primary education,0.96
-722,SIDS,2010,Ratio of girls to boys in primary education,0.95
-722,SIDS,2015,Ratio of girls to boys in primary education,0.96
-722,SIDS,2020,Ratio of girls to boys in primary education,0.97
-722,SIDS,2021,Ratio of girls to boys in primary education,0.97
 722,SIDS,2022,Ratio of girls to boys in primary education,0.97
-722,SIDS,2005,Ratio of girls to boys in lower secondary education,1
-722,SIDS,2010,Ratio of girls to boys in lower secondary education,0.98
-722,SIDS,2015,Ratio of girls to boys in lower secondary education,0.98
-722,SIDS,2020,Ratio of girls to boys in lower secondary education,0.97
-722,SIDS,2021,Ratio of girls to boys in lower secondary education,0.98
 722,SIDS,2022,Ratio of girls to boys in lower secondary education,0.97
-722,SIDS,2005,Ratio of girls to boys in upper secondary education,1.11
-722,SIDS,2010,Ratio of girls to boys in upper secondary education,1.09
-722,SIDS,2015,Ratio of girls to boys in upper secondary education,1.06
-722,SIDS,2020,Ratio of girls to boys in upper secondary education,1.08
-722,SIDS,2021,Ratio of girls to boys in upper secondary education,1.06
 722,SIDS,2022,Ratio of girls to boys in upper secondary education,1.08
-1,"Total, all countries or areas",2005,Students enrolled in primary education (thousands),"680,726"
