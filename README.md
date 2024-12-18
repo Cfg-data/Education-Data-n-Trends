@@ -56,6 +56,11 @@ The following datasets have been collected from UNDATA:
 7. Gathering further data
 8. Changing and normalizing format
 9. Filtering dataset for the regions needed
+10. Grouping only for the years with the largest amount of data for the biggest number of countries kept
+11. Repeating step 10 for the regions
+12. Renaming the files
+13. Loading files into a jupyter notebook, Running a correlation matrix for each variable, making sure all Nan values are filled with 0
+14. Running several figures for the various variables by year, bar plots and violin plots mostly (disregarding 0 values using seaborn and plotly)
 
 ### MySQL Progress:
 - Database creation in Python connector attempted but unsuccessful
