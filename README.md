@@ -47,6 +47,26 @@ For a detailed view of the complete EDA results, please visit [Full EDA Results]
 
 This comprehensive comparison of education trends and public expenditure highlights diverse priorities and challenges faced by different regions, offering insights into both educational access and government spending patterns.
 
+## Teacher Data (2005-2022) Summary
+
+- **Primary Level Teachers**: Teacher numbers at the primary level fluctuated significantly, starting with none reported in **2005**, then sharply increasing to **48.38** by **2010**, followed by a drop to **11.64** in **2015**, and recovering to **55.42** in **2022**.
+  
+- **Lower Secondary Level Teachers**: Similar trends were observed at the lower secondary level, with no teachers in **2005**, an increase to **18.06** in **2010**, a drop to zero in **2015**, and a partial recovery to **13.17** in **2022**.
+
+- **Upper Secondary Level Teachers**: No teachers were reported at the upper secondary level in **2005** and **2010**, but by **2022**, the number reached **10.75**, showing recovery.
+
+- **Teachers with Minimum Required Qualifications**: 
+  - The percentage of qualified teachers at the **primary level** increased from **18.80%** in **2005** to **52.17%** in **2022**.
+  - For the **lower secondary level**, the qualification rate rose from **8.96%** in **2005** to **24.20%** in **2022**.
+  - At the **upper secondary level**, the qualification rate increased from **9.10%** in **2005** to **32.92%** in **2022**, indicating progress in teacher qualification.
+
+### Key Observations:
+1. **Teacher Numbers Fluctuation**: Teacher numbers across all levels fluctuated significantly, with sharp increases around **2010**, drops in **2015**, and recovery in **2022**.
+2. **Improved Qualifications**: The percentage of teachers with minimum required qualifications steadily improved across all education levels, especially at the primary and upper secondary levels.
+3. **Data Gaps and Anomalies**: The lack of teachers reported in **2005** and **2010** raises questions about either data collection issues or temporary disruptions in the education system during these years.
+
+This data highlights both progress in teacher qualifications and the instability in the number of teachers across various education levels over the years.
+
 ## Collected Datasets
 
 The following datasets have been collected from UNDATA:

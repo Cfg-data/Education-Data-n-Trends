@@ -310,3 +310,47 @@ The table below compares three key public expenditure categories across various 
 - **Finland** and **Romania** allocate substantial amounts to other current expenditure, signaling broad operational funding beyond staffing needs.
 
 This comparison provides valuable insights into the expenditure priorities and trends of these countries.
+
+## Teacher Data (2005-2022)
+
+| Year       | Teachers at Primary Level | Teachers at Lower Secondary Level | Teachers at Upper Secondary Level | Teachers with Minimum Required Qualifications at Primary Level | Teachers with Minimum Required Qualifications at Lower Secondary Level | Teachers with Minimum Required Qualifications at Upper Secondary Level |
+|------------|---------------------------|-----------------------------------|-----------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| 2005       | 0.000000                  | 0.000000                          | 0.00                              | 18.795238                                                        | 8.957143                                                          | 9.104762                                                           |
+| 2010       | 48.375000                 | 18.062500                         | 0.00                              | 35.471875                                                        | 20.571875                                                         | 17.621875                                                          |
+| 2015       | 11.638889                 | 0.000000                          | 0.00                              | 37.608333                                                        | 19.013889                                                         | 18.813889                                                          |
+| 2021       | 0.000000                  | 0.000000                          | 0.00                              | 29.000000                                                        | 20.000000                                                         | 20.000000                                                          |
+| 2022       | 55.416667                 | 13.166667                         | 10.75                             | 52.166667                                                        | 24.200000                                                         | 32.916667                                                          |
+
+---
+
+### Interpretation of the Results
+
+- **Primary Level Teachers**:
+  - In **2005**, there were no teachers reported at the primary level.
+  - By **2010**, the number of primary-level teachers sharply increased to **48.38**.
+  - **2015** saw a reduction in primary-level teachers to **11.64**, with a subsequent rise to **55.42** in **2022**.
+  
+- **Lower Secondary Level Teachers**:
+  - Similar to the primary level, there were no teachers at the lower secondary level in **2005**.
+  - The number of teachers increased by **2010** to **18.06**, but **2015** saw a dramatic drop to **0**.
+  - There was some recovery in **2022**, with **13.17** teachers reported at the lower secondary level.
+
+- **Upper Secondary Level Teachers**:
+  - The trend for upper secondary teachers mirrored that of primary and lower secondary, with **no teachers** in **2005** and **2010**.
+  - **2022** marked the highest number of upper secondary teachers at **10.75**.
+
+- **Teachers with Minimum Required Qualifications**:
+  - The percentage of teachers with minimum required qualifications was generally high across all levels, but showed variability.
+  - **Primary Level**: Saw a fluctuation in qualifications from **18.80%** in **2005** to **52.17%** in **2022**.
+  - **Lower Secondary Level**: The percentage of teachers meeting the qualification standard ranged from **8.96%** in **2005** to **24.20%** in **2022**, reflecting a steady improvement.
+  - **Upper Secondary Level**: The qualification rate increased over time, from **9.10%** in **2005** to **32.92%** in **2022**, indicating improved teacher qualification.
+
+---
+
+### Key Observations:
+1. **Sharp Increase in Teacher Numbers**: There was a sharp increase in teacher numbers in **2010** for primary and lower secondary levels, followed by a drop in **2015** and a recovery in **2022**.
+2. **Teacher Qualification Improvement**: Over time, the percentage of teachers with minimum required qualifications increased across all education levels, especially at the primary and upper secondary levels.
+3. **Fluctuating Trends**: The data suggests fluctuating trends, possibly due to changes in educational policies, economic factors, or disruptions affecting education systems during the interim years (2010-2021).
+4. **Lack of Teachers in 2005 and 2010**: The lack of reported teachers in **2005** and **2010** at primary and lower secondary levels raises questions about either data reporting issues or temporary educational setbacks.
+
+This data highlights both progress in teacher qualifications and the instability in the number of teachers across various education levels over the years.
