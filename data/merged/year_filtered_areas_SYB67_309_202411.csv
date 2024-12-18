@@ -1,1 +1,550 @@
 Region/Country/Area,Country/Area name,Year,Variables,"Enrollment in primary, lower secondary and upper secondary education levels"
+1,"Total, all countries or areas",2005,Students enrolled in primary education (thousands),"680,726"
+1,"Total, all countries or areas",2005,Gross enrollment ratio - Primary (male),104.5
+1,"Total, all countries or areas",2005,Gross enrollment ratio - Primary (female),99.8
+1,"Total, all countries or areas",2005,Students enrolled in lower secondary education (thousands),"311,138"
+1,"Total, all countries or areas",2005,Gross enrollment ratio - Lower secondary level (male),80.7
+1,"Total, all countries or areas",2005,Gross enrollment ratio - Lower secondary level (female),76.6
+1,"Total, all countries or areas",2005,Students enrolled in upper secondary education (thousands),"198,301"
+1,"Total, all countries or areas",2005,Gross enrollment ratio - Upper secondary level (male),51.2
+1,"Total, all countries or areas",2005,Gross enrollment ratio - Upper secondary level (female),48.3
+1,"Total, all countries or areas",2010,Students enrolled in primary education (thousands),"696,905"
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Primary (male),103.7
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Primary (female),100.9
+1,"Total, all countries or areas",2010,Students enrolled in lower secondary education (thousands),"315,870"
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Lower secondary level (male),83.8
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Lower secondary level (female),81.4
+1,"Total, all countries or areas",2010,Students enrolled in upper secondary education (thousands),"229,775"
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Upper secondary level (male),60.2
+1,"Total, all countries or areas",2010,Gross enrollment ratio - Upper secondary level (female),57.7
+1,"Total, all countries or areas",2015,Students enrolled in primary education (thousands),"719,788"
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Primary (male),101.5
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Primary (female),101.1
+1,"Total, all countries or areas",2015,Students enrolled in lower secondary education (thousands),"325,454"
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Lower secondary level (male),83.8
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Lower secondary level (female),83.3
+1,"Total, all countries or areas",2015,Students enrolled in upper secondary education (thousands),"257,435"
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Upper secondary level (male),67.1
+1,"Total, all countries or areas",2015,Gross enrollment ratio - Upper secondary level (female),65.6
+1,"Total, all countries or areas",2022,Students enrolled in primary education (thousands),"770,830"
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Primary (male),102.3
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Primary (female),100.5
+1,"Total, all countries or areas",2022,Students enrolled in lower secondary education (thousands),"356,335"
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Lower secondary level (male),84.7
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Lower secondary level (female),84.0
+1,"Total, all countries or areas",2022,Students enrolled in upper secondary education (thousands),"283,279"
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Upper secondary level (male),70.2
+1,"Total, all countries or areas",2022,Gross enrollment ratio - Upper secondary level (female),69.2
+15,Northern Africa,2005,Students enrolled in primary education (thousands),"23,023"
+15,Northern Africa,2005,Gross enrollment ratio - Primary (male),95.7
+15,Northern Africa,2005,Gross enrollment ratio - Primary (female),89.3
+15,Northern Africa,2005,Students enrolled in lower secondary education (thousands),"10,029"
+15,Northern Africa,2005,Gross enrollment ratio - Lower secondary level (male),86.8
+15,Northern Africa,2005,Gross enrollment ratio - Lower secondary level (female),81.8
+15,Northern Africa,2005,Students enrolled in upper secondary education (thousands),"6,858"
+15,Northern Africa,2005,Gross enrollment ratio - Upper secondary level (male),51.1
+15,Northern Africa,2005,Gross enrollment ratio - Upper secondary level (female),55.0
+15,Northern Africa,2010,Students enrolled in primary education (thousands),"23,635"
+15,Northern Africa,2010,Gross enrollment ratio - Primary (male),98.0
+15,Northern Africa,2010,Gross enrollment ratio - Primary (female),92.7
+15,Northern Africa,2010,Students enrolled in lower secondary education (thousands),"11,130"
+15,Northern Africa,2010,Gross enrollment ratio - Lower secondary level (male),95.0
+15,Northern Africa,2010,Gross enrollment ratio - Lower secondary level (female),88.7
+15,Northern Africa,2010,Students enrolled in upper secondary education (thousands),"6,275"
+15,Northern Africa,2010,Gross enrollment ratio - Upper secondary level (male),47.4
+15,Northern Africa,2010,Gross enrollment ratio - Upper secondary level (female),51.1
+15,Northern Africa,2015,Students enrolled in primary education (thousands),"25,874"
+15,Northern Africa,2015,Gross enrollment ratio - Primary (male),97.3
+15,Northern Africa,2015,Gross enrollment ratio - Primary (female),93.4
+15,Northern Africa,2015,Students enrolled in lower secondary education (thousands),"11,666"
+15,Northern Africa,2015,Gross enrollment ratio - Lower secondary level (male),96.5
+15,Northern Africa,2015,Gross enrollment ratio - Lower secondary level (female),91.6
+15,Northern Africa,2015,Students enrolled in upper secondary education (thousands),"7,532"
+15,Northern Africa,2015,Gross enrollment ratio - Upper secondary level (male),58.5
+15,Northern Africa,2015,Gross enrollment ratio - Upper secondary level (female),62.0
+15,Northern Africa,2022,Students enrolled in primary education (thousands),"31,383"
+15,Northern Africa,2022,Gross enrollment ratio - Primary (male),95.6
+15,Northern Africa,2022,Gross enrollment ratio - Primary (female),93.5
+15,Northern Africa,2022,Students enrolled in lower secondary education (thousands),"14,950"
+15,Northern Africa,2022,Gross enrollment ratio - Lower secondary level (male),97.5
+15,Northern Africa,2022,Gross enrollment ratio - Lower secondary level (female),92.9
+15,Northern Africa,2022,Students enrolled in upper secondary education (thousands),"9,179"
+15,Northern Africa,2022,Gross enrollment ratio - Upper secondary level (male),64.6
+15,Northern Africa,2022,Gross enrollment ratio - Upper secondary level (female),69.6
+202,Sub-Saharan Africa,2005,Students enrolled in primary education (thousands),"113,432"
+202,Sub-Saharan Africa,2005,Gross enrollment ratio - Primary (male),99.1
+202,Sub-Saharan Africa,2005,Gross enrollment ratio - Primary (female),87.3
+202,Sub-Saharan Africa,2005,Students enrolled in lower secondary education (thousands),"20,727"
+202,Sub-Saharan Africa,2005,Gross enrollment ratio - Lower secondary level (male),42.0
+202,Sub-Saharan Africa,2005,Gross enrollment ratio - Lower secondary level (female),33.1
+202,Sub-Saharan Africa,2005,Students enrolled in upper secondary education (thousands),"11,200"
+202,Sub-Saharan Africa,2005,Gross enrollment ratio - Upper secondary level (male),26.8
+202,Sub-Saharan Africa,2005,Gross enrollment ratio - Upper secondary level (female),20.7
+202,Sub-Saharan Africa,2010,Students enrolled in primary education (thousands),"135,997"
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Primary (male),101.3
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Primary (female),93.6
+202,Sub-Saharan Africa,2010,Students enrolled in lower secondary education (thousands),"28,640"
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Lower secondary level (male),50.2
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Lower secondary level (female),42.1
+202,Sub-Saharan Africa,2010,Students enrolled in upper secondary education (thousands),"16,019"
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Upper secondary level (male),34.1
+202,Sub-Saharan Africa,2010,Gross enrollment ratio - Upper secondary level (female),26.5
+202,Sub-Saharan Africa,2015,Students enrolled in primary education (thousands),"157,266"
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Primary (male),100.1
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Primary (female),95.3
+202,Sub-Saharan Africa,2015,Students enrolled in lower secondary education (thousands),"36,584"
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Lower secondary level (male),53.6
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Lower secondary level (female),47.9
+202,Sub-Saharan Africa,2015,Students enrolled in upper secondary education (thousands),"19,919"
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Upper secondary level (male),37.6
+202,Sub-Saharan Africa,2015,Gross enrollment ratio - Upper secondary level (female),30.3
+202,Sub-Saharan Africa,2022,Students enrolled in primary education (thousands),"189,519"
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Primary (male),101.3
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Primary (female),97.9
+202,Sub-Saharan Africa,2022,Students enrolled in lower secondary education (thousands),"45,064"
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Lower secondary level (male),53.8
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Lower secondary level (female),49.4
+202,Sub-Saharan Africa,2022,Students enrolled in upper secondary education (thousands),"26,270"
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Upper secondary level (male),38.3
+202,Sub-Saharan Africa,2022,Gross enrollment ratio - Upper secondary level (female),33.6
+21,Northern America,2005,Students enrolled in primary education (thousands),"26,759"
+21,Northern America,2005,Gross enrollment ratio - Primary (male),102.1
+21,Northern America,2005,Gross enrollment ratio - Primary (female),101.0
+21,Northern America,2005,Students enrolled in lower secondary education (thousands),"14,006"
+21,Northern America,2005,Gross enrollment ratio - Lower secondary level (male),101.4
+21,Northern America,2005,Gross enrollment ratio - Lower secondary level (female),99.8
+21,Northern America,2005,Students enrolled in upper secondary education (thousands),"13,028"
+21,Northern America,2005,Gross enrollment ratio - Upper secondary level (male),88.6
+21,Northern America,2005,Gross enrollment ratio - Upper secondary level (female),92.7
+21,Northern America,2010,Students enrolled in primary education (thousands),"26,573"
+21,Northern America,2010,Gross enrollment ratio - Primary (male),100.7
+21,Northern America,2010,Gross enrollment ratio - Primary (female),99.8
+21,Northern America,2010,Students enrolled in lower secondary education (thousands),"13,268"
+21,Northern America,2010,Gross enrollment ratio - Lower secondary level (male),100.8
+21,Northern America,2010,Gross enrollment ratio - Lower secondary level (female),99.3
+21,Northern America,2010,Students enrolled in upper secondary education (thousands),"13,774"
+21,Northern America,2010,Gross enrollment ratio - Upper secondary level (male),91.8
+21,Northern America,2010,Gross enrollment ratio - Upper secondary level (female),94.5
+21,Northern America,2015,Students enrolled in primary education (thousands),"27,094"
+21,Northern America,2015,Gross enrollment ratio - Primary (male),100.3
+21,Northern America,2015,Gross enrollment ratio - Primary (female),100.2
+21,Northern America,2015,Students enrolled in lower secondary education (thousands),"13,702"
+21,Northern America,2015,Gross enrollment ratio - Lower secondary level (male),100.5
+21,Northern America,2015,Gross enrollment ratio - Lower secondary level (female),100.7
+21,Northern America,2015,Students enrolled in upper secondary education (thousands),"13,361"
+21,Northern America,2015,Gross enrollment ratio - Upper secondary level (male),96.3
+21,Northern America,2015,Gross enrollment ratio - Upper secondary level (female),98.1
+21,Northern America,2022,Students enrolled in primary education (thousands),"26,774"
+21,Northern America,2022,Gross enrollment ratio - Primary (male),98.3
+21,Northern America,2022,Gross enrollment ratio - Primary (female),98.0
+21,Northern America,2022,Students enrolled in lower secondary education (thousands),"14,993"
+21,Northern America,2022,Gross enrollment ratio - Lower secondary level (male),103.0
+21,Northern America,2022,Gross enrollment ratio - Lower secondary level (female),103.3
+21,Northern America,2022,Students enrolled in upper secondary education (thousands),"14,635"
+21,Northern America,2022,Gross enrollment ratio - Upper secondary level (male),100.0
+21,Northern America,2022,Gross enrollment ratio - Upper secondary level (female),101.2
+419,Latin America & the Caribbean,2005,Students enrolled in primary education (thousands),"69,082"
+419,Latin America & the Caribbean,2005,Gross enrollment ratio - Primary (male),118.2
+419,Latin America & the Caribbean,2005,Gross enrollment ratio - Primary (female),114.5
+419,Latin America & the Caribbean,2005,Students enrolled in lower secondary education (thousands),"36,809"
+419,Latin America & the Caribbean,2005,Gross enrollment ratio - Lower secondary level (male),98.0
+419,Latin America & the Caribbean,2005,Gross enrollment ratio - Lower secondary level (female),102.3
+419,Latin America & the Caribbean,2005,Students enrolled in upper secondary education (thousands),"21,638"
+419,Latin America & the Caribbean,2005,Gross enrollment ratio - Upper secondary level (male),65.1
+419,Latin America & the Caribbean,2005,Gross enrollment ratio - Upper secondary level (female),73.9
+419,Latin America & the Caribbean,2010,Students enrolled in primary education (thousands),"66,985"
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Primary (male),110.7
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Primary (female),107.1
+419,Latin America & the Caribbean,2010,Students enrolled in lower secondary education (thousands),"38,296"
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Lower secondary level (male),102.2
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Lower secondary level (female),105.4
+419,Latin America & the Caribbean,2010,Students enrolled in upper secondary education (thousands),"22,746"
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Upper secondary level (male),67.1
+419,Latin America & the Caribbean,2010,Gross enrollment ratio - Upper secondary level (female),77.8
+419,Latin America & the Caribbean,2015,Students enrolled in primary education (thousands),"63,585"
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Primary (male),107.9
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Primary (female),105.5
+419,Latin America & the Caribbean,2015,Students enrolled in lower secondary education (thousands),"38,882"
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Lower secondary level (male),108.1
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Lower secondary level (female),110.1
+419,Latin America & the Caribbean,2015,Students enrolled in upper secondary education (thousands),"24,860"
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Upper secondary level (male),74.1
+419,Latin America & the Caribbean,2015,Gross enrollment ratio - Upper secondary level (female),82.4
+419,Latin America & the Caribbean,2022,Students enrolled in primary education (thousands),"61,617"
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Primary (male),104.2
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Primary (female),103.2
+419,Latin America & the Caribbean,2022,Students enrolled in lower secondary education (thousands),"37,548"
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Lower secondary level (male),105.6
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Lower secondary level (female),108.6
+419,Latin America & the Caribbean,2022,Students enrolled in upper secondary education (thousands),"25,722"
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Upper secondary level (male),80.8
+419,Latin America & the Caribbean,2022,Gross enrollment ratio - Upper secondary level (female),89.5
+143,Central Asia,2005,Students enrolled in primary education (thousands),"4,886"
+143,Central Asia,2005,Gross enrollment ratio - Primary (male),100.4
+143,Central Asia,2005,Gross enrollment ratio - Primary (female),98.1
+143,Central Asia,2005,Students enrolled in lower secondary education (thousands),"6,472"
+143,Central Asia,2005,Gross enrollment ratio - Lower secondary level (male),96.4
+143,Central Asia,2005,Gross enrollment ratio - Lower secondary level (female),93.5
+143,Central Asia,2005,Students enrolled in upper secondary education (thousands),"2,587"
+143,Central Asia,2005,Gross enrollment ratio - Upper secondary level (male),79.7
+143,Central Asia,2005,Gross enrollment ratio - Upper secondary level (female),74.6
+143,Central Asia,2010,Students enrolled in primary education (thousands),"4,320"
+143,Central Asia,2010,Gross enrollment ratio - Primary (male),98.5
+143,Central Asia,2010,Gross enrollment ratio - Primary (female),97.2
+143,Central Asia,2010,Students enrolled in lower secondary education (thousands),"5,909"
+143,Central Asia,2010,Gross enrollment ratio - Lower secondary level (male),97.1
+143,Central Asia,2010,Gross enrollment ratio - Lower secondary level (female),94.6
+143,Central Asia,2010,Students enrolled in upper secondary education (thousands),"2,736"
+143,Central Asia,2010,Gross enrollment ratio - Upper secondary level (male),83.2
+143,Central Asia,2010,Gross enrollment ratio - Upper secondary level (female),81.3
+143,Central Asia,2015,Students enrolled in primary education (thousands),"4,932"
+143,Central Asia,2015,Gross enrollment ratio - Primary (male),99.2
+143,Central Asia,2015,Gross enrollment ratio - Primary (female),98.3
+143,Central Asia,2015,Students enrolled in lower secondary education (thousands),"5,426"
+143,Central Asia,2015,Gross enrollment ratio - Lower secondary level (male),95.1
+143,Central Asia,2015,Gross enrollment ratio - Lower secondary level (female),94.0
+143,Central Asia,2015,Students enrolled in upper secondary education (thousands),"2,617"
+143,Central Asia,2015,Gross enrollment ratio - Upper secondary level (male),90.0
+143,Central Asia,2015,Gross enrollment ratio - Upper secondary level (female),88.1
+143,Central Asia,2021,Students enrolled in primary education (thousands),"6,136"
+143,Central Asia,2021,Gross enrollment ratio - Primary (male),99.7
+143,Central Asia,2021,Gross enrollment ratio - Primary (female),99.1
+143,Central Asia,2021,Students enrolled in lower secondary education (thousands),"6,199"
+143,Central Asia,2021,Gross enrollment ratio - Lower secondary level (male),90.9
+143,Central Asia,2021,Gross enrollment ratio - Lower secondary level (female),89.8
+143,Central Asia,2021,Students enrolled in upper secondary education (thousands),"2,494"
+143,Central Asia,2021,Gross enrollment ratio - Upper secondary level (male),88.3
+143,Central Asia,2021,Gross enrollment ratio - Upper secondary level (female),87.2
+143,Central Asia,2022,Students enrolled in primary education (thousands),"6,178"
+143,Central Asia,2022,Gross enrollment ratio - Primary (male),98.2
+143,Central Asia,2022,Gross enrollment ratio - Primary (female),97.6
+30,Eastern Asia,2005,Students enrolled in primary education (thousands),"127,969"
+30,Eastern Asia,2005,Gross enrollment ratio - Primary (male),107.0
+30,Eastern Asia,2005,Gross enrollment ratio - Primary (female),108.5
+30,Eastern Asia,2005,Students enrolled in lower secondary education (thousands),"73,935"
+30,Eastern Asia,2005,Gross enrollment ratio - Lower secondary level (male),98.4
+30,Eastern Asia,2005,Gross enrollment ratio - Lower secondary level (female),98.8
+30,Eastern Asia,2005,Students enrolled in upper secondary education (thousands),"42,426"
+30,Eastern Asia,2005,Gross enrollment ratio - Upper secondary level (male),51.0
+30,Eastern Asia,2005,Gross enrollment ratio - Upper secondary level (female),51.0
+30,Eastern Asia,2010,Students enrolled in primary education (thousands),"113,631"
+30,Eastern Asia,2010,Gross enrollment ratio - Primary (male),104.6
+30,Eastern Asia,2010,Gross enrollment ratio - Primary (female),104.9
+30,Eastern Asia,2010,Students enrolled in lower secondary education (thousands),"61,743"
+30,Eastern Asia,2010,Gross enrollment ratio - Lower secondary level (male),103.8
+30,Eastern Asia,2010,Gross enrollment ratio - Lower secondary level (female),106.7
+30,Eastern Asia,2010,Students enrolled in upper secondary education (thousands),"51,931"
+30,Eastern Asia,2010,Gross enrollment ratio - Upper secondary level (male),80.8
+30,Eastern Asia,2010,Gross enrollment ratio - Upper secondary level (female),80.9
+30,Eastern Asia,2015,Students enrolled in primary education (thousands),"107,559"
+30,Eastern Asia,2015,Gross enrollment ratio - Primary (male),97.0
+30,Eastern Asia,2015,Gross enrollment ratio - Primary (female),98.1
+30,Eastern Asia,2015,Students enrolled in lower secondary education (thousands),"50,977"
+30,Eastern Asia,2015,Gross enrollment ratio - Lower secondary level (male),92.3
+30,Eastern Asia,2015,Gross enrollment ratio - Lower secondary level (female),94.2
+30,Eastern Asia,2015,Students enrolled in upper secondary education (thousands),"48,634"
+30,Eastern Asia,2015,Gross enrollment ratio - Upper secondary level (male),85.0
+30,Eastern Asia,2015,Gross enrollment ratio - Upper secondary level (female),90.5
+30,Eastern Asia,2022,Students enrolled in primary education (thousands),"119,271"
+30,Eastern Asia,2022,Gross enrollment ratio - Primary (male),99.5
+30,Eastern Asia,2022,Gross enrollment ratio - Primary (female),100.9
+30,Eastern Asia,2022,Students enrolled in lower secondary education (thousands),"56,332"
+30,Eastern Asia,2022,Gross enrollment ratio - Lower secondary level (male),96.5
+30,Eastern Asia,2022,Gross enrollment ratio - Lower secondary level (female),97.9
+30,Eastern Asia,2022,Students enrolled in upper secondary education (thousands),"49,395"
+30,Eastern Asia,2022,Gross enrollment ratio - Upper secondary level (male),89.3
+30,Eastern Asia,2022,Gross enrollment ratio - Upper secondary level (female),92.1
+35,South-eastern Asia,2005,Students enrolled in primary education (thousands),"68,228"
+35,South-eastern Asia,2005,Gross enrollment ratio - Primary (male),109.3
+35,South-eastern Asia,2005,Gross enrollment ratio - Primary (female),107.7
+35,South-eastern Asia,2005,Students enrolled in lower secondary education (thousands),"28,336"
+35,South-eastern Asia,2005,Gross enrollment ratio - Lower secondary level (male),78.8
+35,South-eastern Asia,2005,Gross enrollment ratio - Lower secondary level (female),80.1
+35,South-eastern Asia,2005,Students enrolled in upper secondary education (thousands),"11,889"
+35,South-eastern Asia,2005,Gross enrollment ratio - Upper secondary level (male),43.0
+35,South-eastern Asia,2005,Gross enrollment ratio - Upper secondary level (female),43.1
+35,South-eastern Asia,2010,Students enrolled in primary education (thousands),"68,285"
+35,South-eastern Asia,2010,Gross enrollment ratio - Primary (male),109.2
+35,South-eastern Asia,2010,Gross enrollment ratio - Primary (female),110.2
+35,South-eastern Asia,2010,Students enrolled in lower secondary education (thousands),"29,907"
+35,South-eastern Asia,2010,Gross enrollment ratio - Lower secondary level (male),84.2
+35,South-eastern Asia,2010,Gross enrollment ratio - Lower secondary level (female),87.3
+35,South-eastern Asia,2010,Students enrolled in upper secondary education (thousands),"14,859"
+35,South-eastern Asia,2010,Gross enrollment ratio - Upper secondary level (male),53.6
+35,South-eastern Asia,2010,Gross enrollment ratio - Upper secondary level (female),53.5
+35,South-eastern Asia,2015,Students enrolled in primary education (thousands),"68,684"
+35,South-eastern Asia,2015,Gross enrollment ratio - Primary (male),110.0
+35,South-eastern Asia,2015,Gross enrollment ratio - Primary (female),107.6
+35,South-eastern Asia,2015,Students enrolled in lower secondary education (thousands),"32,785"
+35,South-eastern Asia,2015,Gross enrollment ratio - Lower secondary level (male),93.3
+35,South-eastern Asia,2015,Gross enrollment ratio - Lower secondary level (female),96.1
+35,South-eastern Asia,2015,Students enrolled in upper secondary education (thousands),"18,646"
+35,South-eastern Asia,2015,Gross enrollment ratio - Upper secondary level (male),69.6
+35,South-eastern Asia,2015,Gross enrollment ratio - Upper secondary level (female),67.8
+35,South-eastern Asia,2021,Students enrolled in primary education (thousands),"68,789"
+35,South-eastern Asia,2021,Gross enrollment ratio - Primary (male),106.2
+35,South-eastern Asia,2021,Gross enrollment ratio - Primary (female),104.6
+35,South-eastern Asia,2021,Students enrolled in lower secondary education (thousands),"37,448"
+35,South-eastern Asia,2021,Gross enrollment ratio - Lower secondary level (male),98.2
+35,South-eastern Asia,2021,Gross enrollment ratio - Lower secondary level (female),100.6
+35,South-eastern Asia,2021,Students enrolled in upper secondary education (thousands),"19,865"
+35,South-eastern Asia,2021,Gross enrollment ratio - Upper secondary level (male),66.6
+35,South-eastern Asia,2021,Gross enrollment ratio - Upper secondary level (female),69.9
+34,Southern Asia,2005,Students enrolled in primary education (thousands),"181,483"
+34,Southern Asia,2005,Gross enrollment ratio - Primary (male),102.9
+34,Southern Asia,2005,Gross enrollment ratio - Primary (female),97.1
+34,Southern Asia,2005,Students enrolled in lower secondary education (thousands),"70,160"
+34,Southern Asia,2005,Gross enrollment ratio - Lower secondary level (male),70.2
+34,Southern Asia,2005,Gross enrollment ratio - Lower secondary level (female),61.8
+34,Southern Asia,2005,Students enrolled in upper secondary education (thousands),"50,559"
+34,Southern Asia,2005,Gross enrollment ratio - Upper secondary level (male),41.2
+34,Southern Asia,2005,Gross enrollment ratio - Upper secondary level (female),32.9
+34,Southern Asia,2010,Students enrolled in primary education (thousands),"191,840"
+34,Southern Asia,2010,Gross enrollment ratio - Primary (male),103.0
+34,Southern Asia,2010,Gross enrollment ratio - Primary (female),101.3
+34,Southern Asia,2010,Students enrolled in lower secondary education (thousands),"79,060"
+34,Southern Asia,2010,Gross enrollment ratio - Lower secondary level (male),74.4
+34,Southern Asia,2010,Gross enrollment ratio - Lower secondary level (female),70.9
+34,Southern Asia,2010,Students enrolled in upper secondary education (thousands),"64,315"
+34,Southern Asia,2010,Gross enrollment ratio - Upper secondary level (male),48.5
+34,Southern Asia,2010,Gross enrollment ratio - Upper secondary level (female),42.9
+34,Southern Asia,2015,Students enrolled in primary education (thousands),"195,984"
+34,Southern Asia,2015,Gross enrollment ratio - Primary (male),102.0
+34,Southern Asia,2015,Gross enrollment ratio - Primary (female),107.0
+34,Southern Asia,2015,Students enrolled in lower secondary education (thousands),"88,796"
+34,Southern Asia,2015,Gross enrollment ratio - Lower secondary level (male),78.4
+34,Southern Asia,2015,Gross enrollment ratio - Lower secondary level (female),80.5
+34,Southern Asia,2015,Students enrolled in upper secondary education (thousands),"81,636"
+34,Southern Asia,2015,Gross enrollment ratio - Upper secondary level (male),58.1
+34,Southern Asia,2015,Gross enrollment ratio - Upper secondary level (female),54.5
+34,Southern Asia,2022,Students enrolled in primary education (thousands),"194,387"
+34,Southern Asia,2022,Gross enrollment ratio - Primary (male),106.1
+34,Southern Asia,2022,Gross enrollment ratio - Primary (female),103.9
+34,Southern Asia,2022,Students enrolled in lower secondary education (thousands),"91,769"
+34,Southern Asia,2022,Gross enrollment ratio - Lower secondary level (male),81.9
+34,Southern Asia,2022,Gross enrollment ratio - Lower secondary level (female),83.1
+34,Southern Asia,2022,Students enrolled in upper secondary education (thousands),"93,762"
+34,Southern Asia,2022,Gross enrollment ratio - Upper secondary level (male),65.9
+34,Southern Asia,2022,Gross enrollment ratio - Upper secondary level (female),62.9
+145,Western Asia,2005,Students enrolled in primary education (thousands),"24,242"
+145,Western Asia,2005,Gross enrollment ratio - Primary (male),102.2
+145,Western Asia,2005,Gross enrollment ratio - Primary (female),93.2
+145,Western Asia,2005,Students enrolled in lower secondary education (thousands),"12,427"
+145,Western Asia,2005,Gross enrollment ratio - Lower secondary level (male),88.5
+145,Western Asia,2005,Gross enrollment ratio - Lower secondary level (female),76.8
+145,Western Asia,2005,Students enrolled in upper secondary education (thousands),"7,394"
+145,Western Asia,2005,Gross enrollment ratio - Upper secondary level (male),66.9
+145,Western Asia,2005,Gross enrollment ratio - Upper secondary level (female),56.5
+145,Western Asia,2010,Students enrolled in primary education (thousands),"25,347"
+145,Western Asia,2010,Gross enrollment ratio - Primary (male),102.3
+145,Western Asia,2010,Gross enrollment ratio - Primary (female),96.0
+145,Western Asia,2010,Students enrolled in lower secondary education (thousands),"13,473"
+145,Western Asia,2010,Gross enrollment ratio - Lower secondary level (male),88.8
+145,Western Asia,2010,Gross enrollment ratio - Lower secondary level (female),81.4
+145,Western Asia,2010,Students enrolled in upper secondary education (thousands),"9,035"
+145,Western Asia,2010,Gross enrollment ratio - Upper secondary level (male),65.0
+145,Western Asia,2010,Gross enrollment ratio - Upper secondary level (female),59.8
+145,Western Asia,2015,Students enrolled in primary education (thousands),"26,350"
+145,Western Asia,2015,Gross enrollment ratio - Primary (male),98.5
+145,Western Asia,2015,Gross enrollment ratio - Primary (female),93.0
+145,Western Asia,2015,Students enrolled in lower secondary education (thousands),"13,787"
+145,Western Asia,2015,Gross enrollment ratio - Lower secondary level (male),85.3
+145,Western Asia,2015,Gross enrollment ratio - Lower secondary level (female),81.7
+145,Western Asia,2015,Students enrolled in upper secondary education (thousands),"11,485"
+145,Western Asia,2015,Gross enrollment ratio - Upper secondary level (male),77.6
+145,Western Asia,2015,Gross enrollment ratio - Upper secondary level (female),74.5
+145,Western Asia,2022,Students enrolled in primary education (thousands),"28,482"
+145,Western Asia,2022,Gross enrollment ratio - Primary (male),96.4
+145,Western Asia,2022,Gross enrollment ratio - Primary (female),90.7
+145,Western Asia,2022,Students enrolled in lower secondary education (thousands),"15,104"
+145,Western Asia,2022,Gross enrollment ratio - Lower secondary level (male),82.1
+145,Western Asia,2022,Gross enrollment ratio - Lower secondary level (female),78.4
+145,Western Asia,2022,Students enrolled in upper secondary education (thousands),"12,922"
+145,Western Asia,2022,Gross enrollment ratio - Upper secondary level (male),82.2
+145,Western Asia,2022,Gross enrollment ratio - Upper secondary level (female),77.4
+150,Europe,2005,Students enrolled in primary education (thousands),"38,479"
+150,Europe,2005,Gross enrollment ratio - Primary (male),103.4
+150,Europe,2005,Gross enrollment ratio - Primary (female),102.6
+150,Europe,2005,Students enrolled in lower secondary education (thousands),"36,273"
+150,Europe,2005,Gross enrollment ratio - Lower secondary level (male),98.6
+150,Europe,2005,Gross enrollment ratio - Lower secondary level (female),97.4
+150,Europe,2005,Students enrolled in upper secondary education (thousands),"29,004"
+150,Europe,2005,Gross enrollment ratio - Upper secondary level (male),98.8
+150,Europe,2005,Gross enrollment ratio - Upper secondary level (female),99.5
+150,Europe,2010,Students enrolled in primary education (thousands),"36,741"
+150,Europe,2010,Gross enrollment ratio - Primary (male),101.4
+150,Europe,2010,Gross enrollment ratio - Primary (female),100.9
+150,Europe,2010,Students enrolled in lower secondary education (thousands),"32,355"
+150,Europe,2010,Gross enrollment ratio - Lower secondary level (male),103.3
+150,Europe,2010,Gross enrollment ratio - Lower secondary level (female),102.3
+150,Europe,2010,Students enrolled in upper secondary education (thousands),"26,264"
+150,Europe,2010,Gross enrollment ratio - Upper secondary level (male),103.4
+150,Europe,2010,Gross enrollment ratio - Upper secondary level (female),102.2
+150,Europe,2015,Students enrolled in primary education (thousands),"38,360"
+150,Europe,2015,Gross enrollment ratio - Primary (male),100.4
+150,Europe,2015,Gross enrollment ratio - Primary (female),100.1
+150,Europe,2015,Students enrolled in lower secondary education (thousands),"30,636"
+150,Europe,2015,Gross enrollment ratio - Lower secondary level (male),102.3
+150,Europe,2015,Gross enrollment ratio - Lower secondary level (female),101.1
+150,Europe,2015,Students enrolled in upper secondary education (thousands),"26,830"
+150,Europe,2015,Gross enrollment ratio - Upper secondary level (male),112.8
+150,Europe,2015,Gross enrollment ratio - Upper secondary level (female),112.6
+150,Europe,2022,Students enrolled in primary education (thousands),"39,832"
+150,Europe,2022,Gross enrollment ratio - Primary (male),101.3
+150,Europe,2022,Gross enrollment ratio - Primary (female),101.2
+150,Europe,2022,Students enrolled in lower secondary education (thousands),"33,740"
+150,Europe,2022,Gross enrollment ratio - Lower secondary level (male),101.3
+150,Europe,2022,Gross enrollment ratio - Lower secondary level (female),100.7
+150,Europe,2022,Students enrolled in upper secondary education (thousands),"27,126"
+150,Europe,2022,Gross enrollment ratio - Upper secondary level (male),109.8
+150,Europe,2022,Gross enrollment ratio - Upper secondary level (female),110.1
+9,Oceania,2005,Students enrolled in primary education (thousands),"3,143"
+9,Oceania,2005,Gross enrollment ratio - Primary (male),91.1
+9,Oceania,2005,Gross enrollment ratio - Primary (female),89.5
+9,Oceania,2005,Students enrolled in lower secondary education (thousands),"1,891"
+9,Oceania,2005,Gross enrollment ratio - Lower secondary level (male),104.4
+9,Oceania,2005,Gross enrollment ratio - Lower secondary level (female),102.7
+9,Oceania,2005,Students enrolled in upper secondary education (thousands),"1,674"
+9,Oceania,2005,Gross enrollment ratio - Upper secondary level (male),117.9
+9,Oceania,2005,Gross enrollment ratio - Upper secondary level (female),113.0
+9,Oceania,2010,Students enrolled in primary education (thousands),"3,551"
+9,Oceania,2010,Gross enrollment ratio - Primary (male),98.1
+9,Oceania,2010,Gross enrollment ratio - Primary (female),96.1
+9,Oceania,2010,Students enrolled in lower secondary education (thousands),"1,980"
+9,Oceania,2010,Gross enrollment ratio - Lower secondary level (male),109.2
+9,Oceania,2010,Gross enrollment ratio - Lower secondary level (female),103.2
+9,Oceania,2010,Students enrolled in upper secondary education (thousands),"1,777"
+9,Oceania,2010,Gross enrollment ratio - Upper secondary level (male),117.3
+9,Oceania,2010,Gross enrollment ratio - Upper secondary level (female),109.0
+9,Oceania,2015,Students enrolled in primary education (thousands),"4,102"
+9,Oceania,2015,Gross enrollment ratio - Primary (male),103.1
+9,Oceania,2015,Gross enrollment ratio - Primary (female),100.9
+9,Oceania,2015,Students enrolled in lower secondary education (thousands),"2,040"
+9,Oceania,2015,Gross enrollment ratio - Lower secondary level (male),111.9
+9,Oceania,2015,Gross enrollment ratio - Lower secondary level (female),101.4
+9,Oceania,2015,Students enrolled in upper secondary education (thousands),"1,844"
+9,Oceania,2015,Gross enrollment ratio - Upper secondary level (male),117.8
+9,Oceania,2015,Gross enrollment ratio - Upper secondary level (female),106.0
+9,Oceania,2022,Students enrolled in primary education (thousands),"4,514"
+9,Oceania,2022,Gross enrollment ratio - Primary (male),104.2
+9,Oceania,2022,Gross enrollment ratio - Primary (female),102.3
+9,Oceania,2022,Students enrolled in lower secondary education (thousands),"2,353"
+9,Oceania,2022,Gross enrollment ratio - Lower secondary level (male),92.2
+9,Oceania,2022,Gross enrollment ratio - Lower secondary level (female),88.0
+9,Oceania,2022,Students enrolled in upper secondary education (thousands),"1,611"
+9,Oceania,2022,Gross enrollment ratio - Upper secondary level (male),117.0
+9,Oceania,2022,Gross enrollment ratio - Upper secondary level (female),115.5
+432,LLDCs,2005,Students enrolled in primary education (thousands),"53,493"
+432,LLDCs,2005,Gross enrollment ratio - Primary (male),101.1
+432,LLDCs,2005,Gross enrollment ratio - Primary (female),88.3
+432,LLDCs,2005,Students enrolled in lower secondary education (thousands),"16,646"
+432,LLDCs,2005,Gross enrollment ratio - Lower secondary level (male),54.5
+432,LLDCs,2005,Gross enrollment ratio - Lower secondary level (female),45.6
+432,LLDCs,2005,Students enrolled in upper secondary education (thousands),"6,571"
+432,LLDCs,2005,Gross enrollment ratio - Upper secondary level (male),31.9
+432,LLDCs,2005,Gross enrollment ratio - Upper secondary level (female),26.8
+432,LLDCs,2010,Students enrolled in primary education (thousands),"64,531"
+432,LLDCs,2010,Gross enrollment ratio - Primary (male),106.9
+432,LLDCs,2010,Gross enrollment ratio - Primary (female),98.7
+432,LLDCs,2010,Students enrolled in lower secondary education (thousands),"19,845"
+432,LLDCs,2010,Gross enrollment ratio - Lower secondary level (male),59.2
+432,LLDCs,2010,Gross enrollment ratio - Lower secondary level (female),51.5
+432,LLDCs,2010,Students enrolled in upper secondary education (thousands),"8,469"
+432,LLDCs,2010,Gross enrollment ratio - Upper secondary level (male),37.5
+432,LLDCs,2010,Gross enrollment ratio - Upper secondary level (female),31.4
+432,LLDCs,2015,Students enrolled in primary education (thousands),"71,415"
+432,LLDCs,2015,Gross enrollment ratio - Primary (male),104.8
+432,LLDCs,2015,Gross enrollment ratio - Primary (female),97.0
+432,LLDCs,2015,Students enrolled in lower secondary education (thousands),"22,306"
+432,LLDCs,2015,Gross enrollment ratio - Lower secondary level (male),58.5
+432,LLDCs,2015,Gross enrollment ratio - Lower secondary level (female),53.5
+432,LLDCs,2015,Students enrolled in upper secondary education (thousands),"9,581"
+432,LLDCs,2015,Gross enrollment ratio - Upper secondary level (male),39.3
+432,LLDCs,2015,Gross enrollment ratio - Upper secondary level (female),33.7
+432,LLDCs,2020,Students enrolled in primary education (thousands),"81,234"
+432,LLDCs,2020,Gross enrollment ratio - Primary (male),106.6
+432,LLDCs,2020,Gross enrollment ratio - Primary (female),99.0
+432,LLDCs,2020,Students enrolled in lower secondary education (thousands),"25,055"
+432,LLDCs,2020,Gross enrollment ratio - Lower secondary level (male),58.3
+432,LLDCs,2020,Gross enrollment ratio - Lower secondary level (female),53.0
+432,LLDCs,2020,Students enrolled in upper secondary education (thousands),"10,911"
+432,LLDCs,2020,Gross enrollment ratio - Upper secondary level (male),39.4
+432,LLDCs,2020,Gross enrollment ratio - Upper secondary level (female),35.3
+432,LLDCs,2022,Students enrolled in primary education (thousands),"81,591"
+432,LLDCs,2022,Gross enrollment ratio - Primary (male),103.1
+432,LLDCs,2022,Gross enrollment ratio - Primary (female),96.2
+199,LDC§,2005,Students enrolled in primary education (thousands),"106,819"
+199,LDC§,2005,Gross enrollment ratio - Primary (male),98.7
+199,LDC§,2005,Gross enrollment ratio - Primary (female),87.9
+199,LDC§,2005,Students enrolled in lower secondary education (thousands),"23,607"
+199,LDC§,2005,Gross enrollment ratio - Lower secondary level (male),45.0
+199,LDC§,2005,Gross enrollment ratio - Lower secondary level (female),36.9
+199,LDC§,2005,Students enrolled in upper secondary education (thousands),"9,924"
+199,LDC§,2005,Gross enrollment ratio - Upper secondary level (male),23.0
+199,LDC§,2005,Gross enrollment ratio - Upper secondary level (female),16.9
+199,LDC§,2010,Students enrolled in primary education (thousands),"130,200"
+199,LDC§,2010,Gross enrollment ratio - Primary (male),104.4
+199,LDC§,2010,Gross enrollment ratio - Primary (female),97.3
+199,LDC§,2010,Students enrolled in lower secondary education (thousands),"31,028"
+199,LDC§,2010,Gross enrollment ratio - Lower secondary level (male),51.9
+199,LDC§,2010,Gross enrollment ratio - Lower secondary level (female),45.6
+199,LDC§,2010,Students enrolled in upper secondary education (thousands),"14,306"
+199,LDC§,2010,Gross enrollment ratio - Upper secondary level (male),29.7
+199,LDC§,2010,Gross enrollment ratio - Upper secondary level (female),22.5
+199,LDC§,2015,Students enrolled in primary education (thousands),"145,520"
+199,LDC§,2015,Gross enrollment ratio - Primary (male),103.5
+199,LDC§,2015,Gross enrollment ratio - Primary (female),98.6
+199,LDC§,2015,Students enrolled in lower secondary education (thousands),"38,824"
+199,LDC§,2015,Gross enrollment ratio - Lower secondary level (male),56.3
+199,LDC§,2015,Gross enrollment ratio - Lower secondary level (female),52.7
+199,LDC§,2015,Students enrolled in upper secondary education (thousands),"19,338"
+199,LDC§,2015,Gross enrollment ratio - Upper secondary level (male),34.6
+199,LDC§,2015,Gross enrollment ratio - Upper secondary level (female),28.5
+199,LDC§,2021,Students enrolled in primary education (thousands),"168,138"
+199,LDC§,2021,Gross enrollment ratio - Primary (male),106.4
+199,LDC§,2021,Gross enrollment ratio - Primary (female),101.7
+199,LDC§,2021,Students enrolled in lower secondary education (thousands),"45,313"
+199,LDC§,2021,Gross enrollment ratio - Lower secondary level (male),57.3
+199,LDC§,2021,Gross enrollment ratio - Lower secondary level (female),53.9
+199,LDC§,2021,Students enrolled in upper secondary education (thousands),"24,772"
+199,LDC§,2021,Gross enrollment ratio - Upper secondary level (male),37.6
+199,LDC§,2021,Gross enrollment ratio - Upper secondary level (female),33.7
+199,LDC§,2022,Students enrolled in primary education (thousands),"171,022"
+199,LDC§,2022,Gross enrollment ratio - Primary (male),106.3
+199,LDC§,2022,Gross enrollment ratio - Primary (female),101.7
+722,SIDS,2005,Students enrolled in primary education (thousands),"6,928"
+722,SIDS,2005,Gross enrollment ratio - Primary (male),101.9
+722,SIDS,2005,Gross enrollment ratio - Primary (female),97.7
+722,SIDS,2005,Students enrolled in lower secondary education (thousands),"2,717"
+722,SIDS,2005,Gross enrollment ratio - Lower secondary level (male),87.8
+722,SIDS,2005,Gross enrollment ratio - Lower secondary level (female),87.6
+722,SIDS,2005,Students enrolled in upper secondary education (thousands),"1,295"
+722,SIDS,2005,Gross enrollment ratio - Upper secondary level (male),33.0
+722,SIDS,2005,Gross enrollment ratio - Upper secondary level (female),36.9
+722,SIDS,2010,Students enrolled in primary education (thousands),"7,230"
+722,SIDS,2010,Gross enrollment ratio - Primary (male),106.0
+722,SIDS,2010,Gross enrollment ratio - Primary (female),100.9
+722,SIDS,2010,Students enrolled in lower secondary education (thousands),"2,763"
+722,SIDS,2010,Gross enrollment ratio - Lower secondary level (male),90.6
+722,SIDS,2010,Gross enrollment ratio - Lower secondary level (female),89.4
+722,SIDS,2010,Students enrolled in upper secondary education (thousands),"1,400"
+722,SIDS,2010,Gross enrollment ratio - Upper secondary level (male),35.2
+722,SIDS,2010,Gross enrollment ratio - Upper secondary level (female),38.5
+722,SIDS,2015,Students enrolled in primary education (thousands),"7,466"
+722,SIDS,2015,Gross enrollment ratio - Primary (male),109.8
+722,SIDS,2015,Gross enrollment ratio - Primary (female),105.1
+722,SIDS,2015,Students enrolled in lower secondary education (thousands),"2,764"
+722,SIDS,2015,Gross enrollment ratio - Lower secondary level (male),89.8
+722,SIDS,2015,Gross enrollment ratio - Lower secondary level (female),89.2
+722,SIDS,2015,Students enrolled in upper secondary education (thousands),"1,539"
+722,SIDS,2015,Gross enrollment ratio - Upper secondary level (male),38.3
+722,SIDS,2015,Gross enrollment ratio - Upper secondary level (female),40.8
+722,SIDS,2022,Students enrolled in primary education (thousands),"7,515"
+722,SIDS,2022,Gross enrollment ratio - Primary (male),107.3
+722,SIDS,2022,Gross enrollment ratio - Primary (female),104.1
+722,SIDS,2022,Students enrolled in lower secondary education (thousands),"3,078"
+722,SIDS,2022,Gross enrollment ratio - Lower secondary level (male),84.8
+722,SIDS,2022,Gross enrollment ratio - Lower secondary level (female),82.8
+722,SIDS,2022,Students enrolled in upper secondary education (thousands),"1,129"
+722,SIDS,2022,Gross enrollment ratio - Upper secondary level (male),32.7
+722,SIDS,2022,Gross enrollment ratio - Upper secondary level (female),35.5
