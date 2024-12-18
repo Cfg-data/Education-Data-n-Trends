@@ -5,30 +5,19 @@ import streamlit as st
 
 def load_data():
     """
-    Load and return the data from the three CSV files:
-    - Education Statistics
-    - Ratio of Girls to Boys in Education
-    - Teaching Staff in Education
+    Load and return the dataset from the given URL.
     
-    The function also calculates derived columns like 'completion' and 'age_group' if needed.
+    The function loads the full country data CSV from the specified URL.
     """
     try:
-        # File paths for the three datasets
-        education_stats_url = 'https://raw.githubusercontent.com/Cfg-data/final-project/refs/heads/master/data/filtered/filtered_areas_totals_SYB67_309_202411.csv'
-        girls_boys_ratio_url = 'https://raw.githubusercontent.com/Cfg-data/final-project/refs/heads/master/data/filtered/filtered_areas_totals_SYB67_319_202411.csv'
-        teaching_staff_url = 'https://raw.githubusercontent.com/Cfg-data/final-project/refs/heads/master/data/filtered/filtered_areas_totals_SYB67_323_202411.csv'
+        # URL for the dataset
+        data_url = 'https://raw.githubusercontent.com/Cfg-data/final-project/refs/heads/master/usable_notebooks/full_country_data.csv'
         
-        # Load the datasets from the provided URLs
-        education_stats_df = pd.read_csv(education_stats_url)
-        girls_boys_ratio_df = pd.read_csv(girls_boys_ratio_url)
-        teaching_staff_df = pd.read_csv(teaching_staff_url)
+        # Load the dataset from the provided URL
+        full_country_data_df = pd.read_csv(data_url)
         
-        # Returning the dataframes as a dictionary
-        return {
-            'education_stats': education_stats_df,
-            'girls_boys_ratio': girls_boys_ratio_df,
-            'teaching_staff': teaching_staff_df
-        }
+        # Returning the dataframe
+        return full_country_data_df
     
     except Exception as e:
         st.error(f"Error loading data: {str(e)}")

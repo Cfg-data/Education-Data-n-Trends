@@ -3,16 +3,18 @@
 import streamlit as st
 
 def show(data):
+    # Welcome message and introduction
     st.title("Welcome to the Education Project")
     st.write("### Data Loading Confirmation")
     
     if data is not None:
         st.success("Data has been successfully loaded!")
         
-        # Display some basic information about each dataset
+        # Display basic information about each dataset
         st.write("### Collected Datasets")
         st.write("The following datasets have been collected from UNDATA:")
 
+        # Display descriptions and links to datasets
         st.markdown("""
         1. **[Ratio of Girls to Boys in Education](https://data.un.org/_Docs/SYB/CSV/SYB67_319_202411_Ratio%20of%20girls%20to%20boys%20in%20education.csv)**
            - Dataset ID: SYB67_319_202411
@@ -45,8 +47,9 @@ def show(data):
         for dataset_name, df in data.items():
             st.write(f"### {dataset_name.replace('_', ' ').title()}")
             st.write(f"Data contains {len(df)} rows and {len(df.columns)} columns.")
-
+    
     else:
+        # Error message if data is not loaded
         st.error("There was an issue loading the data.")
 
     # License Information

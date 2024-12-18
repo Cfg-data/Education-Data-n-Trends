@@ -1,8 +1,16 @@
 # pages/introduction.py
+
 import streamlit as st
 
 def show(data):
+    # Identification Section
+    st.write("### Data Analytics Bootcamp at IronHack")
+    st.write("#### Final Project developed by Cfg-Data on GitHub")
+    st.markdown("[GitHub Repository](https://github.com/Cfg-data/final-project)")
+
+    # Project Overview
     st.title("Project Introduction")
+    
     st.write("""
         Education serves as a cornerstone for societal progress, yet the global landscape reveals significant disparities in both access to education and educational outcomes. 
         These inequalities are particularly evident when examining key factors such as literacy rates, gender parity in education, teacher qualifications, and resource allocation. 
@@ -25,3 +33,11 @@ def show(data):
         By integrating both machine learning models and statistical analysis, this project aims to offer a multifaceted view of the global educational landscape, revealing how gender, resources, and government investment influence educational outcomes. 
         Ultimately, the findings will contribute to a more nuanced understanding of the educational inequalities that persist across different regions and provide a foundation for policy recommendations to foster more equitable and effective education systems globally.
     """)
+
+    # Additional Sections at the End
+    st.write("### Presentation can be found on Canva")
+    st.markdown("[View the Presentation on Canva](https://www.canva.com/design/DAGZiN-LC9E/Qxz0INeyReYMsoqo9KbSFw/edit)")
+    
+    st.write("### Organization made using a Kanban Workspace")
+    st.markdown("[Trello Daily Task Planner](https://trello.com/b/MKJuGmnZ/final-project-daily-task-planner)")
+    st.markdown("[Trello Kanban Board](https://trello.com/b/JQXi189u/kanban-board-final-project)")
