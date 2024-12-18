@@ -171,4 +171,3 @@ For KNN Regressor, the mean squared error (MSE) decreases with a larger training
 ## Summary:
 - For **classification tasks**, the **70/30 split with MinMaxScaler** is optimal.
 - For **regression tasks**, the **60/40 split with StandardScaler** offers the best performance.
-

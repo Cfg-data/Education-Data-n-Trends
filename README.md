@@ -4,6 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [EDA Results Summary](#EDA-results-summary)
+- [ML Results Summary](#ML-results-summary)
 - [Collected Datasets](#collected-datasets)
 - [Project Progress](#project-progress)
 - [License](#license)
@@ -66,6 +67,48 @@ This comprehensive comparison of education trends and public expenditure highlig
 3. **Data Gaps and Anomalies**: The lack of teachers reported in **2005** and **2010** raises questions about either data collection issues or temporary disruptions in the education system during these years.
 
 This data highlights both progress in teacher qualifications and the instability in the number of teachers across various education levels over the years.
+
+# ML Results Summary
+
+For a detailed view of the complete ML results, please visit [Full ML Results](https://github.com/Cfg-data/final-project/blob/master/ML_results.md).
+
+## First Tests Using KNN
+
+### KNN Classifier:
+
+The accuracy for the KNN Classifier improves as the train-test split increases, with **MinMaxScaler** consistently outperforming **StandardScaler** as the training set grows.
+
+#### Best performance for Classifier:
+- The **70/30 split with MinMaxScaler** yields the highest accuracy (52.94%), indicating the best balance between training and testing data.
+
+---
+
+### KNN Regressor:
+
+For the KNN Regressor, the **mean squared error (MSE)** decreases with a larger training set, with **StandardScaler** outperforming **MinMaxScaler** in most cases.
+
+#### Best performance for Regressor:
+- The **60/40 split with StandardScaler** gives the lowest MSE (16.68), suggesting the best performance for regression tasks.
+
+---
+
+## Conclusion and Recommendations:
+
+### KNN Classifier:
+- **Best Train-Test Split**: 70/30 split
+- **Best Scaler**: MinMaxScaler  
+  The **70/30 split with MinMaxScaler** provides the highest accuracy, making it the best choice for classification tasks.
+
+### KNN Regressor:
+- **Best Train-Test Split**: 60/40 split
+- **Best Scaler**: StandardScaler  
+  The **60/40 split with StandardScaler** gives the lowest MSE, making it the best choice for regression tasks.
+
+---
+
+## Summary:
+- For **classification tasks**, the **70/30 split with MinMaxScaler** is optimal.
+- For **regression tasks**, the **60/40 split with StandardScaler** offers the best performance.
 
 ## Collected Datasets
 
