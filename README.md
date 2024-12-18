@@ -18,7 +18,7 @@ This project involves analyzing educational data collected from the United Natio
 
 # EDA Results Summary
 
-For a detailed view of the complete EDA results, please visit [Full EDA Results](https://raw.githubusercontent.com/Cfg-data/final-project/refs/heads/master/EDA_results.md).
+For a detailed view of the complete EDA results, please visit [Full EDA Results](https://github.com/Cfg-data/final-project/blob/master/EDA_results.md).
 
 ---
 
@@ -159,6 +159,23 @@ The following datasets have been collected from UNDATA:
 - Creating a table for countries and for years separately, to relate all tables to each other
 - Aggregating data from existing tables into a full table with only the chosen list of countries
 
+---
+
+### Streamlit App Development:
+
+1. Decided on a schematic for the app
+2. Created a Jupyter notebook for function aggregation and to keep things organized
+3. Set up the necessary folders for project structure
+4. Started creating functions for the app
+5. Tested the app at multiple stages
+6. Created pages for the app
+7. Conducted repeated testing at each step of development
+8. Continued proceeding with the EDA
+9. Decided to create an MD file to make it easier to import information into the EDA page
+10. Created an EDA page in the app
+11. Imported information into the app in phases
+12. Tested the app between each phase of information import
+
 ## License
 
 This project is based on publicly available data from UNDATA. Please refer to the [UN Data Usage Policy](https://data.un.org/Usage.aspx) for licensing and attribution information.
@@ -170,6 +187,10 @@ The project is organized into the following folders:
 - **`working_notebooks`**: Notebooks that contain work in progress and are not organized.
   - **`unused_notebooks`**
 - **`usable_notebooks`**: Organized notebooks that present findings in an organized manner.
+  - **`correlations`**
+  - **`plots`**
+  - **`barfigures`**
+  - **`full_analysis`**
 - **`data`**: Collects the data used for the project separate folders:
   - **`raw`**:
     - `literacy_rates`

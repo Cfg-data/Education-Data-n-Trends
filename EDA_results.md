@@ -195,6 +195,8 @@ This detailed analysis suggests that education systems vary significantly across
 | 2021 | 98.08            | 98.06          | 103.52                   | 104.39                 | 106.79                   | 104.87                 |
 | 2022 | 97.88            | 98.36          | 88.23                    | 90.43                  | 92.07                    | 93.64                  |
 
+---
+
 ## Key Observations
 
 ### Primary Education (Female and Male)
@@ -230,6 +232,8 @@ This detailed analysis suggests that education systems vary significantly across
 - The data suggests near-universal primary education enrollment globally, but significant challenges remain in maintaining high enrollment at the secondary and upper-secondary levels.
 - **Gender Parity**: While gender parity exists in primary and lower secondary education, females experienced a slight decline in upper secondary enrollment compared to males by 2022.
 - **Regional Variations**: Developed countries show consistent high enrollment, while regions with lower resources or political challenges face difficulties in maintaining enrollment rates at the secondary education levels.
+
+---
 
 # Public Expenditure Comparison Across Regions/Countries
 
@@ -315,8 +319,8 @@ This comparison provides valuable insights into the expenditure priorities and t
 
 ## Teacher Data (2005-2022)
 
-- [Number of teachers at different education levels over time](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/qualified_teachers_over_time.png)
-- [Teachers with minimum qualifications at different education levels over time](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/qualified_teachers_over_time.png)
+![Number of teachers at different education levels over time](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/qualified_teachers_over_time.png)
+![Teachers with minimum qualifications at different education levels over time](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/qualified_teachers_over_time.png)
 
 | Year       | Teachers at Primary Level | Teachers at Lower Secondary Level | Teachers at Upper Secondary Level | Teachers with Minimum Required Qualifications at Primary Level | Teachers with Minimum Required Qualifications at Lower Secondary Level | Teachers with Minimum Required Qualifications at Upper Secondary Level |
 |------------|---------------------------|-----------------------------------|-----------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
@@ -359,3 +363,7 @@ This comparison provides valuable insights into the expenditure priorities and t
 4. **Lack of Teachers in 2005 and 2010**: The lack of reported teachers in **2005** and **2010** at primary and lower secondary levels raises questions about either data reporting issues or temporary educational setbacks.
 
 This data highlights both progress in teacher qualifications and the instability in the number of teachers across various education levels over the years.
+
+---
+
+![Capital Expenditure vs Gross Enrollment Ratios at Different Levels](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/scatter_capital_vs_enrollment_combined.png)
