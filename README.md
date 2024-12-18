@@ -68,7 +68,6 @@ The following datasets have been collected from UNDATA:
 - Proceeding with each .csv file
 - Creating a table for countries and for years separately, to relate all tables to each other
 - Aggregate data from existing tables into a full table with only the chosen list of countries
-- Creating a table for area 1 - total values
 
 ## License
 
@@ -81,14 +80,18 @@ The project is organized into the following folders:
 - **`working_notebooks`**: Notebooks that contain work in progress and are not organized.
   - **`unused_notebooks`**
 - **`usable_notebooks`**: Organized notebooks that present findings in an organized manner.
-- **`data`**: Collects the data used for the project in three separate folders:
+- **`data`**: Collects the data used for the project separate folders:
   - **`raw`**:
+    - `literacy_rates`
     - `unused_data`
       - `enrollment_data`
       - `government_expenditure`
-    - `literacy_rates`
   - **`cleaned`**
+  - **`filtered`**
   - **`merged`**
+    - `variables`
+    - `years_vars`
+    - `final`
 - **`mysql_scripts`**: Collects MySQL scripts and tables created for the project directly in MySQL Workbench.
 - **`app_files`**: Contains all the files that pertain to the Streamlit app written for the project.
 - **`tableau`**: Tableau visualizations created for the project in PDF form for ease of reading.
@@ -108,4 +111,4 @@ The Streamlit app is structured as follows:
   - **`utils_/`**: Folder for utility functions.
     - **`display.py`**: Helper functions for displaying data.
 
-This app allows users to explore different aspects of the education data, run machine learning models, and analyze trends in global education. Navigation buttons within the app enable users to seamlessly switch between sections.
+This app allows users to explore different aspects of the education data, verify the results of the machine learning models run for the project, and analyze trends in education. Navigation buttons within the app enable users to seamlessly switch between sections.
