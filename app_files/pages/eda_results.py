@@ -2,14 +2,17 @@
 
 import streamlit as st
 import pandas as pd
-from data_loader import load_data, load_countries
+import plotly.graph_objs as go
+import numpy as np
+from data_loader import load_data
+from data_loader import load_countries  # Correctly import the function
 
 def show(data=None):
     # Title for the page
     st.title("Exploratory Data Analysis (EDA) Results")
 
     # Load the countries data
-    countries_df = load_countries()
+    countries_df = load_countries()  # Use the imported function
 
     # Show country data
     st.write("### Countries List")
@@ -18,24 +21,12 @@ def show(data=None):
     # Show the country list as a table
     st.dataframe(countries_df)
 
-    # Display the data (if passed)
-    if data is not None:
-        st.write("### Data Overview")
-        # Display basic data stats
-        st.write(f"Data contains {data.shape[0]} rows and {data.shape[1]} columns.")
-        
-        # Provide an option to show a subset of the columns (e.g., first 10 columns)
-        st.write("#### Data (Top 10 Rows)")
-        st.dataframe(data.head(10))  # Show top 10 rows of the dataset by default
-
-        # Display the summary statistics table using describe()
-        st.write("#### Summary Statistics")
-        st.dataframe(data.describe())  # Show the summary statistics table
-        
-        # Show column selection for users to filter out which columns to view
-        columns = data.columns.tolist()
-        selected_columns = st.multiselect("Select columns to display", columns, default=columns[:5])  # default to the first 5 columns
-        st.dataframe(data[selected_columns])
+    # Show country data
+    st.write("### Countries List")
+    st.write(f"Data contains {countries_df.shape[0]} rows and {countries_df.shape[1]} columns.")
+    
+    # Show the country list as a table
+    st.dataframe(countries_df)
 
     # Insert Analysis Text
     st.markdown("""
@@ -89,4 +80,182 @@ def show(data=None):
     - **Geographical Inequality:** The dataset highlights stark disparities between countries, with developed countries like those in Europe, United States, and Japan consistently showing higher levels of investment, qualified teachers, and enrollment rates.
 
     This detailed analysis suggests that education systems vary significantly across countries in terms of access to technology, teacher qualifications, expenditure priorities, and gender parity. High-income countries tend to have more stable educational systems, while low-income or smaller countries may face challenges in providing equal access to resources and qualified teachers.
+    """)
+
+    # Plots and interpretations section
+    st.markdown("## Plots and Interpretations")
+
+    # Create Plotly plots for each category
+    trace1 = go.Scatter(x=data.groupby('Year')['Gross enrollment ratio - Primary (female)'].mean().index,
+                        y=data.groupby('Year')['Gross enrollment ratio - Primary (female)'].mean(),
+                        mode='lines+markers', name='Primary (Female)')
+    trace2 = go.Scatter(x=data.groupby('Year')['Gross enrollment ratio - Primary (male)'].mean().index,
+                        y=data.groupby('Year')['Gross enrollment ratio - Primary (male)'].mean(),
+                        mode='lines+markers', name='Primary (Male)')
+    trace3 = go.Scatter(x=data.groupby('Year')['Gross enrollment ratio - Lower secondary level (female)'].mean().index,
+                        y=data.groupby('Year')['Gross enrollment ratio - Lower secondary level (female)'].mean(),
+                        mode='lines+markers', name='Lower Secondary (Female)')
+    trace4 = go.Scatter(x=data.groupby('Year')['Gross enrollment ratio - Lower secondary level (male)'].mean().index,
+                        y=data.groupby('Year')['Gross enrollment ratio - Lower secondary level (male)'].mean(),
+                        mode='lines+markers', name='Lower Secondary (Male)')
+    trace5 = go.Scatter(x=data.groupby('Year')['Gross enrollment ratio - Upper secondary level (female)'].mean().index,
+                        y=data.groupby('Year')['Gross enrollment ratio - Upper secondary level (female)'].mean(),
+                        mode='lines+markers', name='Upper Secondary (Female)')
+    trace6 = go.Scatter(x=data.groupby('Year')['Gross enrollment ratio - Upper secondary level (male)'].mean().index,
+                        y=data.groupby('Year')['Gross enrollment ratio - Upper secondary level (male)'].mean(),
+                        mode='lines+markers', name='Upper Secondary (Male)')
+
+    # Combine all traces into a data list
+    data_traces = [trace1, trace2, trace3, trace4, trace5, trace6]
+
+    # Define layout for the plot
+    layout = go.Layout(
+        title='Trend of Gross Enrollment Ratios (Female & Male) Over Time',
+        xaxis=dict(title='Year'),
+        yaxis=dict(title='Gross Enrollment Ratio'),
+        template="plotly_white"
+    )
+
+    # Create a Figure and render it in the Streamlit app
+    fig = go.Figure(data=data_traces, layout=layout)
+    st.plotly_chart(fig)
+
+    # Grouping the data by year and calculating the mean for each category
+    trend_data = pd.DataFrame({
+        'Year': data['Year'].unique(),  # Unique years in the dataset
+        'Primary (Female)': data.groupby('Year')['Gross enrollment ratio - Primary (female)'].mean(),
+        'Primary (Male)': data.groupby('Year')['Gross enrollment ratio - Primary (male)'].mean(),
+        'Lower Secondary (Female)': data.groupby('Year')['Gross enrollment ratio - Lower secondary level (female)'].mean(),
+        'Lower Secondary (Male)': data.groupby('Year')['Gross enrollment ratio - Lower secondary level (male)'].mean(),
+        'Upper Secondary (Female)': data.groupby('Year')['Gross enrollment ratio - Upper secondary level (female)'].mean(),
+        'Upper Secondary (Male)': data.groupby('Year')['Gross enrollment ratio - Upper secondary level (male)'].mean()
+    })
+
+    # Display the trend table
+    st.write("### Enrollment Ratio Trends Table")
+    st.dataframe(trend_data)
+
+    # Insert the analysis for Enrollment Ratio Trends
+    st.markdown("""
+    ## Enrollment Ratio Trends Analysis
+
+    ### Primary Education (Female and Male)
+    - **Trend**: Both primary female and male enrollment ratios have remained stable over the years, with a slight decline between 2005 and 2022.
+      - **Female**: From 102.66% in 2005 to 97.88% in 2022.
+      - **Male**: From 104% in 2005 to 98.36% in 2022.
+    - **Interpretation**: This indicates good access to primary education for both genders, with near-universal enrollment. The slight decline could reflect demographic or economic shifts.
+
+    ### Lower Secondary Education (Female and Male)
+    - **Trend**: Enrollment in lower secondary education shows a slight decrease over time, particularly for females.
+      - **Female**: From 105.93% in 2005 to 88.23% in 2022.
+      - **Male**: From 105.51% in 2005 to 90.43% in 2022.
+    - **Interpretation**: The decline in enrollment may reflect challenges such as economic instability, educational policies, or shifts in enrollment priorities. Some countries might face difficulties due to infrastructure or economic conditions.
+
+    ### Upper Secondary Education (Female and Male)
+    - **Trend**: Enrollment in upper secondary education shows significant variation.
+      - **Female**: From 98.26% in 2005 to a peak of 110% in 2015, followed by a drop to 92.07% in 2022.
+      - **Male**: From 93.61% in 2005 to 108.24% in 2015, followed by a decline to 93.64% in 2022.
+    - **Interpretation**: The sharp increase followed by a drop in upper secondary enrollment, especially for females, suggests possible shifts in access or economic factors influencing educational policies.
+
+    ## Gender Parity Trends
+    - **Primary Education**: Both male and female students exhibit near-equal enrollment rates, with only slight declines over time.
+    - **Secondary Education**: 
+      - **Lower Secondary**: Both genders saw similar declines, but **female enrollment** experienced a slightly sharper drop than **male enrollment**.
+      - **Upper Secondary**: **Females** initially had higher GER but saw a decline after 2015, with **males** having slightly higher GER in 2022.
+
+    ## Geographical Insights
+    - **High-Income Countries**: Countries like the **United States**, **Canada**, **Germany**, **France**, and the **United Kingdom** likely maintained strong enrollment rates across all levels.
+    - **Challenges in Lower-Income or Smaller Regions**: Countries such as **Albania**, **Republic of Moldova**, and **Montenegro** may experience challenges related to enrollment, particularly in secondary and upper-secondary education due to limited resources or political instability.
+    - **Global Trends**: The global trend from 2005 to 2022 indicates significant progress in primary education, but challenges persist at the secondary and upper-secondary levels.
+
+    ## Conclusion
+    - The data suggests near-universal primary education enrollment globally, but significant challenges remain in maintaining high enrollment at the secondary and upper-secondary levels.
+    - **Gender Parity**: While gender parity exists in primary and lower secondary education, females experienced a slight decline in upper secondary enrollment compared to males by 2022.
+    - **Regional Variations**: Developed countries show consistent high enrollment, while regions with lower resources or political challenges face difficulties in maintaining enrollment rates at the secondary education levels.
+    """)
+
+        # Group by 'Region/Country/Area Name' and calculate the mean for the required columns
+    expenditure_comparison = data.groupby('Region/Country/Area')[[
+        'All staff compensation as % of total expenditure in public institutions (%)',
+        'Capital expenditure as % of total expenditure in public institutions (%)',
+        'Current expenditure other than staff compensation as % of total expenditure in public institutions (%)'
+    ]].mean()
+
+    # Sort the values for better readability
+    expenditure_comparison = expenditure_comparison.sort_values(
+        'All staff compensation as % of total expenditure in public institutions (%)', ascending=False)
+
+    # Display the comparison table
+    st.write("### Expenditure Comparison Table")
+    st.dataframe(expenditure_comparison)
+
+    # Plotting the expenditure comparison using Plotly
+    bar_width = 0.25
+    index = np.arange(len(expenditure_comparison))
+    
+    # Creating traces for each expenditure category
+    trace1 = go.Bar(
+        y=expenditure_comparison.index,
+        x=expenditure_comparison['All staff compensation as % of total expenditure in public institutions (%)'],
+        orientation='h',
+        name='Staff Compensation',
+        marker=dict(color='skyblue'),
+        width=bar_width
+    )
+    trace2 = go.Bar(
+        y=expenditure_comparison.index,
+        x=expenditure_comparison['Capital expenditure as % of total expenditure in public institutions (%)'],
+        orientation='h',
+        name='Capital Expenditure',
+        marker=dict(color='lightgreen'),
+        width=bar_width
+    )
+    trace3 = go.Bar(
+        y=expenditure_comparison.index,
+        x=expenditure_comparison['Current expenditure other than staff compensation as % of total expenditure in public institutions (%)'],
+        orientation='h',
+        name='Current Expenditure (Other than Staff)',
+        marker=dict(color='salmon'),
+        width=bar_width
+    )
+    
+    # Create layout for the bar chart
+    layout = go.Layout(
+        title='Comparison of Expenditures as % of Total Expenditure in Public Institutions',
+        xaxis=dict(title='Percentage of Total Expenditure'),
+        yaxis=dict(title='Region/Country/Area'),
+        barmode='group',
+        bargap=0.2,
+        template='plotly_white'
+    )
+    
+    # Combine traces into a figure and plot using Streamlit
+    fig = go.Figure(data=[trace1, trace2, trace3], layout=layout)
+    st.plotly_chart(fig)
+    
+    # Public Expenditure Comparison Across Regions/Countries
+    st.markdown("## Public Expenditure Comparison Across Regions/Countries")
+    
+    # Displaying the analysis before the table
+    st.markdown("""
+    ### Observations & Comparison
+    
+    #### **Staff Compensation**:
+    - **Mexico** (85.5%) and **Belgium** (83.6%) allocate the highest percentages to staff compensation, indicating a significant portion of the public sector budget goes towards salaries and benefits.
+    - Several countries, including **China**, **Estonia**, and **Hong Kong**, report 0% allocation, which may imply alternative expenditure classifications or lack of available data.
+
+    #### **Capital Expenditure**:
+    - **Japan** (13%) and **Norway** (12.3%) have the highest capital expenditure percentages, suggesting substantial investments in infrastructure and long-term projects.
+    - **San Marino** reports 0% in this category, possibly reflecting its small size or unique expenditure policies.
+
+    #### **Current Expenditure (Other than Staff Compensation)**:
+    - **Finland** (32.85%) and **Sweden** (29.77%) dedicate the largest shares of their budgets to current expenditure other than staff compensation, highlighting robust spending on public services and operational costs.
+    - **Andorra** stands out with a high percentage (50.87%) in current expenditure, which might reflect specific priorities or high operational costs.
+
+    ### Conclusion:
+    - **Mexico**, **Belgium**, and **Norway** exhibit high allocations for staff compensation, suggesting a greater focus on personnel costs in public institutions.
+    - **Japan**, **Norway**, and **Latvia** emphasize capital expenditures, indicating a long-term investment in infrastructure and public assets.
+    - **Finland** and **Romania** allocate substantial amounts to other current expenditure, signaling broad operational funding beyond staffing needs.
+    
+    This comparison provides valuable insights into the expenditure priorities and trends of these countries.
     """)
