@@ -259,3 +259,102 @@ def show(data=None):
     
     This comparison provides valuable insights into the expenditure priorities and trends of these countries.
     """)
+    # Title for the page
+    st.title("Teacher Data Analysis (2005-2022)")
+
+    # Group by 'Year' and calculate the mean of the number of teachers at each level
+    teachers_primary = data.groupby('Year')['Teachers at primary level'].mean()
+    teachers_lower_secondary = data.groupby('Year')['Teachers at lower secondary level'].mean()
+    teachers_upper_secondary = data.groupby('Year')['Teachers at upper secondary level'].mean()
+
+    # Create a Plotly plot for the number of teachers at different levels over the years
+    trace1 = go.Scatter(x=teachers_primary.index, y=teachers_primary, mode='lines+markers', name='Primary Level', line=dict(color='skyblue'))
+    trace2 = go.Scatter(x=teachers_lower_secondary.index, y=teachers_lower_secondary, mode='lines+markers', name='Lower Secondary Level', line=dict(color='lightgreen'))
+    trace3 = go.Scatter(x=teachers_upper_secondary.index, y=teachers_upper_secondary, mode='lines+markers', name='Upper Secondary Level', line=dict(color='salmon'))
+
+    # Create the layout for the plot
+    layout = go.Layout(
+        title='Number of Teachers at Different Education Levels Over Time',
+        xaxis=dict(title='Year'),
+        yaxis=dict(title='Number of Teachers'),
+        template='plotly_white'
+    )
+
+    # Plot the figure
+    fig = go.Figure(data=[trace1, trace2, trace3], layout=layout)
+    st.plotly_chart(fig)
+
+    # Group by 'Year' and calculate the mean for teachers with minimum qualifications at each level
+    teachers_min_qualified_primary = data.groupby('Year')['Teachers with minimum required qualifications at primary level'].mean()
+    teachers_min_qualified_lower_secondary = data.groupby('Year')['Teachers with minimum required qualifications at lower secondary level'].mean()
+    teachers_min_qualified_upper_secondary = data.groupby('Year')['Teachers with minimum required qualifications at upper secondary level'].mean()
+
+    # Create a Plotly plot for teachers with minimum qualifications over the years
+    trace4 = go.Scatter(x=teachers_min_qualified_primary.index, y=teachers_min_qualified_primary, mode='lines+markers', name='Primary Level (Qualified)', line=dict(color='skyblue'))
+    trace5 = go.Scatter(x=teachers_min_qualified_lower_secondary.index, y=teachers_min_qualified_lower_secondary, mode='lines+markers', name='Lower Secondary Level (Qualified)', line=dict(color='lightgreen'))
+    trace6 = go.Scatter(x=teachers_min_qualified_upper_secondary.index, y=teachers_min_qualified_upper_secondary, mode='lines+markers', name='Upper Secondary Level (Qualified)', line=dict(color='salmon'))
+
+    # Create the layout for the second plot
+    layout_qualified = go.Layout(
+        title='Number of Teachers with Minimum Qualifications at Different Education Levels Over Time',
+        xaxis=dict(title='Year'),
+        yaxis=dict(title='Number of Teachers with Minimum Qualifications'),
+        template='plotly_white'
+    )
+
+    # Plot the second figure
+    fig_qualified = go.Figure(data=[trace4, trace5, trace6], layout=layout_qualified)
+    st.plotly_chart(fig_qualified)
+
+    # Group by 'Year' and calculate the mean for relevant columns
+    teachers_data = data.groupby('Year')[[
+        'Teachers at primary level', 
+        'Teachers at lower secondary level', 
+        'Teachers at upper secondary level',
+        'Teachers with minimum required qualifications at primary level', 
+        'Teachers with minimum required qualifications at lower secondary level',
+        'Teachers with minimum required qualifications at upper secondary level'
+    ]].mean()
+
+    # Reset index to make 'Year' a column and display the table
+    teachers_data = teachers_data.reset_index()
+    st.write("### Teachers Data Table")
+    st.dataframe(teachers_data)
+
+    # Insert the analysis
+    st.markdown("""
+    ### Interpretation of the Results
+
+    - **Primary Level Teachers**:
+      - In **2005**, there were no teachers reported at the primary level.
+      - By **2010**, the number of primary-level teachers sharply increased to **48.38**.
+      - **2015** saw a reduction in primary-level teachers to **11.64**, with a subsequent rise to **55.42** in **2022**.
+    
+    - **Lower Secondary Level Teachers**:
+      - Similar to the primary level, there were no teachers at the lower secondary level in **2005**.
+      - The number of teachers increased by **2010** to **18.06**, but **2015** saw a dramatic drop to **0**.
+      - There was some recovery in **2022**, with **13.17** teachers reported at the lower secondary level.
+    
+    - **Upper Secondary Level Teachers**:
+      - The trend for upper secondary teachers mirrored that of primary and lower secondary, with **no teachers** in **2005** and **2010**.
+      - **2022** marked the highest number of upper secondary teachers at **10.75**.
+    
+    - **Teachers with Minimum Required Qualifications**:
+      - The percentage of teachers with minimum required qualifications was generally high across all levels, but showed variability.
+      - **Primary Level**: Saw a fluctuation in qualifications from **18.80%** in **2005** to **52.17%** in **2022**.
+      - **Lower Secondary Level**: The percentage of teachers meeting the qualification standard ranged from **8.96%** in **2005** to **24.20%** in **2022**, reflecting a steady improvement.
+      - **Upper Secondary Level**: The qualification rate increased over time, from **9.10%** in **2005** to **32.92%** in **2022**, indicating improved teacher qualification.
+    
+    ---
+    
+    ### Key Observations:
+    1. **Sharp Increase in Teacher Numbers**: There was a sharp increase in teacher numbers in **2010** for primary and lower secondary levels, followed by a drop in **2015** and a recovery in **2022**.
+    2. **Teacher Qualification Improvement**: Over time, the percentage of teachers with minimum required qualifications increased across all education levels, especially at the primary and upper secondary levels.
+    3. **Fluctuating Trends**: The data suggests fluctuating trends, possibly due to changes in educational policies, economic factors, or disruptions affecting education systems during the interim years (2010-2021).
+    4. **Lack of Teachers in 2005 and 2010**: The lack of reported teachers in **2005** and **2010** at primary and lower secondary levels raises questions about either data reporting issues or temporary educational setbacks.
+    
+    This data highlights both progress in teacher qualifications and the instability in the number of teachers across various education levels over the years.
+    """)
+
+    # Optionally, you can also display the link to the image mentioned in the analysis:
+    st.image("https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/scatter_capital_vs_enrollment_combined.png", caption="Capital Expenditure vs Gross Enrollment Ratios at Different Levels")
