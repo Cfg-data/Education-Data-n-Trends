@@ -110,15 +110,54 @@ The following datasets have been collected from UNDATA:
 10. Grouping only for the years with the largest amount of data for the biggest number of countries kept
 11. Repeating step 10 for the regions
 12. Renaming the files
-13. Loading files into a jupyter notebook, Running a correlation matrix for each variable, making sure all Nan values are filled with 0
-14. Running several figures for the various variables by year, bar plots and violin plots mostly (disregarding 0 values using seaborn and plotly)
+13. Loading files into a Jupyter notebook, running a correlation matrix for each variable, making sure all NaN values are filled with 0
+14. Running several figures for the various variables by year, mostly bar plots and violin plots (disregarding 0 values using Seaborn and Plotly)
+
+---
+
+### Preliminary EDA:
+- Started EDA with **EDA_countries** Jupyter notebook
+- Placed all the formatted CSV dataframes
+- Merged dataframes
+- Created a preliminary correlation matrix
+- Proceeded with analysis and description of relevant columns into a summary table
+- Output the summary table into a CSV file
+- Created violin and box plots
+- Made more visualizations using Seaborn and Matplotlib
+- Created a line plot for enrollment trends
+- Moved on to more complex EDA
+
+---
+
+### Complex EDA:
+(All of the relevant results are available in [Full EDA Results](https://raw.githubusercontent.com/Cfg-data/final-project/refs/heads/master/EDA_results.md))
+
+- Created a new EDA notebook: **full_analytics**
+- Loaded only the merged CSV and checked for data types, null values, and duplicates
+- Made a summary table and a categorical summary
+- Plotted all the enrollment trend lines and one congregated clean plot with all of them together
+- Made a trend table and interpreted the results
+- Created a bar chart for staff compensation as expenditure data
+- Created two more charts with better views of the relevant data
+- Made a comparison of expenditure data by country (region)
+- Plotted a new correlation matrix for the countries being analyzed
+- Created a histogram for teacher distribution by education level
+- Made line plots for teacher distribution by level and year, and also for qualifications
+- Created a table to iterate on the data for the analytics file
+- Made an enrollment ratio plot
+- Plotted a graph to detect outliers
+- Created aggregate tables (only kept one in the file)
+- Made comparison scatter plots between expenditure and enrollment ratios, using only the aggregate data
+- Created a missing data matrix
+
+---
 
 ### MySQL Progress:
 - Database creation in Python connector attempted but unsuccessful
-- Proceeded to create database in mysql workbench directly
+- Proceeded to create the database in MySQL Workbench directly
 - Proceeding with each .csv file
 - Creating a table for countries and for years separately, to relate all tables to each other
-- Aggregate data from existing tables into a full table with only the chosen list of countries
+- Aggregating data from existing tables into a full table with only the chosen list of countries
 
 ## License
 

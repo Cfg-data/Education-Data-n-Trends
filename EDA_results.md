@@ -233,6 +233,8 @@ This detailed analysis suggests that education systems vary significantly across
 
 # Public Expenditure Comparison Across Regions/Countries
 
+![Expenditure Comparison Bar Chart](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/expenditure_comparison_side_by_side.png)
+
 The table below compares three key public expenditure categories across various countries/regions:
 
 1. **All Staff Compensation as % of Total Expenditure**
@@ -312,6 +314,9 @@ The table below compares three key public expenditure categories across various 
 This comparison provides valuable insights into the expenditure priorities and trends of these countries.
 
 ## Teacher Data (2005-2022)
+
+- [Number of teachers at different education levels over time](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/qualified_teachers_over_time.png)
+- [Teachers with minimum qualifications at different education levels over time](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/qualified_teachers_over_time.png)
 
 | Year       | Teachers at Primary Level | Teachers at Lower Secondary Level | Teachers at Upper Secondary Level | Teachers with Minimum Required Qualifications at Primary Level | Teachers with Minimum Required Qualifications at Lower Secondary Level | Teachers with Minimum Required Qualifications at Upper Secondary Level |
 |------------|---------------------------|-----------------------------------|-----------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
