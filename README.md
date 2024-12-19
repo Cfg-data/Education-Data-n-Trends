@@ -196,7 +196,7 @@ For a detailed view of the complete ML results, please visit [Full ML Results](h
 
 **Caveat:** Mock UN recommendations created by Ceci for this project as per the analysis done.
 
-# [Full Recommendations Page](https://github.com/Cfg-data/final-project/blob/master/recommendations_page.md)
+For a detailed view of the complete Recommendations, please visit [Full Recommendations](https://github.com/Cfg-data/final-project/blob/master/recommendations_page.md).
 
 ## 1. Enhance Educational Data Reporting and Accessibility
 - Standardize data collection and reporting systems across countries.
