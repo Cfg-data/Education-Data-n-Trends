@@ -72,43 +72,59 @@ This data highlights both progress in teacher qualifications and the instability
 
 For a detailed view of the complete ML results, please visit [Full ML Results](https://github.com/Cfg-data/final-project/blob/master/ML_results.md).
 
-## First Tests Using KNN
+# KNN Classifier Performance:
 
-### KNN Classifier:
+### Train-Test Split Results:
+- The KNN classifier's accuracy increases with larger training datasets, particularly when using **MinMaxScaler**.
+- Best performance is observed with a **70/30 split** (52.94% accuracy).
+- **MinMaxScaler** consistently outperforms **StandardScaler**, especially with larger training sets.
 
-The accuracy for the KNN Classifier improves as the train-test split increases, with **MinMaxScaler** consistently outperforming **StandardScaler** as the training set grows.
+### Best Performance:
+- The highest classifier accuracy of **52.94%** is achieved with the **70/30 split** and **MinMaxScaler**, indicating this configuration provides the best balance for classification tasks.
 
-#### Best performance for Classifier:
-- The **70/30 split with MinMaxScaler** yields the highest accuracy (52.94%), indicating the best balance between training and testing data.
-
----
-
-### KNN Regressor:
-
-For the KNN Regressor, the **mean squared error (MSE)** decreases with a larger training set, with **StandardScaler** outperforming **MinMaxScaler** in most cases.
-
-#### Best performance for Regressor:
-- The **60/40 split with StandardScaler** gives the lowest MSE (16.68), suggesting the best performance for regression tasks.
+### Classifier Evaluation:
+- The classifier's performance is mixed across different classes, with some classes (e.g., **2021**) showing good precision, while others (e.g., **2015**) have low recall.
+- **Overall accuracy** is 53%, suggesting that while the model performs decently, there is room for improvement.
+- Further refinements, such as **hyperparameter tuning** or addressing **class imbalances**, are needed.
 
 ---
 
-## Conclusion and Recommendations:
+# KNN Regressor Performance:
 
-### KNN Classifier:
-- **Best Train-Test Split**: 70/30 split
-- **Best Scaler**: MinMaxScaler  
-  The **70/30 split with MinMaxScaler** provides the highest accuracy, making it the best choice for classification tasks.
+### Train-Test Split Results:
+- The **mean squared error (MSE)** decreases slightly with larger training datasets.
+- Best performance is observed with the **60/40 split** and **StandardScaler** (MSE = 16.68).
+- **StandardScaler** performs slightly better than **MinMaxScaler** in terms of MSE and other error metrics.
 
-### KNN Regressor:
-- **Best Train-Test Split**: 60/40 split
-- **Best Scaler**: StandardScaler  
-  The **60/40 split with StandardScaler** gives the lowest MSE, making it the best choice for regression tasks.
+### Best Performance:
+- The lowest **MSE** of **16.68** is achieved with the **60/40 split** and **StandardScaler**, making it the best configuration for regression tasks.
+
+### Regressor Evaluation:
+- The **KNN regressor** shows a **modest R-squared value of 0.34**, indicating moderate performance.
+- However, its **accuracy within a tolerance of 0.1** is low (**2.22%**), suggesting that the model’s predictions are not closely aligned with the true values within this margin.
+- Improvements in **feature engineering** or **model tuning** are recommended to enhance predictive accuracy.
 
 ---
 
-## Summary:
-- For **classification tasks**, the **70/30 split with MinMaxScaler** is optimal.
-- For **regression tasks**, the **60/40 split with StandardScaler** offers the best performance.
+# Summary of Findings and Recommendations:
+
+### For Classification:
+- The best configuration for the **KNN classifier** is the **70/30 split** with **MinMaxScaler**, achieving the highest accuracy (**52.94%**).
+- **Class imbalances** affect performance, and further improvements can be made by using techniques like **oversampling** or **tuning the model’s hyperparameters**.
+
+### For Regression:
+- The best configuration for the **KNN regressor** is the **60/40 split** with **StandardScaler**, with an **MSE** of **16.68** and an **R-squared** of **0.34**.
+- The low accuracy within a tolerance of 0.1 suggests room for further improvement, potentially through **model tuning** or exploring different **regression models**.
+
+---
+
+# Final Recommendations:
+
+### For Classification:
+- Focus on improving the handling of **class imbalances** and tuning the model for better **precision** and **recall**.
+
+### For Regression:
+- Continue with the **StandardScaler** for the **KNN regressor** but explore **model refinements** and **hyperparameter tuning** to reduce error and improve accuracy.
 
 ## Collected Datasets
 
