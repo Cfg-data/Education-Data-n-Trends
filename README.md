@@ -23,50 +23,99 @@ For a detailed view of the complete EDA results, please visit [Full EDA Results]
 
 ---
 
-## Education Trends (2005-2022)
+#### **1. Year**
+The dataset spans from **2005 to 2022**, with a concentration of data points around the early 2010s (**average year: 2012.96**). The focus is on mostly high-income countries, suggesting relatively stable education systems during this period, with trends influenced by global events such as the **2008 global financial crisis**. This period likely reflects both stable educational policies and challenges caused by economic disruptions.
 
-- **Primary Education**: Enrollment ratios for both males and females were nearly universal in 2005 but have slightly declined by 2022. Both female and male enrollment ratios were close to 98%, signaling stable access to primary education.
-- **Secondary Education**: Enrollment at the lower and upper secondary levels has decreased significantly over the years. The gender disparity is notable in upper secondary education, where females initially had higher enrollment but saw a sharp drop by 2022, with males having slightly higher rates by the end.
-- **Regional Disparities**: Developed countries, especially in Europe and North America, generally maintained strong enrollment, while lower-income or politically unstable regions faced challenges, particularly at the secondary education level.
+#### **2. Region/Country/Area**
+- **High-Income Countries**: The dataset includes countries from Western Europe (e.g., Germany, France, Sweden, United Kingdom, United States) and advanced economies in Asia (e.g., Japan, Republic of Korea).
+- **Data Gaps**: Some countries (e.g., Albania, Gibraltar, Montenegro, Republic of Moldova) have fewer data points, possibly due to challenges in educational reporting or lower reporting standards.
+- **High Reporting Frequency**: Countries like **China** (mainland and Hong Kong), **Russia**, **India**, and the **United States** show higher data frequency, possibly reflecting better data availability and more comprehensive educational statistics systems.
 
-## Public Expenditure Insights
+#### **3. All Staff Compensation as % of Total Expenditure in Public Institutions (%)**
+- **High Proportion in High-Income Countries**: The average percentage of **staff compensation** across countries is **50.77%**, which is relatively high in developed economies where teacher salaries are a large part of the education budget (e.g., **United States**, **United Kingdom**, **Germany**).
+- **Wide Variation**: Some countries, particularly smaller or developing economies (e.g., **Albania**, **Republic of Moldova**), report **0%** staff compensation, which may reflect either alternative funding structures or lack of comprehensive educational expenditure reporting.
 
-- **Staff Compensation**: Mexico (85.5%) and Belgium (83.6%) dedicate a significant share of their public expenditure to staff compensation, emphasizing a focus on salaries and benefits in the public sector.
-- **Capital Expenditure**: Countries like Japan (13%) and Norway (12.3%) invest heavily in capital expenditures, suggesting a focus on long-term infrastructure development and public assets. Some countries like San Marino report 0% in this category, which may reflect unique expenditure patterns.
-- **Current Expenditure**: Finland (32.85%) and Sweden (29.77%) allocate substantial portions of their budgets to other current expenditures, pointing to a robust funding model for public services beyond salaries.
+#### **4. Basic Access to Computers by Level of Education**
+- **Access Gap**: The dataset shows significant disparity in **computer access** by education level:
+  - **Primary Level**: 44.6% access
+  - **Lower Secondary Level**: 33.3% access
+  - **Upper Secondary Level**: 34.1% access
+  This digital divide underscores the inequality in technology access, with high-income countries likely offering near-complete access, while others lag, particularly in **Albania** and **Moldova**.
 
-## Regional Variations in Expenditure
+#### **5. Capital Expenditure as % of Total Expenditure in Public Institutions (%)**
+- **Low Average Capital Expenditure (6.09%)**: Many countries focus more on operational (current) expenditure rather than on capital expenditure (e.g., infrastructure). 
+- **Developed Economies** like **Germany**, **France**, and **United States** are expected to have higher capital expenditure due to larger investments in educational infrastructure, while smaller or lower-income regions like **Moldova** and **Albania** allocate less.
 
-- **High Expenditure on Staff Compensation**: Mexico and Belgium stand out with high percentages of public expenditure dedicated to staff compensation, indicating a larger portion of the public budget directed towards public sector employees.
-- **Infrastructure Investment**: Japan and Norway prioritize capital expenditure, which indicates significant investments in public infrastructure and future development.
-- **Operational Costs**: Finland, Sweden, and Romania show a larger share of spending on operational expenses beyond staff compensation, reflecting broad public service investments.
+#### **6. Current Expenditure Other Than Staff Compensation**
+- **Moderate Share (17.08%)**: Current operational costs (excluding staff compensation) form a significant share of the budget in most regions. High-income countries like the **United States** and **Germany** likely have higher operational costs compared to developing countries that allocate less to infrastructure and resources.
 
-## Overall Conclusions
+#### **7. Gross Enrollment Ratios (GER) by Education Level**
+- **High GERs in Primary and Secondary Education**: Developed countries consistently show near-universal enrollment rates, while some developing countries (e.g., **Republic of Moldova**, **Albania**) might face challenges in ensuring secondary education access for all.
+- **Gender Parity**: There is a slight gender imbalance in enrollment at lower secondary and primary levels (favoring boys), but **upper secondary** education shows near-gender parity or a slight advantage for girls, especially in developed countries.
 
-- **Education**: Global education trends show near-universal primary education enrollment, but secondary education faces challenges, with gender disparities increasing at the upper secondary level.
-- **Public Expenditure**: The focus of public expenditure varies across regions. Countries like Mexico and Belgium emphasize staff compensation, while Japan and Norway prioritize infrastructure investment. Finland and Sweden lead in operational expenditure, ensuring robust public services.
+#### **8. Ratio of Girls to Boys in Education**
+- **Gender Parity**: The ratio of girls to boys is close to **1** across all education levels. At **upper secondary**, there is a slight trend toward more girls enrolled, reflecting increasing opportunities and better access for girls in many developed countries like **Sweden**, **Finland**, and **Norway**.
+- **Gender Imbalance in Some Regions**: Some developing countries or regions with educational disparities may still show lower female enrollment at lower secondary and primary levels.
 
-This comprehensive comparison of education trends and public expenditure highlights diverse priorities and challenges faced by different regions, offering insights into both educational access and government spending patterns.
+#### **9. Teachers by Education Level**
+- **Disparities in Teacher Availability**: There are significant disparities in teacher numbers across regions. Developed countries like **United States**, **Germany**, and **United Kingdom** report higher teacher availability, while smaller or developing nations (e.g., **Albania**, **Moldova**) show lower numbers, possibly due to underreporting or teacher shortages.
+- **Teacher Shortages**: The low mean number of teachers at the **lower secondary** (6.63) and **upper secondary** levels (1.16) reflects a significant shortage, especially in developing regions.
 
-## Teacher Data (2005-2022) Summary
+#### **10. Teachers with Minimum Required Qualifications**
+- **Qualified Teacher Proportion**: A relatively low percentage of teachers in some countries meet the minimum qualification standards, especially at the **secondary education** levels. This suggests challenges in teacher training, particularly in developing countries.
+- **Higher Qualification Standards in Developed Countries**: Countries like **Germany**, **United States**, and **Sweden** likely have higher standards for teacher qualifications, though even in these countries, gaps exist.
 
-- **Primary Level Teachers**: Teacher numbers at the primary level fluctuated significantly, starting with none reported in **2005**, then sharply increasing to **48.38** by **2010**, followed by a drop to **11.64** in **2015**, and recovering to **55.42** in **2022**.
-  
-- **Lower Secondary Level Teachers**: Similar trends were observed at the lower secondary level, with no teachers in **2005**, an increase to **18.06** in **2010**, a drop to zero in **2015**, and a partial recovery to **13.17** in **2022**.
+---
 
-- **Upper Secondary Level Teachers**: No teachers were reported at the upper secondary level in **2005** and **2010**, but by **2022**, the number reached **10.75**, showing recovery.
+### **Summary of Key Trends**
 
-- **Teachers with Minimum Required Qualifications**: 
-  - The percentage of qualified teachers at the **primary level** increased from **18.80%** in **2005** to **52.17%** in **2022**.
-  - For the **lower secondary level**, the qualification rate rose from **8.96%** in **2005** to **24.20%** in **2022**.
-  - At the **upper secondary level**, the qualification rate increased from **9.10%** in **2005** to **32.92%** in **2022**, indicating progress in teacher qualification.
+1. **Digital Divide**: There is a significant gap in access to computers, with high-income countries having more complete access compared to lower-income regions, particularly in **lower secondary** and **upper secondary** education.
+2. **Investment Focus**: Many countries prioritize **current expenditures** (e.g., staff salaries) over **capital expenditures** (e.g., infrastructure), which may impact long-term educational development.
+3. **Teacher Availability and Qualification**: Teacher shortages and qualification gaps are evident, particularly at the **secondary education levels**, with developing regions facing the most significant challenges.
+4. **Gender Parity**: Generally, there is good **gender parity** in enrollment across all education levels, though females saw a decline in **upper secondary enrollment** compared to males by 2022.
+5. **Geographical Inequality**: The dataset shows significant disparities between **high-income countries** and **low-income or smaller regions**. Developed countries tend to have better teacher availability, higher qualification standards, and more consistent enrollment rates.
 
-### Key Observations:
-1. **Teacher Numbers Fluctuation**: Teacher numbers across all levels fluctuated significantly, with sharp increases around **2010**, drops in **2015**, and recovery in **2022**.
-2. **Improved Qualifications**: The percentage of teachers with minimum required qualifications steadily improved across all education levels, especially at the primary and upper secondary levels.
-3. **Data Gaps and Anomalies**: The lack of teachers reported in **2005** and **2010** raises questions about either data collection issues or temporary disruptions in the education system during these years.
+This analysis highlights the uneven distribution of educational resources, challenges in teacher training and availability, and the ongoing issue of digital inequality in education systems worldwide.
 
-This data highlights both progress in teacher qualifications and the instability in the number of teachers across various education levels over the years.
+---
+
+### **Trends and Key Observations from Gross Enrollment Ratios (GER)**
+
+#### **Primary Education (Female and Male)**
+- **Stable Trend**: Enrollment ratios for both **female** and **male** students in **primary education** remain close to 100% from 2005 to 2022, with a slight decline.
+  - **Female GER**: From 102.66% in 2005 to 97.88% in 2022.
+  - **Male GER**: From 104% in 2005 to 98.36% in 2022.
+- **Interpretation**: Indicates near-universal access to primary education, with a slight decline possibly linked to demographic or policy shifts.
+
+#### **Lower Secondary Education (Female and Male)**
+- **Decline in Enrollment**: Both **female** and **male** enrollment at the **lower secondary level** decreased slightly over time.
+  - **Female GER**: From 105.93% in 2005 to 88.23% in 2022.
+  - **Male GER**: From 105.51% in 2005 to 90.43% in 2022.
+- **Interpretation**: The decline suggests challenges in maintaining secondary education enrollment, possibly due to economic, infrastructural, or policy-related factors.
+
+#### **Upper Secondary Education (Female and Male)**
+- **Significant Fluctuations**: **Upper secondary enrollment** shows sharp changes.
+  - **Female GER**: Peaked at 110% in 2015, then dropped to 92.07% by 2022.
+  - **Male GER**: Peaked at 108.24% in 2015, dropping to 93.64% in 2022.
+- **Interpretation**: This fluctuation could reflect shifting access or economic influences affecting enrollment at the upper secondary level.
+
+---
+
+### **Gender Parity and Regional Insights**
+
+- **Gender Parity**: **Gender parity** is generally maintained across primary and secondary education, with slight gender imbalances favoring **boys** at lower secondary and **males** maintaining higher enrollment in upper secondary by 2022.
+- **Regional Disparities**: **Developed countries** show stable enrollment trends, while **low-income countries** face more significant challenges, particularly in **secondary and upper secondary education**.
+
+---
+
+### **Conclusion**
+
+- **Primary Education**: Near-universal enrollment worldwide, though a slight decline is noted.
+- **Secondary Education**: Declining enrollment at the **lower secondary** level and fluctuations at the **upper secondary** level.
+- **Gender Trends**: Gender parity exists, but **female enrollment** at the upper secondary level has declined slightly relative to males by 2022.
+- **Geographical Disparities**: Developed countries show robust educational systems, while regions with fewer resources struggle to maintain enrollment and teacher availability.
+
+This dataset underscores the importance of addressing **regional disparities**, improving **teacher training**, and addressing the **digital divide** to ensure equitable access to education globally.
 
 # ML Results Summary
 
@@ -254,6 +303,21 @@ The following datasets have been collected from UNDATA:
 10. Make an EDA page.
 11. Import information in phases.
 12. Test between phases.
+
+---
+
+### Presentation Construction:
+1. Look at available models.
+2. Narrow down search.
+3. Choose a color scheme and vector theme.
+4. Pick one model.
+5. Start presentation.
+6. Decide on a title.
+7. Make notes on progress time and steps (this whole list).
+8. Decide what presentation must include.
+9. Plot what to say, when to say it, and where to insert the information.
+10. Decide main steps.
+11. Finish presentation.
 
 ## License
 

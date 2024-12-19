@@ -3,14 +3,14 @@
 import streamlit as st
 
 def show(data):
+    # Project Overview
+    st.title("Project Introduction")
+
     # Identification Section
     st.write("### Data Analytics Bootcamp at IronHack")
     st.write("#### Final Project developed by Cfg-Data on GitHub")
     st.markdown("[GitHub Repository](https://github.com/Cfg-data/final-project)")
 
-    # Project Overview
-    st.title("Project Introduction")
-    
     st.write("""
         Education serves as a cornerstone for societal progress, yet the global landscape reveals significant disparities in both access to education and educational outcomes. 
         These inequalities are particularly evident when examining key factors such as literacy rates, gender parity in education, teacher qualifications, and resource allocation. 
