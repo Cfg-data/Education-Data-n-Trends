@@ -1,7 +1,5 @@
 # Educational Data Analysis Project
 
-## Navigation
-
 - [Project Overview](#project-overview)
 - [EDA Results Summary](#EDA-results-summary)
 - [ML Results Summary](#ML-results-summary)
@@ -10,7 +8,7 @@
 - [Project Progress](#project-progress)
 - [License](#license)
 - [Folder Structure](#folder-structure)
-- [Streamlit App](#streamlit-app)
+- [Streamlit App Structure](#streamlit-app-structure)
 
 ---
 
@@ -118,6 +116,15 @@ This analysis highlights the uneven distribution of educational resources, chall
 
 This dataset underscores the importance of addressing **regional disparities**, improving **teacher training**, and addressing the **digital divide** to ensure equitable access to education globally.
 
+- [Project Overview](#project-overview)
+- [EDA Results Summary](#EDA-results-summary)
+- [Policy Recommendations](#policy-recommendations)
+- [Collected Datasets](#collected-datasets)
+- [Project Progress](#project-progress)
+- [License](#license)
+- [Folder Structure](#folder-structure)
+- [Streamlit App Structure](#streamlit-app-structure)
+
 # ML Results Summary
 
 For a detailed view of the complete ML results, please visit [Full ML Results](https://github.com/Cfg-data/final-project/blob/master/ML_results.md).
@@ -167,6 +174,15 @@ For a detailed view of the complete ML results, please visit [Full ML Results](h
 - The low accuracy within a tolerance of 0.1 suggests room for further improvement, potentially through **model tuning** or exploring different **regression models**.
 
 ---
+
+- [Project Overview](#project-overview)
+- [EDA Results Summary](#EDA-results-summary)
+- [ML Results Summary](#ML-results-summary)
+- [Collected Datasets](#collected-datasets)
+- [Project Progress](#project-progress)
+- [License](#license)
+- [Folder Structure](#folder-structure)
+- [Streamlit App Structure](#streamlit-app-structure)
 
 # Final Recommendations:
 
@@ -222,6 +238,15 @@ For a detailed view of the complete ML results, please visit [Full ML Results](h
 - Urge increased financing for education in low-income and conflict-affected regions.
 - Support innovative financing mechanisms like education bonds and public-private partnerships.
 
+- [Project Overview](#project-overview)
+- [EDA Results Summary](#EDA-results-summary)
+- [ML Results Summary](#ML-results-summary)
+- [Policy Recommendations](#policy-recommendations)
+- [Project Progress](#project-progress)
+- [License](#license)
+- [Folder Structure](#folder-structure)
+- [Streamlit App Structure](#streamlit-app-structure)
+
 ## Collected Datasets
 
 The following datasets have been collected from UNDATA:
@@ -249,6 +274,19 @@ The following datasets have been collected from UNDATA:
   Identified as UNdata_Export_20241213_140703208 in the files.
 - **[Youth Literacy Rate, Population 15-24 Years, Gender Parity Index (GPI)](https://data.un.org/Data.aspx?d=UNESCO&f=series%3aLR_AG15T24_GPI)**  
   Identified as UNdata_Export_20241213_140708283 in the files.
+
+## License
+
+This project is based on publicly available data from UNDATA. Please refer to the [UN Data Usage Policy](https://data.un.org/Usage.aspx) for licensing and attribution information.
+
+- [Project Overview](#project-overview)
+- [EDA Results Summary](#EDA-results-summary)
+- [ML Results Summary](#ML-results-summary)
+- [Policy Recommendations](#policy-recommendations)
+- [Collected Datasets](#collected-datasets)
+- [License](#license)
+- [Folder Structure](#folder-structure)
+- [Streamlit App Structure](#streamlit-app-structure)
 
 ## Project Progress
 
@@ -366,9 +404,14 @@ The following datasets have been collected from UNDATA:
 10. Decide main steps.
 11. Finish presentation.
 
-## License
-
-This project is based on publicly available data from UNDATA. Please refer to the [UN Data Usage Policy](https://data.un.org/Usage.aspx) for licensing and attribution information.
+- [Project Overview](#project-overview)
+- [EDA Results Summary](#EDA-results-summary)
+- [ML Results Summary](#ML-results-summary)
+- [Policy Recommendations](#policy-recommendations)
+- [Collected Datasets](#collected-datasets)
+- [Project Progress](#project-progress)
+- [License](#license)
+- [Streamlit App Structure](#streamlit-app-structure)
 
 ## Folder Structure
 
@@ -395,10 +438,18 @@ The project is organized into the following folders:
     - `final`
 - **`mysql_scripts`**: Collects MySQL scripts and tables created for the project directly in MySQL Workbench.
 - **`app_files`**: Contains all the files that pertain to the Streamlit app written for the project.
-- **`tableau`**: Tableau visualizations created for the project in PDF form for ease of reading.
 - **`slides`**: Presentation PDF for ease of view.
 
-## Streamlit App
+- [Project Overview](#project-overview)
+- [EDA Results Summary](#EDA-results-summary)
+- [ML Results Summary](#ML-results-summary)
+- [Policy Recommendations](#policy-recommendations)
+- [Collected Datasets](#collected-datasets)
+- [Project Progress](#project-progress)
+- [License](#license)
+- [Folder Structure](#folder-structure)
+
+## Streamlit App Structure
 
 The Streamlit app is structured as follows:
 

@@ -319,7 +319,7 @@ This comparison provides valuable insights into the expenditure priorities and t
 
 ## Teacher Data (2005-2022)
 
-![Number of teachers at different education levels over time](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/qualified_teachers_over_time.png)
+![Number of teachers at different education levels over time](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/teachers_over_time.png)
 ![Teachers with minimum qualifications at different education levels over time](https://github.com/Cfg-data/final-project/blob/master/usable_notebooks/full_analysis/qualified_teachers_over_time.png)
 
 | Year       | Teachers at Primary Level | Teachers at Lower Secondary Level | Teachers at Upper Secondary Level | Teachers with Minimum Required Qualifications at Primary Level | Teachers with Minimum Required Qualifications at Lower Secondary Level | Teachers with Minimum Required Qualifications at Upper Secondary Level |
