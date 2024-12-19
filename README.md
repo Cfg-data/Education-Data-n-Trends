@@ -141,83 +141,103 @@ The following datasets have been collected from UNDATA:
 ## Project Progress
 
 ### Handling Data:
-1. Changing column names
-2. Dropping rows with index 0 (which contained all the column names)
-3. Looking for null values
-4. Describing data by Region Code and Value
-5. Getting all unique values
-6. Filling null values with mode in the "Footnotes" column
-7. Gathering further data
-8. Changing and normalizing format
-9. Filtering dataset for the regions needed
-10. Grouping only for the years with the largest amount of data for the biggest number of countries kept
-11. Repeating step 10 for the regions
-12. Renaming the files
-13. Loading files into a Jupyter notebook, running a correlation matrix for each variable, making sure all NaN values are filled with 0
-14. Running several figures for the various variables by year, mostly bar plots and violin plots (disregarding 0 values using Seaborn and Plotly)
+1. Change column names.
+2. Drop rows with index 0 (which contained all the column names).
+3. Look for null values.
+4. Describe data by Region Code and Value.
+5. Get all unique values.
+6. Fill null values with mode in the "Footnotes" column.
+7. Gather further data.
+8. Change and normalize format.
+9. Filter dataset for the regions needed.
+10. Group only for the years with the largest amount of data for the largest number of countries kept.
+11. Repeat step 10 for the regions.
+12. Rename the files.
+13. Load files into a Jupyter notebook, run a correlation matrix for each variable, making sure all NaN values are filled with 0.
+14. Run several figures for the various variables by year, mostly bar plots and violin plots (disregarding 0 values using Seaborn and Plotly).
 
 ---
 
 ### Preliminary EDA:
-- Started EDA with **EDA_countries** Jupyter notebook
-- Placed all the formatted CSV dataframes
-- Merged dataframes
-- Created a preliminary correlation matrix
-- Proceeded with analysis and description of relevant columns into a summary table
-- Output the summary table into a CSV file
-- Created violin and box plots
-- Made more visualizations using Seaborn and Matplotlib
-- Created a line plot for enrollment trends
-- Moved on to more complex EDA
+1. Started EDA with **EDA_countries** Jupyter notebook.
+2. Placed all the formatted CSV dataframes.
+3. Merged dataframes.
+4. Created a preliminary correlation matrix.
+5. Proceeded with analysis and description of relevant columns into a summary table.
+6. Output the summary table into a CSV file.
+7. Created violin and box plots.
+8. Made more visualizations using Seaborn and Matplotlib.
+9. Created a line plot for enrollment trends.
+10. Moved on to more complex EDA.
 
 ---
 
 ### Complex EDA:
 (All of the relevant results are available in [Full EDA Results](https://raw.githubusercontent.com/Cfg-data/final-project/refs/heads/master/EDA_results.md))
 
-- Created a new EDA notebook: **full_analytics**
-- Loaded only the merged CSV and checked for data types, null values, and duplicates
-- Made a summary table and a categorical summary
-- Plotted all the enrollment trend lines and one congregated clean plot with all of them together
-- Made a trend table and interpreted the results
-- Created a bar chart for staff compensation as expenditure data
-- Created two more charts with better views of the relevant data
-- Made a comparison of expenditure data by country (region)
-- Plotted a new correlation matrix for the countries being analyzed
-- Created a histogram for teacher distribution by education level
-- Made line plots for teacher distribution by level and year, and also for qualifications
-- Created a table to iterate on the data for the analytics file
-- Made an enrollment ratio plot
-- Plotted a graph to detect outliers
-- Created aggregate tables (only kept one in the file)
-- Made comparison scatter plots between expenditure and enrollment ratios, using only the aggregate data
-- Created a missing data matrix
+1. Created a new EDA notebook: **full_analytics**.
+2. Loaded only the merged CSV and checked for data types, null values, and duplicates.
+3. Made a summary table and a categorical summary.
+4. Plotted all the enrollment trend lines and one congregated clean plot with all of them together.
+5. Made a trend table and interpreted the results.
+6. Created a bar chart for staff compensation as expenditure data.
+7. Created two more charts with better views of the relevant data.
+8. Made a comparison of expenditure data by country (region).
+9. Plotted a new correlation matrix for the countries being analyzed.
+10. Created a histogram for teacher distribution by education level.
+11. Made line plots for teacher distribution by level and year, and also for qualifications.
+12. Created a table to iterate on the data for the analytics file.
+13. Made an enrollment ratio plot.
+14. Plotted a graph to detect outliers.
+15. Created aggregate tables (only kept one in the file).
+16. Made comparison scatter plots between expenditure and enrollment ratios, using only the aggregate data.
+17. Created a missing data matrix.
 
 ---
 
 ### MySQL Progress:
-- Database creation in Python connector attempted but unsuccessful
-- Proceeded to create the database in MySQL Workbench directly
-- Proceeding with each .csv file
-- Creating a table for countries and for years separately, to relate all tables to each other
-- Aggregating data from existing tables into a full table with only the chosen list of countries
+1. Database creation in Python connector attempted but unsuccessful.
+2. Proceeded to create the database in MySQL Workbench directly.
+3. Proceeding with each .csv file.
+4. Creating a table for countries and for years separately, to relate all tables to each other.
+5. Aggregating data from existing tables into a full table with only the chosen list of countries.
+
+---
+
+### Machine Learning Models:
+1. Make a list of models and run regressor and classifier versions whenever possible.
+2. Decide a target variable.
+3. Start running various models test by test.
+4. Implement features into the models that run better.
+5. Run both types of KNN.
+6. Try multiple splits.
+7. Get a confusion matrix.
+8. Choose the splits to continue with and scaling types.
+9. Apply grid search.
+10. Apply SMOTE to KNN classifier.
+11. Use random oversampler.
+12. Use class weights.
+13. Try again with KNN regressor.
+14. Arrive at no conclusion.
+15. Try regression ensemble models.
+16. Attempt random forest regressor.
+17. Attempt stacking regressor.
 
 ---
 
 ### Streamlit App Development:
-
-1. Decided on a schematic for the app
-2. Created a Jupyter notebook for function aggregation and to keep things organized
-3. Set up the necessary folders for project structure
-4. Started creating functions for the app
-5. Tested the app at multiple stages
-6. Created pages for the app
-7. Conducted repeated testing at each step of development
-8. Continued proceeding with the EDA
-9. Decided to create an MD file to make it easier to import information into the EDA page
-10. Created an EDA page in the app
-11. Imported information into the app in phases
-12. Tested the app between each phase of information import
+1. Decide on a schematic.
+2. Create a Jupyter notebook for function aggregation and to keep things organized.
+3. Make the folders.
+4. Start creating functions.
+5. Test app.
+6. Create pages.
+7. Test multiple times at every step.
+8. Keep proceeding with EDA.
+9. Decide to make an md file to make it easier to import information into the EDA page.
+10. Make an EDA page.
+11. Import information in phases.
+12. Test between phases.
 
 ## License
 

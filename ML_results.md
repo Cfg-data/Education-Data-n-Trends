@@ -171,3 +171,196 @@ For KNN Regressor, the mean squared error (MSE) decreases with a larger training
 ## Summary:
 - For **classification tasks**, the **70/30 split with MinMaxScaler** is optimal.
 - For **regression tasks**, the **60/40 split with StandardScaler** offers the best performance.
+
+# KNN Model Evaluation Results
+
+## 1. **KNN Classifier - Performance**
+
+### **Train-Test Split: 70/30 (Best Split)**
+- **Scaler Used**: MinMaxScaler
+- **KNN Classifier Accuracy**: 52.94%
+
+### **Classification Report:**
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| 2005  | 0.67      | 0.50   | 0.57     | 8       |
+| 2010  | 0.47      | 0.70   | 0.56     | 10      |
+| 2015  | 0.67      | 0.33   | 0.44     | 12      |
+| 2021  | 1.00      | 0.67   | 0.80     | 3       |
+| 2022  | 0.20      | 1.00   | 0.33     | 1       |
+
+- **Overall Accuracy**: 53%
+- **Macro Average**: 
+  - Precision: 0.60
+  - Recall: 0.64
+  - F1-Score: 0.54
+- **Weighted Average**: 
+  - Precision: 0.62
+  - Recall: 0.53
+  - F1-Score: 0.54
+
+### **Interpretation of Classifier Performance:**
+- The **KNN Classifier** shows mixed performance across different classes, with significant imbalances in precision and recall. While it performs well for certain classes like 2021 (perfect precision of 1.00), its recall for other classes, particularly 2015, is low.
+- The overall accuracy is 53%, which, while not exceptional, is an improvement over earlier attempts (35.71% with 50/50 split). The **MinMaxScaler** still outperforms the **StandardScaler**.
+- The model needs further refinement, potentially through tuning hyperparameters or using more advanced techniques such as oversampling for imbalanced classes.
+
+---
+
+## 2. **KNN Regressor - Performance**
+
+### **Train-Test Split: 60/40 (Best Split)**
+- **Scaler Used**: StandardScaler
+- **KNN Regressor Mean Squared Error**: 16.68
+- **KNN Regressor Mean Absolute Error**: 3.14
+- **KNN Regressor R-Squared**: 0.34
+- **Accuracy (within tolerance of 0.1)**: 2.22%
+
+### **Interpretation of Regressor Performance:**
+- The **KNN Regressor** shows decent results with a Mean Squared Error (MSE) of 16.68, which suggests moderate prediction errors.
+- The **R-Squared value of 0.34** indicates that the model explains about 34% of the variance in the data, which is modest. 
+- The **accuracy within a tolerance of 0.1** is low at 2.22%, meaning that the predictions are not closely aligned with the true values within this margin.
+- These results imply that while the regressor is functioning reasonably well, it can likely benefit from improvements such as feature engineering or tuning the model's hyperparameters to reduce error further.
+
+---
+
+## 3. **Summary and Conclusions**
+
+### **KNN Classifier Results:**
+- The **best train-test split** for classification tasks is **70/30** with the **MinMaxScaler**, achieving the highest accuracy of **52.94%**.
+- The **classification report** shows varying performance across different classes, with precision and recall issues, particularly for certain classes like 2015 and 2022.
+- Further improvements can be made with better handling of class imbalances or tuning the model.
+
+### **KNN Regressor Results:**
+- The **best train-test split** for regression tasks is **60/40** with the **StandardScaler**, achieving the lowest MSE of **16.68**.
+- The **R-squared value** of **0.34** indicates that the model has a moderate ability to explain the variance, but there is room for improvement in predictive accuracy.
+- The accuracy within a tolerance of 0.1 (2.22%) is very low, which suggests that further tuning and improvements are required for more accurate predictions.
+
+### **Final Recommendations:**
+- For **classification** tasks, the **70/30 split** with **MinMaxScaler** is optimal, but further class imbalance handling may be necessary to improve recall and precision for underperforming classes.
+- For **regression** tasks, the **60/40 split** with **StandardScaler** should be maintained, but more tuning is needed to reduce the error metrics and increase model accuracy.
+
+### KNN Classifier:
+
+#### KNN Classifier with StandardScaler - Classification Report:
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| 8     | 0.00      | 0.00   | 0.00     | 0       |
+| 40    | 0.00      | 0.00   | 0.00     | 2       |
+| 56    | 1.00      | 1.00   | 1.00     | 1       |
+| 100   | 0.00      | 0.00   | 0.00     | 1       |
+| 112   | 0.00      | 0.00   | 0.00     | 0       |
+| 124   | 0.00      | 0.00   | 0.00     | 1       |
+| 191   | 0.20      | 1.00   | 0.33     | 1       |
+| 196   | 0.33      | 1.00   | 0.50     | 1       |
+| 233   | 0.00      | 0.00   | 0.00     | 1       |
+| 246   | 0.00      | 0.00   | 0.00     | 1       |
+| 276   | 0.00      | 0.00   | 0.00     | 0       |
+| 344   | 1.00      | 1.00   | 1.00     | 1       |
+| 348   | 0.00      | 0.00   | 0.00     | 1       |
+| 352   | 1.00      | 1.00   | 1.00     | 1       |
+| 372   | 0.00      | 0.00   | 0.00     | 2       |
+| 380   | 0.00      | 0.00   | 0.00     | 1       |
+| 410   | 0.00      | 0.00   | 0.00     | 1       |
+| 428   | 0.00      | 0.00   | 0.00     | 0       |
+| 440   | 0.00      | 0.00   | 0.00     | 2       |
+| 446   | 0.00      | 0.00   | 0.00     | 1       |
+| 484   | 0.00      | 0.00   | 0.00     | 2       |
+| 528   | 0.00      | 0.00   | 0.00     | 1       |
+| 578   | 0.00      | 0.00   | 0.00     | 1       |
+| 616   | 0.00      | 0.00   | 0.00     | 2       |
+| 620   | 0.00      | 0.00   | 0.00     | 3       |
+| 642   | 0.00      | 0.00   | 0.00     | 2       |
+| 674   | 0.00      | 0.00   | 0.00     | 1       |
+| 703   | 0.00      | 0.00   | 0.00     | 2       |
+| 705   | 0.00      | 0.00   | 0.00     | 0       |
+| 724   | 0.00      | 0.00   | 0.00     | 1       |
+| 752   | 0.00      | 0.00   | 0.00     | 0       |
+| 826   | 0.00      | 0.00   | 0.00     | 0       |
+
+- **Accuracy**: 14.71%
+- **Macro Average**:
+  - Precision: 0.11
+  - Recall: 0.16
+  - F1-Score: 0.12
+- **Weighted Average**:
+  - Precision: 0.10
+  - Recall: 0.15
+  - F1-Score: 0.11
+
+#### KNN Classifier with MinMaxScaler - Classification Report:
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| 40    | 0.00      | 0.00   | 0.00     | 2       |
+| 56    | 1.00      | 1.00   | 1.00     | 1       |
+| 100   | 0.00      | 0.00   | 0.00     | 1       |
+| 112   | 0.00      | 0.00   | 0.00     | 0       |
+| 124   | 0.00      | 0.00   | 0.00     | 1       |
+| 191   | 0.00      | 0.00   | 0.00     | 1       |
+| 196   | 1.00      | 1.00   | 1.00     | 1       |
+| 203   | 0.00      | 0.00   | 0.00     | 0       |
+| 233   | 0.00      | 0.00   | 0.00     | 1       |
+| 246   | 0.00      | 0.00   | 0.00     | 1       |
+| 344   | 0.00      | 0.00   | 0.00     | 1       |
+| 348   | 0.00      | 0.00   | 0.00     | 1       |
+| 352   | 1.00      | 1.00   | 1.00     | 1       |
+| 372   | 0.00      | 0.00   | 0.00     | 2       |
+| 380   | 0.00      | 0.00   | 0.00     | 1       |
+| 410   | 0.00      | 0.00   | 0.00     | 1       |
+| 428   | 0.00      | 0.00   | 0.00     | 0       |
+| 440   | 0.00      | 0.00   | 0.00     | 2       |
+| 446   | 0.00      | 0.00   | 0.00     | 1       |
+| 484   | 0.00      | 0.00   | 0.00     | 2       |
+| 528   | 0.00      | 0.00   | 0.00     | 1       |
+| 554   | 0.00      | 0.00   | 0.00     | 0       |
+| 578   | 0.00      | 0.00   | 0.00     | 1       |
+| 616   | 0.00      | 0.00   | 0.00     | 2       |
+| 620   | 0.00      | 0.00   | 0.00     | 3       |
+| 642   | 0.00      | 0.00   | 0.00     | 2       |
+| 674   | 0.00      | 0.00   | 0.00     | 1       |
+| 703   | 0.00      | 0.00   | 0.00     | 2       |
+| 705   | 0.00      | 0.00   | 0.00     | 0       |
+| 724   | 0.00      | 0.00   | 0.00     | 1       |
+| 752   | 0.00      | 0.00   | 0.00     | 0       |
+| 826   | 0.00      | 0.00   | 0.00     | 0       |
+
+- **Accuracy**: 8.82%
+- **Macro Average**:
+  - Precision: 0.09
+  - Recall: 0.09
+  - F1-Score: 0.09
+- **Weighted Average**:
+  - Precision: 0.09
+  - Recall: 0.09
+  - F1-Score: 0.09
+
+---
+
+### KNN Regressor:
+
+#### KNN Regressor with StandardScaler - Report:
+- **Mean Squared Error (MSE)**: 16.68
+- **Mean Absolute Error (MAE)**: 3.14
+- **R-squared**: 0.34
+- **Accuracy (within tolerance of 0.1)**: 2.22%
+
+#### KNN Regressor with MinMaxScaler - Report:
+- **Mean Squared Error (MSE)**: 17.93
+- **Mean Absolute Error (MAE)**: 3.32
+- **R-squared**: 0.29
+- **Accuracy (within tolerance of 0.1)**: 2.22%
+
+---
+
+## Summary of Findings:
+
+### KNN Classifier:
+- **StandardScaler**: Accuracy is 14.71%, and the model struggles with most classes, particularly those with few instances. Some classes have perfect precision and recall, but these are rare and likely indicate overfitting.
+- **MinMaxScaler**: Accuracy is reduced to 8.82%, indicating that MinMaxScaler does not improve the model's performance significantly. The model continues to underperform across most classes.
+
+### KNN Regressor:
+- **StandardScaler**: Shows moderate performance with a reasonable MSE of 16.68 and an R-squared of 0.34, but the accuracy within a tolerance of 0.1 is very low at 2.22%.
+- **MinMaxScaler**: Performs slightly worse than StandardScaler, with a higher MSE of 17.93 and a lower R-squared of 0.29, suggesting that MinMaxScaler may not be suitable for this regression task.
+
+### Final Recommendations:
+- **For Classification**: The KNN model struggles with both StandardScaler and MinMaxScaler. Data preprocessing, such as handling class imbalance, and hyperparameter tuning are recommended for improving performance.
+- **For Regression**: The KNN Regressor with StandardScaler performs slightly better than with MinMaxScaler. Further model tuning and possibly exploring alternative regression models may help achieve better results.
