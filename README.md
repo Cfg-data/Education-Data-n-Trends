@@ -5,6 +5,7 @@
 - [Project Overview](#project-overview)
 - [EDA Results Summary](#EDA-results-summary)
 - [ML Results Summary](#ML-results-summary)
+- [Policy Recommendations](#policy-recommendations)
 - [Collected Datasets](#collected-datasets)
 - [Project Progress](#project-progress)
 - [License](#license)
@@ -174,6 +175,52 @@ For a detailed view of the complete ML results, please visit [Full ML Results](h
 
 ### For Regression:
 - Continue with the **StandardScaler** for the **KNN regressor** but explore **model refinements** and **hyperparameter tuning** to reduce error and improve accuracy.
+
+# Policy Recommendations
+
+**Caveat:** Mock UN recommendations created by Ceci for this project as per the analysis done.
+
+# [Full Recommendations Page](https://github.com/Cfg-data/final-project/blob/master/recommendations_page.md)
+
+## 1. Enhance Educational Data Reporting and Accessibility
+- Standardize data collection and reporting systems across countries.
+- Encourage international organizations to support low-income regions with data reporting.
+
+## 2. Invest in Teacher Training and Professional Development
+- Focus on improving teacher training, especially in developing regions.
+- Promote international partnerships to share best practices and provide financial incentives for teachers.
+
+## 3. Address the Digital Divide through Technology Investment
+- Promote universal access to digital tools and infrastructure in secondary education.
+- Collaborate with the private sector to support digital literacy programs.
+
+## 4. Promote Gender Parity in Secondary and Upper Secondary Education
+- Strengthen initiatives to reduce gender disparities in secondary education.
+- Implement scholarships, mentorship, and gender-sensitive policies to support female students.
+
+## 5. Address Teacher Shortages in Low-Income and Conflict-Affected Regions
+- Increase teacher recruitment and professional development in underserved areas.
+- Provide targeted support through international partnerships.
+
+## 6. Promote Balanced Investment in Education Infrastructure
+- Allocate balanced public education expenditure toward both current costs and long-term infrastructure investments.
+- Urge international financial institutions to prioritize infrastructure in low- and middle-income countries.
+
+## 7. Support Long-Term Strategic Planning for Education Systems
+- Advocate for sustainable education policies focusing on teacher quality, gender equality, and infrastructure.
+- Align national education plans with global frameworks such as the SDGs and Education 2030 Agenda.
+
+## 8. Facilitate International Collaboration and Knowledge Sharing
+- Foster global partnerships for knowledge exchange to address common educational challenges.
+- Support multilateral platforms for sharing research and scaling successful initiatives.
+
+## 9. Develop Targeted Programs for Vulnerable Regions
+- Implement region-specific programs for areas affected by economic instability, conflict, or political challenges.
+- Mobilize funding for mobile schools, digital learning platforms, and community-based education solutions.
+
+## 10. Enhance International Investment in Education
+- Urge increased financing for education in low-income and conflict-affected regions.
+- Support innovative financing mechanisms like education bonds and public-private partnerships.
 
 ## Collected Datasets
 

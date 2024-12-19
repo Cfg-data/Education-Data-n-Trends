@@ -36,7 +36,7 @@ def show(data):
 
     # Additional Sections at the End
     st.write("### Presentation can be found on Canva")
-    st.markdown("[View the Presentation on Canva](https://www.canva.com/design/DAGZiN-LC9E/Qxz0INeyReYMsoqo9KbSFw/edit)")
+    st.markdown("[View the Presentation on Canva](https://www.canva.com/design/DAGZiN-LC9E/Dw8v_5mtFmpd3hJkKuGswA/view?utm_content=DAGZiN-LC9E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8780bf19c3)")
     
     st.write("### Organization made using a Kanban Workspace")
     st.markdown("[Trello Daily Task Planner](https://trello.com/b/MKJuGmnZ/final-project-daily-task-planner)")
