@@ -22,189 +22,84 @@ For a detailed view of the complete EDA results, please visit [Full EDA Results]
 
 ---
 
-#### **1. Year**
-The dataset spans from **2005 to 2022**, with a concentration of data points around the early 2010s (**average year: 2012.96**). The focus is on mostly high-income countries, suggesting relatively stable education systems during this period, with trends influenced by global events such as the **2008 global financial crisis**. This period likely reflects both stable educational policies and challenges caused by economic disruptions.
+### **1. Year**
+- **Span**: 2005–2022, with an average focus year of 2012.96.
+- **Context**: Concentration in high-income countries, reflecting trends shaped by events like the 2008 global financial crisis.
 
-#### **2. Region/Country/Area**
-- **High-Income Countries**: The dataset includes countries from Western Europe (e.g., Germany, France, Sweden, United Kingdom, United States) and advanced economies in Asia (e.g., Japan, Republic of Korea).
-- **Data Gaps**: Some countries (e.g., Albania, Gibraltar, Montenegro, Republic of Moldova) have fewer data points, possibly due to challenges in educational reporting or lower reporting standards.
-- **High Reporting Frequency**: Countries like **China** (mainland and Hong Kong), **Russia**, **India**, and the **United States** show higher data frequency, possibly reflecting better data availability and more comprehensive educational statistics systems.
+### **2. Region/Country/Area**
+- **High-Income Coverage**: Strong data for countries like the U.S., Germany, and Japan.
+- **Data Gaps**: Sparse data from Albania, Moldova, and Montenegro.
+- **Frequency Leaders**: High reporting in China, U.S., India, and Russia.
 
-#### **3. All Staff Compensation as % of Total Expenditure in Public Institutions (%)**
-- **High Proportion in High-Income Countries**: The average percentage of **staff compensation** across countries is **50.77%**, which is relatively high in developed economies where teacher salaries are a large part of the education budget (e.g., **United States**, **United Kingdom**, **Germany**).
-- **Wide Variation**: Some countries, particularly smaller or developing economies (e.g., **Albania**, **Republic of Moldova**), report **0%** staff compensation, which may reflect either alternative funding structures or lack of comprehensive educational expenditure reporting.
+### **3. Staff Compensation (% of Public Expenditure)**
+- **Average**: 50.77%, higher in developed economies.
+- **Outliers**: Some developing nations report 0%, indicating reporting gaps or alternative funding.
 
-#### **4. Basic Access to Computers by Level of Education**
-- **Access Gap**: The dataset shows significant disparity in **computer access** by education level:
-  - **Primary Level**: 44.6% access
-  - **Lower Secondary Level**: 33.3% access
-  - **Upper Secondary Level**: 34.1% access
-  This digital divide underscores the inequality in technology access, with high-income countries likely offering near-complete access, while others lag, particularly in **Albania** and **Moldova**.
+### **4. Access to Computers by Education Level**
+- **Disparities**: 
+  - Primary: 44.6% access.
+  - Lower Secondary: 33.3%.
+  - Upper Secondary: 34.1%.
+- **Digital Divide**: High-income nations offer near-universal access; gaps persist in developing regions.
 
-#### **5. Capital Expenditure as % of Total Expenditure in Public Institutions (%)**
-- **Low Average Capital Expenditure (6.09%)**: Many countries focus more on operational (current) expenditure rather than on capital expenditure (e.g., infrastructure). 
-- **Developed Economies** like **Germany**, **France**, and **United States** are expected to have higher capital expenditure due to larger investments in educational infrastructure, while smaller or lower-income regions like **Moldova** and **Albania** allocate less.
+### **5. Capital Expenditure (% of Total Public Education Spending)**
+- **Low Average**: 6.09%, with a focus on operational costs over infrastructure.
+- **Regional Variance**: Higher in developed nations; limited in smaller economies.
 
-#### **6. Current Expenditure Other Than Staff Compensation**
-- **Moderate Share (17.08%)**: Current operational costs (excluding staff compensation) form a significant share of the budget in most regions. High-income countries like the **United States** and **Germany** likely have higher operational costs compared to developing countries that allocate less to infrastructure and resources.
+### **6. Other Current Expenditures**
+- **Average**: 17.08%, reflecting operational cost allocations outside staff compensation.
 
-#### **7. Gross Enrollment Ratios (GER) by Education Level**
-- **High GERs in Primary and Secondary Education**: Developed countries consistently show near-universal enrollment rates, while some developing countries (e.g., **Republic of Moldova**, **Albania**) might face challenges in ensuring secondary education access for all.
-- **Gender Parity**: There is a slight gender imbalance in enrollment at lower secondary and primary levels (favoring boys), but **upper secondary** education shows near-gender parity or a slight advantage for girls, especially in developed countries.
+### **7. Gross Enrollment Ratios (GER)**
+- **Primary and Secondary**: Near-universal GER in developed nations; challenges in developing regions.
+- **Gender Trends**: Slight male advantage in early levels, with upper secondary education showing parity.
 
-#### **8. Ratio of Girls to Boys in Education**
-- **Gender Parity**: The ratio of girls to boys is close to **1** across all education levels. At **upper secondary**, there is a slight trend toward more girls enrolled, reflecting increasing opportunities and better access for girls in many developed countries like **Sweden**, **Finland**, and **Norway**.
-- **Gender Imbalance in Some Regions**: Some developing countries or regions with educational disparities may still show lower female enrollment at lower secondary and primary levels.
+### **8. Ratio of Girls to Boys**
+- **Parity**: Near-equal ratios across levels, with slight advantages for girls in upper secondary in developed regions.
 
-#### **9. Teachers by Education Level**
-- **Disparities in Teacher Availability**: There are significant disparities in teacher numbers across regions. Developed countries like **United States**, **Germany**, and **United Kingdom** report higher teacher availability, while smaller or developing nations (e.g., **Albania**, **Moldova**) show lower numbers, possibly due to underreporting or teacher shortages.
-- **Teacher Shortages**: The low mean number of teachers at the **lower secondary** (6.63) and **upper secondary** levels (1.16) reflects a significant shortage, especially in developing regions.
+### **9. Teachers by Education Level**
+- **Shortages**: Noticeable in lower secondary and upper secondary levels, particularly in under-resourced areas.
 
-#### **10. Teachers with Minimum Required Qualifications**
-- **Qualified Teacher Proportion**: A relatively low percentage of teachers in some countries meet the minimum qualification standards, especially at the **secondary education** levels. This suggests challenges in teacher training, particularly in developing countries.
-- **Higher Qualification Standards in Developed Countries**: Countries like **Germany**, **United States**, and **Sweden** likely have higher standards for teacher qualifications, though even in these countries, gaps exist.
+### **10. Teacher Qualifications**
+- **Regional Disparities**: Higher qualification standards in developed countries, with gaps in developing nations.
 
----
-
-### **Summary of Key Trends**
-
-1. **Digital Divide**: There is a significant gap in access to computers, with high-income countries having more complete access compared to lower-income regions, particularly in **lower secondary** and **upper secondary** education.
-2. **Investment Focus**: Many countries prioritize **current expenditures** (e.g., staff salaries) over **capital expenditures** (e.g., infrastructure), which may impact long-term educational development.
-3. **Teacher Availability and Qualification**: Teacher shortages and qualification gaps are evident, particularly at the **secondary education levels**, with developing regions facing the most significant challenges.
-4. **Gender Parity**: Generally, there is good **gender parity** in enrollment across all education levels, though females saw a decline in **upper secondary enrollment** compared to males by 2022.
-5. **Geographical Inequality**: The dataset shows significant disparities between **high-income countries** and **low-income or smaller regions**. Developed countries tend to have better teacher availability, higher qualification standards, and more consistent enrollment rates.
-
-This analysis highlights the uneven distribution of educational resources, challenges in teacher training and availability, and the ongoing issue of digital inequality in education systems worldwide.
-
----
-
-### **Trends and Key Observations from Gross Enrollment Ratios (GER)**
-
-#### **Primary Education (Female and Male)**
-- **Stable Trend**: Enrollment ratios for both **female** and **male** students in **primary education** remain close to 100% from 2005 to 2022, with a slight decline.
-  - **Female GER**: From 102.66% in 2005 to 97.88% in 2022.
-  - **Male GER**: From 104% in 2005 to 98.36% in 2022.
-- **Interpretation**: Indicates near-universal access to primary education, with a slight decline possibly linked to demographic or policy shifts.
-
-#### **Lower Secondary Education (Female and Male)**
-- **Decline in Enrollment**: Both **female** and **male** enrollment at the **lower secondary level** decreased slightly over time.
-  - **Female GER**: From 105.93% in 2005 to 88.23% in 2022.
-  - **Male GER**: From 105.51% in 2005 to 90.43% in 2022.
-- **Interpretation**: The decline suggests challenges in maintaining secondary education enrollment, possibly due to economic, infrastructural, or policy-related factors.
-
-#### **Upper Secondary Education (Female and Male)**
-- **Significant Fluctuations**: **Upper secondary enrollment** shows sharp changes.
-  - **Female GER**: Peaked at 110% in 2015, then dropped to 92.07% by 2022.
-  - **Male GER**: Peaked at 108.24% in 2015, dropping to 93.64% in 2022.
-- **Interpretation**: This fluctuation could reflect shifting access or economic influences affecting enrollment at the upper secondary level.
-
----
-
-### **Gender Parity and Regional Insights**
-
-- **Gender Parity**: **Gender parity** is generally maintained across primary and secondary education, with slight gender imbalances favoring **boys** at lower secondary and **males** maintaining higher enrollment in upper secondary by 2022.
-- **Regional Disparities**: **Developed countries** show stable enrollment trends, while **low-income countries** face more significant challenges, particularly in **secondary and upper secondary education**.
-
----
-
-### **Conclusion**
-
-- **Primary Education**: Near-universal enrollment worldwide, though a slight decline is noted.
-- **Secondary Education**: Declining enrollment at the **lower secondary** level and fluctuations at the **upper secondary** level.
-- **Gender Trends**: Gender parity exists, but **female enrollment** at the upper secondary level has declined slightly relative to males by 2022.
-- **Geographical Disparities**: Developed countries show robust educational systems, while regions with fewer resources struggle to maintain enrollment and teacher availability.
-
-This dataset underscores the importance of addressing **regional disparities**, improving **teacher training**, and addressing the **digital divide** to ensure equitable access to education globally.
-
-- [Project Overview](#project-overview)
-- [EDA Results Summary](#EDA-results-summary)
-- [Policy Recommendations](#policy-recommendations)
-- [Collected Datasets](#collected-datasets)
-- [Project Progress](#project-progress)
-- [License](#license)
-- [Folder Structure](#folder-structure)
-- [Streamlit App Structure](#streamlit-app-structure)
+### **Key Trends**
+1. Digital inequality persists.
+2. Focus remains on operational costs over infrastructure.
+3. Teacher availability and qualifications vary significantly.
+4. Gender parity is largely achieved in enrollment.
+5. Significant disparities exist between developed and developing regions.
 
 # ML Results Summary
 
 For a detailed view of the complete ML results, please visit [Full ML Results](https://github.com/Cfg-data/final-project/blob/master/ML_results.md).
 
-## **KNN Classifier and Regressor Performance**
+## **KNN Model Performance**
+### Classifier
+- **Best Setup**: 70/30 split, MinMaxScaler, 52.94% accuracy.
+- **Challenges**: Struggles with class imbalances, low recall and F1-scores.
 
-### **Classifier Performance**
-- **Best Configuration**: 
-  - **Train-Test Split**: 70/30
-  - **Scaler**: MinMaxScaler
-  - **Accuracy**: 52.94%
-- **Key Observations**:
-  - The **MinMaxScaler** consistently outperforms the **StandardScaler** across different splits.
-  - Classification performance struggles with imbalanced classes, evident from low recall and F1-scores for many classes.
-  - Certain rare classes show perfect scores due to overfitting on minority data.
+### Regressor
+- **Best Setup**: 60/40 split, StandardScaler, MSE of 16.68.
+- **Insights**: R-squared of 0.34; improvements needed in predictive accuracy.
 
-### **Regressor Performance**
-- **Best Configuration**:
-  - **Train-Test Split**: 60/40
-  - **Scaler**: StandardScaler
-  - **Mean Squared Error (MSE)**: 16.68
-- **Key Observations**:
-  - Regression performance improves with larger training sizes, but predictive accuracy within a tight tolerance is very low.
-  - **R-squared** value of 0.34 indicates moderate variance explanation, with room for improvement.
+## **Advanced Models**
+- **Random Forest vs. Stacked Regressor**:
+  - Both achieve **R-squared = 0.47**.
+  - **MSE**: 13.41 (Random Forest), 13.26 (Stacked Regressor).
+  - Accuracy within tight tolerance: 0%.
 
----
+## **Improvement Recommendations**
+1. **For Classification**:
+   - Address imbalances using techniques like SMOTE.
+   - Explore advanced classifiers (e.g., Gradient Boosting).
+2. **For Regression**:
+   - Improve feature engineering and try models like LightGBM.
+3. **For Ensemble Models**:
+   - Optimize hyperparameters and base model diversity.
 
-## **Advanced Model Comparisons**
-
-### **Random Forest Regressor vs. Stacked Regressor**
-- **Performance Metrics**:
-  - Both achieve **R-squared = 0.47**, explaining 47% of variance.
-  - Mean Squared Error (MSE): 13.41 (Random Forest) vs. 13.26 (Stacked Regressor).
-  - Accuracy within tolerance (±0.1): 0% for both.
-- **Insights**:
-  - Stacked Regressor showed marginally better performance but did not significantly outperform the Random Forest.
-  - Moderate performance suggests missing important features or needing more complex modeling.
-
----
-
-## **Techniques for Improvement**
-
-### **For KNN Models**:
-1. **Classification**:
-   - Address class imbalance using techniques like **SMOTE** or **RandomOverSampler**.
-   - Optimize hyperparameters (e.g., neighbors, distance metrics).
-   - Explore advanced classifiers like **Random Forests** or **Gradient Boosting**.
-2. **Regression**:
-   - Improve feature engineering to reduce MSE and enhance R-squared.
-   - Consider alternate models like **Gradient Boosting** or **LightGBM** for better non-linear relationship modeling.
-
-### **For Ensemble Models**:
-- Optimize hyperparameters for Random Forests and Stacked Regressors (e.g., number of trees, depth).
-- Experiment with diverse base models in Stacked Regressor for potential improvements.
-
----
-
-## **Final Recommendations**
-- For **classification**, the **70/30 split with MinMaxScaler** is optimal but requires balancing techniques to handle class imbalance effectively.
-- For **regression**, the **60/40 split with StandardScaler** works best; however, switching to advanced models like Gradient Boosting may yield better results.
-- Incorporate feature engineering, dimensionality reduction (e.g., PCA), and robust cross-validation to improve all models' performance.
-
----
-
-- [Project Overview](#project-overview)
-- [EDA Results Summary](#EDA-results-summary)
-- [ML Results Summary](#ML-results-summary)
-- [Collected Datasets](#collected-datasets)
-- [Project Progress](#project-progress)
-- [License](#license)
-- [Folder Structure](#folder-structure)
-- [Streamlit App Structure](#streamlit-app-structure)
-
-# Final Recommendations:
-
-### For Classification:
-- Focus on improving the handling of **class imbalances** and tuning the model for better **precision** and **recall**.
-
-### For Regression:
-- Continue with the **StandardScaler** for the **KNN regressor** but explore **model refinements** and **hyperparameter tuning** to reduce error and improve accuracy.
+## **Final Suggestions**
+- Focus on balancing datasets for classification models.
+- Refine regression models with advanced methodologies and robust cross-validation.
 
 # Policy Recommendations
 
@@ -252,15 +147,6 @@ For a detailed view of the complete Recommendations, please visit [Full Recommen
 - Urge increased financing for education in low-income and conflict-affected regions.
 - Support innovative financing mechanisms like education bonds and public-private partnerships.
 
-- [Project Overview](#project-overview)
-- [EDA Results Summary](#EDA-results-summary)
-- [ML Results Summary](#ML-results-summary)
-- [Policy Recommendations](#policy-recommendations)
-- [Project Progress](#project-progress)
-- [License](#license)
-- [Folder Structure](#folder-structure)
-- [Streamlit App Structure](#streamlit-app-structure)
-
 ## Collected Datasets
 
 The following datasets have been collected from UNDATA:
@@ -292,15 +178,6 @@ The following datasets have been collected from UNDATA:
 ## License
 
 This project is based on publicly available data from UNDATA. Please refer to the [UN Data Usage Policy](https://data.un.org/Usage.aspx) for licensing and attribution information.
-
-- [Project Overview](#project-overview)
-- [EDA Results Summary](#EDA-results-summary)
-- [ML Results Summary](#ML-results-summary)
-- [Policy Recommendations](#policy-recommendations)
-- [Collected Datasets](#collected-datasets)
-- [License](#license)
-- [Folder Structure](#folder-structure)
-- [Streamlit App Structure](#streamlit-app-structure)
 
 ## Project Progress
 
@@ -418,15 +295,6 @@ This project is based on publicly available data from UNDATA. Please refer to th
 10. Decide main steps.
 11. Finish presentation.
 
-- [Project Overview](#project-overview)
-- [EDA Results Summary](#EDA-results-summary)
-- [ML Results Summary](#ML-results-summary)
-- [Policy Recommendations](#policy-recommendations)
-- [Collected Datasets](#collected-datasets)
-- [Project Progress](#project-progress)
-- [License](#license)
-- [Streamlit App Structure](#streamlit-app-structure)
-
 ## Folder Structure
 
 The project is organized into the following folders:
@@ -453,15 +321,6 @@ The project is organized into the following folders:
 - **`mysql_scripts`**: Collects MySQL scripts and tables created for the project directly in MySQL Workbench.
 - **`app_files`**: Contains all the files that pertain to the Streamlit app written for the project.
 - **`slides`**: Presentation PDF for ease of view.
-
-- [Project Overview](#project-overview)
-- [EDA Results Summary](#EDA-results-summary)
-- [ML Results Summary](#ML-results-summary)
-- [Policy Recommendations](#policy-recommendations)
-- [Collected Datasets](#collected-datasets)
-- [Project Progress](#project-progress)
-- [License](#license)
-- [Folder Structure](#folder-structure)
 
 ## Streamlit App Structure
 
