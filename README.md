@@ -17,7 +17,7 @@
 This project involves analyzing educational data collected from the United Nations Data (UNDATA). The data covers various aspects of education, including gender ratios, public expenditure, access to computers, and teaching staff in different regions and countries. The datasets provided are from the *Statistical Yearbook* and are crucial for understanding trends and disparities in global education systems.
 
 ### Supporting Materials
-- **Presentation**: [Made using Canva](https://www.canva.com/design/DAGZiN-LC9E/Dw8v_5mtFmpd3hJkKuGswA/view?utm_content=DAGZiN-LC9E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8780bf19c3)
+- **Presentation**: [Made using Canva](https://education-data-and-trends-full.my.canva.site/)
 - **Kanban Board**: [Used for organization](https://trello.com/b/JQXi189u/kanban-board-final-project)
 - **Daily Task Planner Board**: [Used to keep on top of time management](https://trello.com/b/MKJuGmnZ/final-project-daily-task-planner)
 - **Application**: [Created using Streamlit to present findings](https://educationstudy.streamlit.app)
